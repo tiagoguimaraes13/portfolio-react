@@ -1,0 +1,1864 @@
+{
+  "Website language": {
+    "et": "Veebilehe keel",
+    "ru": "Язык сайта",
+    "fi": "Sivuston kieli",
+    "pt": "Idioma do site",
+    "fr": "Langue du site"
+  },
+  "Signature cut": {
+    "et": "Signatuurlõikus",
+    "ru": "Фирменная стрижка",
+    "fi": "Signature-leikkaus"
+  },
+  "A consultation, precision cut and a finish that feels like you.": {
+    "et": "Konsultatsioon, täpne lõikus ja just sulle sobiv viimistlus.",
+    "ru": "Консультация, точная стрижка и подходящая вам укладка.",
+    "fi": "Konsultaatio, tarkka leikkaus ja sinulle sopiva viimeistely."
+  },
+  "Cut & beard": {
+    "et": "Lõikus ja habe",
+    "ru": "Стрижка и борода",
+    "fi": "Leikkaus ja parta"
+  },
+  "A fresh cut, beard shaping and the details taken care of.": {
+    "et": "Värske lõikus, habeme kujundamine ja hoolikad detailid.",
+    "ru": "Свежая стрижка, оформление бороды и внимание к деталям.",
+    "fi": "Raikas leikkaus, parran muotoilu ja huolitellut yksityiskohdat."
+  },
+  "Beard sculpt": {
+    "et": "Habeme kujundamine",
+    "ru": "Моделирование бороды",
+    "fi": "Parran muotoilu"
+  },
+  "Clean lines, balanced shape and a little extra attention.": {
+    "et": "Puhtad jooned, tasakaalus vorm ja veidi lisahoolt.",
+    "ru": "Чёткие линии, сбалансированная форма и особое внимание.",
+    "fi": "Siistit linjat, tasapainoinen muoto ja hieman lisähuomiota."
+  },
+  "Classic cuts & modern fades": {
+    "et": "Klassikalised lõikused ja moodsad hajutused",
+    "ru": "Классические стрижки и современные фейды",
+    "fi": "Klassiset leikkaukset ja modernit feidit"
+  },
+  "Texture & scissor work": {
+    "et": "Tekstuur ja kääritöö",
+    "ru": "Текстура и работа ножницами",
+    "fi": "Tekstuuri ja saksityö"
+  },
+  "Beard shaping & sharp detail": {
+    "et": "Habeme kujundamine ja täpsed detailid",
+    "ru": "Моделирование бороды и чёткие детали",
+    "fi": "Parran muotoilu ja tarkat yksityiskohdat"
+  },
+  "Service": {
+    "et": "Teenus",
+    "ru": "Услуга",
+    "fi": "Palvelu"
+  },
+  "Stylist": {
+    "et": "Juuksur",
+    "ru": "Мастер",
+    "fi": "Parturi"
+  },
+  "Date & time": {
+    "et": "Kuupäev ja kellaaeg",
+    "ru": "Дата и время",
+    "fi": "Päivä ja aika"
+  },
+  "Your details": {
+    "et": "Sinu andmed",
+    "ru": "Ваши данные",
+    "fi": "Tietosi"
+  },
+  "STUDIO CUT — Interactive booking concept | TOIMU": {
+    "et": "STUDIO CUT — Interaktiivne broneerimiskontseptsioon | TOIMU",
+    "ru": "STUDIO CUT — Концепция интерактивной записи | TOIMU",
+    "fi": "STUDIO CUT — Interaktiivinen varauskonsepti | TOIMU"
+  },
+  "Choose a service to continue.": {
+    "et": "Jätkamiseks vali teenus.",
+    "ru": "Выберите услугу для продолжения.",
+    "fi": "Valitse palvelu jatkaaksesi."
+  },
+  "Choose a stylist to continue.": {
+    "et": "Jätkamiseks vali juuksur.",
+    "ru": "Выберите мастера для продолжения.",
+    "fi": "Valitse parturi jatkaaksesi."
+  },
+  "Choose a future date and a time to continue.": {
+    "et": "Jätkamiseks vali tulevane kuupäev ja kellaaeg.",
+    "ru": "Выберите будущую дату и время для продолжения.",
+    "fi": "Valitse tuleva päivä ja aika jatkaaksesi."
+  },
+  "Please choose a future date and time.": {
+    "et": "Vali tulevane kuupäev ja kellaaeg.",
+    "ru": "Выберите будущую дату и время.",
+    "fi": "Valitse tuleva päivä ja aika."
+  },
+  "Booked": {
+    "et": "Broneeritud",
+    "ru": "Записан",
+    "fi": "Varattu"
+  },
+  "Back to TOIMU Technologies": {
+    "et": "Tagasi TOIMU Technologies lehele",
+    "ru": "Вернуться к TOIMU Technologies",
+    "fi": "Takaisin TOIMU Technologiesiin"
+  },
+  "Concept website · Interactive demo · No real bookings": {
+    "et": "Näidisveebileht · Interaktiivne demo · Päris broneeringuid ei tehta",
+    "ru": "Концепция сайта · Интерактивное демо · Без реальных записей",
+    "fi": "Konseptisivusto · Interaktiivinen demo · Ei oikeita varauksia"
+  },
+  "Try the staff dashboard": {
+    "et": "Proovi töötajate halduspaneeli",
+    "ru": "Попробовать панель сотрудников",
+    "fi": "Kokeile henkilökunnan hallintaa"
+  },
+  "Studio Cut navigation": {
+    "et": "Studio Cut navigeerimine",
+    "ru": "Навигация Studio Cut",
+    "fi": "Studio Cutin navigointi"
+  },
+  "The services": {
+    "et": "Teenused",
+    "ru": "Услуги",
+    "fi": "Palvelut"
+  },
+  "The team": {
+    "et": "Meeskond",
+    "ru": "Команда",
+    "fi": "Tiimi"
+  },
+  "Book a chair": {
+    "et": "Broneeri koht",
+    "ru": "Записаться",
+    "fi": "Varaa paikkasi"
+  },
+  "Good hair. Good company.": {
+    "et": "Head juuksed. Hea seltskond.",
+    "ru": "Хорошая причёска. Хорошая компания.",
+    "fi": "Hyvät hiukset. Hyvää seuraa."
+  },
+  "A fresh cut.": {
+    "et": "Värske lõikus.",
+    "ru": "Свежая стрижка.",
+    "fi": "Raikas leikkaus."
+  },
+  "A fresh": {
+    "et": "Värske",
+    "ru": "Новый",
+    "fi": "Uusi"
+  },
+  "perspective.": {
+    "et": "vaatenurk.",
+    "ru": "взгляд.",
+    "fi": "näkökulma."
+  },
+  "A little time for yourself. A cut that feels right.": {
+    "et": "Veidi aega iseendale. Lõikus, mis tundub õige.",
+    "ru": "Немного времени для себя. Стрижка, которая вам подходит.",
+    "fi": "Hieman aikaa itsellesi. Leikkaus, joka tuntuu oikealta."
+  },
+  "Welcome to your new favourite chair.": {
+    "et": "Tere tulemast oma uude lemmiktooli.",
+    "ru": "Добро пожаловать в ваше новое любимое кресло.",
+    "fi": "Tervetuloa uuteen lempituoliisi."
+  },
+  "Find your next cut": {
+    "et": "Leia oma järgmine lõikus",
+    "ru": "Найдите следующую стрижку",
+    "fi": "Löydä seuraava leikkauksesi"
+  },
+  "STUDIO CUT / BARBER & GROOMING CONCEPT": {
+    "et": "STUDIO CUT / JUUKSURISALONGI KONTSEPTSIOON",
+    "ru": "STUDIO CUT / КОНЦЕПЦИЯ БАРБЕРШОПА",
+    "fi": "STUDIO CUT / PARTURIKONSEPTI"
+  },
+  "01 / The services": {
+    "et": "01 / Teenused",
+    "ru": "01 / Услуги",
+    "fi": "01 / Palvelut"
+  },
+  "Keep it simple.": {
+    "et": "Hoia lihtsana.",
+    "ru": "Проще — лучше.",
+    "fi": "Pidä se yksinkertaisena."
+  },
+  "Make it yours.": {
+    "et": "Tee enda omaks.",
+    "ru": "Сделайте по-своему.",
+    "fi": "Tee siitä omasi."
+  },
+  "Illustrative services and prices for this concept studio.": {
+    "et": "Selle näidissalongi illustratiivsed teenused ja hinnad.",
+    "ru": "Иллюстративные услуги и цены концептуального салона.",
+    "fi": "Konseptistudion esimerkkipalvelut ja hinnat."
+  },
+  "minutes": {
+    "et": "minutit",
+    "ru": "минут",
+    "fi": "minuuttia"
+  },
+  "Choose": {
+    "et": "Vali",
+    "ru": "Выбрать",
+    "fi": "Valitse"
+  },
+  "02 / The people": {
+    "et": "02 / Inimesed",
+    "ru": "02 / Команда",
+    "fi": "02 / Ihmiset"
+  },
+  "Find your": {
+    "et": "Leia oma",
+    "ru": "Найдите своего",
+    "fi": "Löydä oma"
+  },
+  "kind of stylist.": {
+    "et": "sobiv juuksur.",
+    "ru": "мастера.",
+    "fi": "parturisi."
+  },
+  "Meet the fictional team behind our demo.": {
+    "et": "Tutvu meie demo väljamõeldud meeskonnaga.",
+    "ru": "Познакомьтесь с вымышленной командой демо.",
+    "fi": "Tutustu demon kuvitteelliseen tiimiin."
+  },
+  "03 / Your next visit": {
+    "et": "03 / Sinu järgmine külastus",
+    "ru": "03 / Ваш следующий визит",
+    "fi": "03 / Seuraava käyntisi"
+  },
+  "Your chair": {
+    "et": "Sinu koht",
+    "ru": "Ваше кресло",
+    "fi": "Paikkasi"
+  },
+  "is waiting.": {
+    "et": "juba ootab.",
+    "ru": "уже ждёт.",
+    "fi": "odottaa."
+  },
+  "Try the booking experience. All dates and times are simulated; no appointment is reserved and no email is sent.": {
+    "et": "Proovi broneerimist. Kõik kuupäevad ja ajad on näidised; kohtumist ei broneerita ega e-kirja saadeta.",
+    "ru": "Попробуйте запись. Даты и время демонстрационные: запись не создаётся и письмо не отправляется.",
+    "fi": "Kokeile varausta. Päivät ja ajat ovat esimerkkejä; aikaa ei varata eikä sähköpostia lähetetä."
+  },
+  "Demo complete": {
+    "et": "Demo valmis",
+    "ru": "Демо завершено",
+    "fi": "Demo valmis"
+  },
+  "Looking sharp,": {
+    "et": "Näed hea välja,",
+    "ru": "Отлично выглядите,",
+    "fi": "Näytät hyvältä,"
+  },
+  "This is your simulated booking confirmation.": {
+    "et": "See on sinu näidisbroneeringu kinnitus.",
+    "ru": "Это подтверждение вашей демонстрационной записи.",
+    "fi": "Tämä on demovarauksesi vahvistus."
+  },
+  "When": {
+    "et": "Millal",
+    "ru": "Когда",
+    "fi": "Milloin"
+  },
+  "at": {
+    "et": "kell",
+    "ru": "в",
+    "fi": "klo"
+  },
+  "Duration": {
+    "et": "Kestus",
+    "ru": "Длительность",
+    "fi": "Kesto"
+  },
+  "Price": {
+    "et": "Hind",
+    "ru": "Цена",
+    "fi": "Hinta"
+  },
+  "· No payment taken": {
+    "et": "· Makset ei võetud",
+    "ru": "· Оплата не взималась",
+    "fi": "· Maksua ei veloitettu"
+  },
+  "No real appointment was made. Your details were used only for this on-screen demo.": {
+    "et": "Päris kohtumist ei broneeritud. Sinu andmeid kasutati ainult selles ekraanidemos.",
+    "ru": "Реальная запись не создана. Данные использованы только в этом демо на экране.",
+    "fi": "Oikeaa aikaa ei varattu. Tietojasi käytettiin vain tässä näytön demossa."
+  },
+  "Try another booking": {
+    "et": "Proovi uut broneeringut",
+    "ru": "Попробовать другую запись",
+    "fi": "Kokeile toista varausta"
+  },
+  "View this booking in the sample dashboard": {
+    "et": "Vaata broneeringut näidishalduspaneelis",
+    "ru": "Посмотреть запись в демонстрационной панели",
+    "fi": "Katso varausta esimerkkihallinnassa"
+  },
+  "Want a booking website for your business?": {
+    "et": "Soovid oma ettevõttele broneerimisega veebilehte?",
+    "ru": "Хотите сайт с записью для своего бизнеса?",
+    "fi": "Haluatko ajanvaraussivuston yrityksellesi?"
+  },
+  "Booking steps": {
+    "et": "Broneerimise etapid",
+    "ru": "Этапы записи",
+    "fi": "Varauksen vaiheet"
+  },
+  "Choose your service": {
+    "et": "Vali teenus",
+    "ru": "Выберите услугу",
+    "fi": "Valitse palvelusi"
+  },
+  "Choose your stylist": {
+    "et": "Vali juuksur",
+    "ru": "Выберите мастера",
+    "fi": "Valitse parturisi"
+  },
+  "Choose a date & time": {
+    "et": "Vali kuupäev ja kellaaeg",
+    "ru": "Выберите дату и время",
+    "fi": "Valitse päivä ja aika"
+  },
+  "A few final details": {
+    "et": "Mõned viimased detailid",
+    "ru": "Несколько последних деталей",
+    "fi": "Muutama viimeinen tieto"
+  },
+  "Select a service": {
+    "et": "Vali teenus",
+    "ru": "Выбрать услугу",
+    "fi": "Valitse palvelu"
+  },
+  "Select a stylist": {
+    "et": "Vali juuksur",
+    "ru": "Выбрать мастера",
+    "fi": "Valitse parturi"
+  },
+  "Your preferred date": {
+    "et": "Sinu soovitud kuupäev",
+    "ru": "Предпочтительная дата",
+    "fi": "Toivomasi päivä"
+  },
+  "Demo time slots": {
+    "et": "Näidisajad",
+    "ru": "Демонстрационные интервалы",
+    "fi": "Esimerkkiajat"
+  },
+  "Choose tomorrow or a later date. These are example slots, not live availability.": {
+    "et": "Vali homne või hilisem kuupäev. Need on näidisajad, mitte tegelik saadavus.",
+    "ru": "Выберите завтра или более позднюю дату. Время приведено для примера, а не реальная доступность.",
+    "fi": "Valitse huominen tai myöhempi päivä. Ajat ovat esimerkkejä, eivät oikeaa saatavuutta."
+  },
+  "Your name": {
+    "et": "Sinu nimi",
+    "ru": "Ваше имя",
+    "fi": "Nimesi"
+  },
+  "Try a fictional name": {
+    "et": "Proovi väljamõeldud nime",
+    "ru": "Введите вымышленное имя",
+    "fi": "Kokeile kuvitteellista nimeä"
+  },
+  "Email address": {
+    "et": "E-posti aadress",
+    "ru": "Электронная почта",
+    "fi": "Sähköpostiosoite"
+  },
+  "Use fictional details. Nothing is sent or saved to a server.": {
+    "et": "Kasuta väljamõeldud andmeid. Midagi ei saadeta ega salvestata serverisse.",
+    "ru": "Используйте вымышленные данные. Ничего не отправляется и не сохраняется на сервере.",
+    "fi": "Käytä kuvitteellisia tietoja. Mitään ei lähetetä tai tallenneta palvelimelle."
+  },
+  "min · €": {
+    "et": "min · €",
+    "ru": "мин · €",
+    "fi": "min · €"
+  },
+  "With": {
+    "et": "Juuksuriga",
+    "ru": "С мастером",
+    "fi": "Parturina"
+  },
+  "Back": {
+    "et": "Tagasi",
+    "ru": "Назад",
+    "fi": "Takaisin"
+  },
+  "Continue": {
+    "et": "Jätka",
+    "ru": "Продолжить",
+    "fi": "Jatka"
+  },
+  "Confirm demo booking": {
+    "et": "Kinnita näidisbroneering",
+    "ru": "Подтвердить демонстрационную запись",
+    "fi": "Vahvista demovaraus"
+  },
+  "A concept by TOIMU Technologies OÜ": {
+    "et": "TOIMU Technologies OÜ kontseptsioon",
+    "ru": "Концепция от TOIMU Technologies OÜ",
+    "fi": "TOIMU Technologies OÜ:n konsepti"
+  },
+  "A better experience.": {
+    "et": "Parem kogemus.",
+    "ru": "Лучший опыт.",
+    "fi": "Parempi kokemus."
+  },
+  "For your customers, too.": {
+    "et": "Ka sinu klientidele.",
+    "ru": "И для ваших клиентов.",
+    "fi": "Myös asiakkaillesi."
+  },
+  "Discuss your website": {
+    "et": "Räägime sinu veebilehest",
+    "ru": "Обсудить ваш сайт",
+    "fi": "Keskustellaan sivustostasi"
+  },
+  "Fictional studio. Real design possibilities.": {
+    "et": "Väljamõeldud salong. Päris disainivõimalused.",
+    "ru": "Вымышленный салон. Реальные возможности дизайна.",
+    "fi": "Kuvitteellinen studio. Oikeat suunnittelumahdollisuudet."
+  },
+  "Back to the portfolio": {
+    "et": "Tagasi portfooliosse",
+    "ru": "Вернуться в портфолио",
+    "fi": "Takaisin portfolioon"
+  },
+  "Soft light lamp": {
+    "et": "Pehme valgusega lamp",
+    "ru": "Лампа с мягким светом",
+    "fi": "Pehmeän valon lamppu"
+  },
+  "Lighting": {
+    "et": "Valgustid",
+    "ru": "Освещение",
+    "fi": "Valaisimet"
+  },
+  "Natural linen": {
+    "et": "Naturaalne lina",
+    "ru": "Натуральный лён",
+    "fi": "Luonnonpellava"
+  },
+  "Warm sand": {
+    "et": "Soe liiv",
+    "ru": "Тёплый песочный",
+    "fi": "Lämmin hiekka"
+  },
+  "A ceramic base and soft linen shade, for a little warmth in your favourite corner.": {
+    "et": "Keraamiline alus ja pehme linane kuppel toovad sinu lemmiknurka soojust.",
+    "ru": "Керамическое основание и мягкий льняной абажур добавят уюта любимому уголку.",
+    "fi": "Keraaminen jalka ja pehmeä pellavavarjostin tuovat lämpöä lempinurkkaasi."
+  },
+  "Everyday vase": {
+    "et": "Igapäevane vaas",
+    "ru": "Ваза на каждый день",
+    "fi": "Arjen maljakko"
+  },
+  "Ceramics": {
+    "et": "Keraamika",
+    "ru": "Керамика",
+    "fi": "Keramiikka"
+  },
+  "Sage": {
+    "et": "Salveiroheline",
+    "ru": "Шалфейный",
+    "fi": "Salvia"
+  },
+  "Chalk": {
+    "et": "Kriitvalge",
+    "ru": "Меловой",
+    "fi": "Liitu"
+  },
+  "A simple ceramic shape for a few stems, a branch or a shelf of its own.": {
+    "et": "Lihtne keraamiline vorm mõnele lillele, oksale või omaette riiulikaunistuseks.",
+    "ru": "Простая керамическая форма для цветов, ветки или украшения полки.",
+    "fi": "Yksinkertainen keraaminen muoto kukille, oksalle tai hyllyn koristeeksi."
+  },
+  "Morning mug": {
+    "et": "Hommikukruus",
+    "ru": "Утренняя кружка",
+    "fi": "Aamumuki"
+  },
+  "Terracotta": {
+    "et": "Terrakota",
+    "ru": "Терракотовый",
+    "fi": "Terrakotta"
+  },
+  "Cream": {
+    "et": "Kreemikas",
+    "ru": "Кремовый",
+    "fi": "Kerma"
+  },
+  "A tactile everyday mug for your first coffee and your last cup of tea.": {
+    "et": "Mõnus igapäevane kruus päeva esimeseks kohviks ja viimaseks teeks.",
+    "ru": "Приятная на ощупь кружка для первого кофе и последнего вечернего чая.",
+    "fi": "Miellyttävä arkinen muki päivän ensimmäiselle kahville ja viimeiselle teelle."
+  },
+  "Slow Sunday throw": {
+    "et": "Pühapäevane pleed",
+    "ru": "Плед для неспешного воскресенья",
+    "fi": "Rauhallisen sunnuntain torkkupeitto"
+  },
+  "Textiles": {
+    "et": "Tekstiilid",
+    "ru": "Текстиль",
+    "fi": "Tekstiilit"
+  },
+  "Oat": {
+    "et": "Kaerahelbe toon",
+    "ru": "Овсяный",
+    "fi": "Kaura"
+  },
+  "Stone": {
+    "et": "Kivihall",
+    "ru": "Каменный",
+    "fi": "Kivi"
+  },
+  "An easy layer of texture for the sofa, the reading chair or a quiet Sunday.": {
+    "et": "Pehme tekstuurikiht diivanile, lugemistoolile või rahulikuks pühapäevaks.",
+    "ru": "Уютная фактура для дивана, кресла или спокойного воскресенья.",
+    "fi": "Mukava kerros sohvalle, lukutuoliin tai rauhalliseen sunnuntaihin."
+  },
+  "Gather serving tray": {
+    "et": "Gatheri serveerimisalus",
+    "ru": "Поднос Gather",
+    "fi": "Gather-tarjotin"
+  },
+  "Living": {
+    "et": "Kodutarbed",
+    "ru": "Для дома",
+    "fi": "Kodin tarvikkeet"
+  },
+  "Natural oak": {
+    "et": "Naturaalne tamm",
+    "ru": "Натуральный дуб",
+    "fi": "Luonnontammi"
+  },
+  "Smoked oak": {
+    "et": "Suitsutamm",
+    "ru": "Копчёный дуб",
+    "fi": "Savustettu tammi"
+  },
+  "A warm wooden tray for bringing a little order to the everyday.": {
+    "et": "Sooja tooniga puidust alus, mis aitab argipäeva korrastada.",
+    "ru": "Деревянный поднос тёплого оттенка для порядка в повседневности.",
+    "fi": "Lämminsävyinen puutarjotin tuo järjestystä arkeen."
+  },
+  "All": {
+    "et": "Kõik",
+    "ru": "Все",
+    "fi": "Kaikki"
+  },
+  "FORM & FIELD — Online store concept | TOIMU": {
+    "et": "FORM & FIELD — Veebipoe kontseptsioon | TOIMU",
+    "ru": "FORM & FIELD — Концепция интернет-магазина | TOIMU",
+    "fi": "FORM & FIELD — Verkkokauppakonsepti | TOIMU"
+  },
+  "Subtotal": {
+    "et": "Vahesumma",
+    "ru": "Промежуточный итог",
+    "fi": "Välisumma"
+  },
+  "Demo delivery": {
+    "et": "Näidistarnimine",
+    "ru": "Демонстрационная доставка",
+    "fi": "Esimerkkitoimitus"
+  },
+  "Free": {
+    "et": "Tasuta",
+    "ru": "Бесплатно",
+    "fi": "Maksuton"
+  },
+  "Total": {
+    "et": "Kokku",
+    "ru": "Итого",
+    "fi": "Yhteensä"
+  },
+  "Concept store · No payments · No real orders": {
+    "et": "Näidispood · Makseteta · Päris tellimusi ei tehta",
+    "ru": "Концепция магазина · Без оплаты · Без реальных заказов",
+    "fi": "Konseptikauppa · Ei maksuja · Ei oikeita tilauksia"
+  },
+  "Store navigation": {
+    "et": "Poe navigeerimine",
+    "ru": "Навигация магазина",
+    "fi": "Kaupan navigointi"
+  },
+  "The collection": {
+    "et": "Kollektsioon",
+    "ru": "Коллекция",
+    "fi": "Mallisto"
+  },
+  "Bag": {
+    "et": "Ostukott",
+    "ru": "Корзина",
+    "fi": "Ostoskassi"
+  },
+  "Good things, for everyday living.": {
+    "et": "Head asjad igapäevaseks eluks.",
+    "ru": "Хорошие вещи для повседневной жизни.",
+    "fi": "Hyviä asioita arkeen."
+  },
+  "A softer": {
+    "et": "Pehmem",
+    "ru": "Более уютный",
+    "fi": "Pehmeämpi"
+  },
+  "kind of home.": {
+    "et": "kodutunne.",
+    "ru": "дом.",
+    "fi": "koti."
+  },
+  "Considered pieces. Natural textures.": {
+    "et": "Läbimõeldud esemed. Naturaalsed tekstuurid.",
+    "ru": "Продуманные предметы. Натуральные фактуры.",
+    "fi": "Harkitut esineet. Luonnolliset materiaalit."
+  },
+  "Little things that make a space your own.": {
+    "et": "Väikesed asjad, mis muudavad ruumi sinu omaks.",
+    "ru": "Мелочи, которые делают пространство вашим.",
+    "fi": "Pienet asiat, jotka tekevät tilasta oman."
+  },
+  "Explore the collection": {
+    "et": "Tutvu kollektsiooniga",
+    "ru": "Посмотреть коллекцию",
+    "fi": "Tutustu mallistoon"
+  },
+  "Illustrative homeware collection: lamp, vase, mug, linen throw and wooden tray": {
+    "et": "Näidiskollektsioon: lamp, vaas, kruus, linane pleed ja puidust alus",
+    "ru": "Иллюстрация коллекции: лампа, ваза, кружка, льняной плед и деревянный поднос",
+    "fi": "Esimerkkimallisto: lamppu, maljakko, muki, pellavapeitto ja puutarjotin"
+  },
+  "Everyday favourites.": {
+    "et": "Igapäevased lemmikud.",
+    "ru": "Любимые вещи на каждый день.",
+    "fi": "Arjen suosikit."
+  },
+  "Sort by": {
+    "et": "Sorteeri",
+    "ru": "Сортировать",
+    "fi": "Järjestä"
+  },
+  "Featured": {
+    "et": "Esiletõstetud",
+    "ru": "Рекомендуемые",
+    "fi": "Suositellut"
+  },
+  "Price: low to high": {
+    "et": "Hind: odavamast kallimani",
+    "ru": "Цена: по возрастанию",
+    "fi": "Hinta: halvimmasta kalleimpaan"
+  },
+  "Price: high to low": {
+    "et": "Hind: kallimast odavamani",
+    "ru": "Цена: по убыванию",
+    "fi": "Hinta: kalleimmasta halvimpaan"
+  },
+  "Product categories": {
+    "et": "Tootekategooriad",
+    "ru": "Категории товаров",
+    "fi": "Tuotekategoriat"
+  },
+  "Fictional products and illustrative collection photography. Colours are example options.": {
+    "et": "Väljamõeldud tooted ja illustratiivsed kollektsioonifotod. Värvid on näidisvalikud.",
+    "ru": "Вымышленные товары и иллюстративные фотографии. Цвета приведены для примера.",
+    "fi": "Kuvitteelliset tuotteet ja esimerkkikuvat. Värit ovat esimerkkivaihtoehtoja."
+  },
+  "{product} · {finish} added to your bag.": {
+    "et": "{product} · {finish} lisatud ostukotti.",
+    "ru": "{product} · {finish} добавлен в корзину.",
+    "fi": "{product} · {finish} lisätty ostoskassiin."
+  },
+  "{product} — illustrative collection photograph": {
+    "et": "{product} — illustratiivne kollektsioonifoto",
+    "ru": "{product} — иллюстративная фотография коллекции",
+    "fi": "{product} — esimerkkikuva mallistosta"
+  },
+  "Finish": {
+    "et": "Viimistlus",
+    "ru": "Отделка",
+    "fi": "Viimeistely"
+  },
+  "Add": {
+    "et": "Lisa",
+    "ru": "Добавить",
+    "fi": "Lisää"
+  },
+  "to bag": {
+    "et": "ostukotti",
+    "ru": "в корзину",
+    "fi": "ostoskassiin"
+  },
+  "Less noise. More home.": {
+    "et": "Vähem müra. Rohkem kodutunnet.",
+    "ru": "Меньше шума. Больше уюта.",
+    "fi": "Vähemmän hälyä. Enemmän kotia."
+  },
+  "Make room for": {
+    "et": "Tee ruumi",
+    "ru": "Освободите место",
+    "fi": "Tee tilaa"
+  },
+  "the things you love.": {
+    "et": "asjadele, mida armastad.",
+    "ru": "любимым вещам.",
+    "fi": "asioille, joita rakastat."
+  },
+  "A fictional lifestyle shop, designed to demonstrate an inviting shopping experience from browsing to checkout.": {
+    "et": "Väljamõeldud elustiilipood näitab mõnusat ostukogemust sirvimisest kassani.",
+    "ru": "Вымышленный магазин для дома демонстрирует приятный путь от просмотра до оформления заказа.",
+    "fi": "Kuvitteellinen lifestyle-kauppa esittelee miellyttävän ostokokemuksen selailusta kassalle."
+  },
+  "Let’s build your online store": {
+    "et": "Loome sinu veebipoe",
+    "ru": "Создадим ваш интернет-магазин",
+    "fi": "Rakennetaan verkkokauppasi"
+  },
+  "Your collection": {
+    "et": "Sinu kollektsioon",
+    "ru": "Ваша коллекция",
+    "fi": "Oma mallistosi"
+  },
+  "Your bag.": {
+    "et": "Sinu ostukott.",
+    "ru": "Ваша корзина.",
+    "fi": "Ostoskassisi."
+  },
+  "each": {
+    "et": "üks tükk",
+    "ru": "за штуку",
+    "fi": "kappale"
+  },
+  "Quantity for": {
+    "et": "Kogus tootele",
+    "ru": "Количество товара",
+    "fi": "Tuotteen määrä"
+  },
+  "Quantity for {product}, {finish}": {
+    "et": "Kogus: {product}, {finish}",
+    "ru": "Количество: {product}, {finish}",
+    "fi": "Määrä: {product}, {finish}"
+  },
+  "Remove": {
+    "et": "Eemalda",
+    "ru": "Удалить",
+    "fi": "Poista"
+  },
+  "Order summary": {
+    "et": "Tellimuse kokkuvõte",
+    "ru": "Сводка заказа",
+    "fi": "Tilauksen yhteenveto"
+  },
+  "Illustrative delivery: €5, free from €100. No real charges.": {
+    "et": "Näidistarnimine: 5 €, alates 100 € tasuta. Päris tasusid ei võeta.",
+    "ru": "Пример доставки: 5 €, бесплатно от 100 €. Реальная оплата не взимается.",
+    "fi": "Esimerkkitoimitus: 5 €, maksuton 100 €:sta. Oikeita maksuja ei veloiteta."
+  },
+  "Try demo checkout": {
+    "et": "Proovi näidiskassat",
+    "ru": "Попробовать демонстрационную кассу",
+    "fi": "Kokeile demokassaa"
+  },
+  "Your bag is waiting for something lovely.": {
+    "et": "Sinu ostukott ootab midagi toredat.",
+    "ru": "Ваша корзина ждёт чего-нибудь прекрасного.",
+    "fi": "Ostoskassisi odottaa jotain ihanaa."
+  },
+  "Continue browsing": {
+    "et": "Jätka sirvimist",
+    "ru": "Продолжить просмотр",
+    "fi": "Jatka selailua"
+  },
+  "Simulated checkout": {
+    "et": "Näidiskassa",
+    "ru": "Демонстрационная касса",
+    "fi": "Demokassa"
+  },
+  "The final details.": {
+    "et": "Viimased detailid.",
+    "ru": "Последние детали.",
+    "fi": "Viimeiset tiedot."
+  },
+  "Demo Guest": {
+    "et": "Näidiskülaline",
+    "ru": "Демо-гость",
+    "fi": "Demovieras"
+  },
+  "Street address": {
+    "et": "Tänava aadress",
+    "ru": "Адрес",
+    "fi": "Katuosoite"
+  },
+  "12 Example Street": {
+    "et": "Näidistänav 12",
+    "ru": "Примерная улица, 12",
+    "fi": "Esimerkkikatu 12"
+  },
+  "City": {
+    "et": "Linn",
+    "ru": "Город",
+    "fi": "Kaupunki"
+  },
+  "Postal code": {
+    "et": "Postiindeks",
+    "ru": "Почтовый индекс",
+    "fi": "Postinumero"
+  },
+  "Country": {
+    "et": "Riik",
+    "ru": "Страна",
+    "fi": "Maa"
+  },
+  "Estonia": {
+    "et": "Eesti",
+    "ru": "Эстония",
+    "fi": "Viro"
+  },
+  "Finland": {
+    "et": "Soome",
+    "ru": "Финляндия",
+    "fi": "Suomi"
+  },
+  "Portugal": {
+    "et": "Portugal",
+    "ru": "Португалия",
+    "fi": "Portugali"
+  },
+  "Other (demo)": {
+    "et": "Muu (demo)",
+    "ru": "Другая (демо)",
+    "fi": "Muu (demo)"
+  },
+  "Demo payment": {
+    "et": "Näidismakse",
+    "ru": "Демонстрационная оплата",
+    "fi": "Demomaksu"
+  },
+  "No card details are needed. This button creates an on-screen example order only.": {
+    "et": "Kaardiandmeid pole vaja. Nupp loob ainult ekraanil näidistellimuse.",
+    "ru": "Данные карты не нужны. Кнопка создаёт только пример заказа на экране.",
+    "fi": "Korttitietoja ei tarvita. Painike luo vain esimerkkitilauksen näytölle."
+  },
+  "Place demo order": {
+    "et": "Tee näidistellimus",
+    "ru": "Оформить демонстрационный заказ",
+    "fi": "Tee demotilaus"
+  },
+  "Back to bag": {
+    "et": "Tagasi ostukotti",
+    "ru": "Вернуться в корзину",
+    "fi": "Takaisin ostoskassiin"
+  },
+  "Your order": {
+    "et": "Sinu tellimus",
+    "ru": "Ваш заказ",
+    "fi": "Tilauksesi"
+  },
+  "Demo order complete": {
+    "et": "Näidistellimus valmis",
+    "ru": "Демонстрационный заказ готов",
+    "fi": "Demotilaus valmis"
+  },
+  "Lovely choice,": {
+    "et": "Hea valik,",
+    "ru": "Прекрасный выбор,",
+    "fi": "Ihana valinta,"
+  },
+  "Your simulated order is shown below. No payment was taken, no email was sent and nothing will be shipped.": {
+    "et": "Sinu näidistellimus on allpool. Makset ei võetud, e-kirja ei saadetud ja kaupa ei tarnita.",
+    "ru": "Ниже показан пример вашего заказа. Оплата не взималась, письмо не отправлялось и товары не будут доставлены.",
+    "fi": "Demotilauksesi näkyy alla. Maksua ei veloitettu, sähköpostia ei lähetetty eikä tuotteita toimiteta."
+  },
+  "Demo total": {
+    "et": "Näidissumma",
+    "ru": "Демонстрационный итог",
+    "fi": "Demon loppusumma"
+  },
+  "Continue exploring": {
+    "et": "Jätka avastamist",
+    "ru": "Продолжить знакомство",
+    "fi": "Jatka tutustumista"
+  },
+  "Want a store like this for your business?": {
+    "et": "Soovid oma ettevõttele sellist poodi?",
+    "ru": "Хотите такой магазин для своего бизнеса?",
+    "fi": "Haluatko tällaisen kaupan yrityksellesi?"
+  },
+  "Online store concept by TOIMU Technologies OÜ": {
+    "et": "TOIMU Technologies OÜ veebipoe kontseptsioon",
+    "ru": "Концепция интернет-магазина от TOIMU Technologies OÜ",
+    "fi": "TOIMU Technologies OÜ:n verkkokauppakonsepti"
+  },
+  "Return to portfolio": {
+    "et": "Tagasi portfooliosse",
+    "ru": "Вернуться в портфолио",
+    "fi": "Takaisin portfolioon"
+  },
+  "The woodland home": {
+    "et": "Metsakodu",
+    "ru": "Дом у леса",
+    "fi": "Metsäkoti"
+  },
+  "New homes": {
+    "et": "Uued kodud",
+    "ru": "Новые дома",
+    "fi": "Uudet kodit"
+  },
+  "A concept for a timber-clad family home with open living spaces and a generous connection to the outdoors.": {
+    "et": "Puitvoodriga perekodu kontseptsioon avarate eluruumide ja tugeva sidemega ümbritseva loodusega.",
+    "ru": "Концепция семейного дома с деревянной облицовкой, открытыми жилыми пространствами и связью с природой.",
+    "fi": "Puupintaisen perhekodin konsepti, jossa on avarat oleskelutilat ja yhteys luontoon."
+  },
+  "New build · Timber & stone · Family home": {
+    "et": "Uusehitis · Puit ja kivi · Perekodu",
+    "ru": "Новое строительство · Дерево и камень · Семейный дом",
+    "fi": "Uudisrakennus · Puu ja kivi · Perhekoti"
+  },
+  "A kitchen, reimagined": {
+    "et": "Köök uues võtmes",
+    "ru": "Кухня по-новому",
+    "fi": "Keittiö uudella tavalla"
+  },
+  "Renovations": {
+    "et": "Renoveerimine",
+    "ru": "Ремонт",
+    "fi": "Remontit"
+  },
+  "An illustrative renovation bringing better storage, natural materials and a brighter layout into an existing home.": {
+    "et": "Näidisrenoveerimine parema hoiuruumi, looduslike materjalide ja valgusküllasema planeeringuga.",
+    "ru": "Пример ремонта с улучшенным хранением, натуральными материалами и более светлой планировкой.",
+    "fi": "Esimerkkiremontti lisää säilytystilaa, luonnonmateriaaleja ja valoisuutta."
+  },
+  "Interior renovation · Kitchen & living space": {
+    "et": "Siseruumide renoveerimine · Köök ja elutuba",
+    "ru": "Ремонт интерьера · Кухня и гостиная",
+    "fi": "Sisäremontti · Keittiö ja olohuone"
+  },
+  "Room to grow": {
+    "et": "Ruumi kasvamiseks",
+    "ru": "Место для роста",
+    "fi": "Tilaa kasvaa"
+  },
+  "Extensions": {
+    "et": "Juurdeehitused",
+    "ru": "Пристройки",
+    "fi": "Laajennukset"
+  },
+  "A concept extension creating more room for everyday life while respecting the character of the original home.": {
+    "et": "Juurdeehituse kontseptsioon loob argipäevaks rohkem ruumi, säilitades algse kodu iseloomu.",
+    "ru": "Концепция пристройки создаёт больше пространства для жизни, сохраняя характер исходного дома.",
+    "fi": "Laajennuskonsepti tuo arkeen tilaa alkuperäisen kodin luonnetta kunnioittaen."
+  },
+  "Home extension · Planning & construction": {
+    "et": "Kodu juurdeehitus · Planeerimine ja ehitus",
+    "ru": "Пристройка дома · Планирование и строительство",
+    "fi": "Kodin laajennus · Suunnittelu ja rakentaminen"
+  },
+  "All projects": {
+    "et": "Kõik projektid",
+    "ru": "Все проекты",
+    "fi": "Kaikki projektit"
+  },
+  "New home": {
+    "et": "Uus kodu",
+    "ru": "Новый дом",
+    "fi": "Uusi koti"
+  },
+  "NORD BUILD — Construction website concept | TOIMU": {
+    "et": "NORD BUILD — Ehitusveebilehe kontseptsioon | TOIMU",
+    "ru": "NORD BUILD — Концепция строительного сайта | TOIMU",
+    "fi": "NORD BUILD — Rakennussivustokonsepti | TOIMU"
+  },
+  "Concept website · Fictional company · No enquiries sent": {
+    "et": "Näidisveebileht · Väljamõeldud ettevõte · Päringuid ei saadeta",
+    "ru": "Концепция сайта · Вымышленная компания · Заявки не отправляются",
+    "fi": "Konseptisivusto · Kuvitteellinen yritys · Kyselyitä ei lähetetä"
+  },
+  "Construction navigation": {
+    "et": "Ehituslehe navigeerimine",
+    "ru": "Навигация строительного сайта",
+    "fi": "Rakennussivuston navigointi"
+  },
+  "Expertise": {
+    "et": "Pädevus",
+    "ru": "Услуги",
+    "fi": "Osaaminen"
+  },
+  "Projects": {
+    "et": "Projektid",
+    "ru": "Проекты",
+    "fi": "Projektit"
+  },
+  "Discuss a project": {
+    "et": "Räägime projektist",
+    "ru": "Обсудить проект",
+    "fi": "Keskustellaan projektista"
+  },
+  "Spaces for the way you live.": {
+    "et": "Ruumid sinu elustiilile.",
+    "ru": "Пространства для вашего образа жизни.",
+    "fi": "Tilat elämäntapaasi varten."
+  },
+  "Built with care.": {
+    "et": "Hoolikalt ehitatud.",
+    "ru": "Построено с заботой.",
+    "fi": "Huolella rakennettu."
+  },
+  "Made to last.": {
+    "et": "Loodud kestma.",
+    "ru": "Создано надолго.",
+    "fi": "Tehty kestämään."
+  },
+  "From the first conversation to the final detail.": {
+    "et": "Esimesest vestlusest viimase detailini.",
+    "ru": "От первой беседы до последней детали.",
+    "fi": "Ensimmäisestä keskustelusta viimeiseen yksityiskohtaan."
+  },
+  "A thoughtful approach to homes and renovations.": {
+    "et": "Läbimõeldud lähenemine kodudele ja renoveerimisele.",
+    "ru": "Продуманный подход к домам и ремонту.",
+    "fi": "Harkittu lähestymistapa koteihin ja remontteihin."
+  },
+  "Plan your project": {
+    "et": "Planeeri oma projekt",
+    "ru": "Спланировать проект",
+    "fi": "Suunnittele projektisi"
+  },
+  "Illustrative contemporary timber and stone home": {
+    "et": "Kaasaegse puit- ja kivimaja illustratsioon",
+    "ru": "Иллюстрация современного дома из дерева и камня",
+    "fi": "Kuva nykyaikaisesta puu- ja kivitalosta"
+  },
+  "01 / Our expertise": {
+    "et": "01 / Meie pädevus",
+    "ru": "01 / Наши услуги",
+    "fi": "01 / Osaamisemme"
+  },
+  "Your vision.": {
+    "et": "Sinu visioon.",
+    "ru": "Ваше видение.",
+    "fi": "Sinun näkemyksesi."
+  },
+  "Solid foundations.": {
+    "et": "Kindel vundament.",
+    "ru": "Надёжный фундамент.",
+    "fi": "Vahva perusta."
+  },
+  "A home shaped around your needs, from initial plans to the finishing touches.": {
+    "et": "Sinu vajadustele loodud kodu algsetest plaanidest viimase viimistluseni.",
+    "ru": "Дом под ваши потребности: от первых планов до последних штрихов.",
+    "fi": "Tarpeisiisi suunniteltu koti ensimmäisistä suunnitelmista viimeistelyyn."
+  },
+  "Make more of the space you already have, with thoughtful layouts and considered finishes.": {
+    "et": "Kasuta olemasolevat ruumi paremini läbimõeldud planeeringu ja viimistlusega.",
+    "ru": "Раскройте потенциал пространства с продуманной планировкой и отделкой.",
+    "fi": "Hyödynnä nykyistä tilaa harkitulla pohjaratkaisulla ja viimeistelyllä."
+  },
+  "Space to grow, designed to sit naturally alongside your existing home.": {
+    "et": "Kasvuruum, mis sobitub loomulikult sinu olemasoleva koduga.",
+    "ru": "Место для роста, естественно дополняющее ваш дом.",
+    "fi": "Tilaa kasvaa nykyiseen kotiisi luontevasti sopien."
+  },
+  "Explore your options": {
+    "et": "Tutvu võimalustega",
+    "ru": "Посмотреть варианты",
+    "fi": "Tutustu vaihtoehtoihin"
+  },
+  "02 / Project concepts": {
+    "et": "02 / Projektide kontseptsioonid",
+    "ru": "02 / Концепции проектов",
+    "fi": "02 / Projektikonseptit"
+  },
+  "A sense of possibility.": {
+    "et": "Võimaluste tunnetus.",
+    "ru": "Ощущение возможностей.",
+    "fi": "Mahdollisuuksien tuntua."
+  },
+  "Illustrative project stories for this fictional construction company.": {
+    "et": "Näidisprojektide lood selle väljamõeldud ehitusettevõtte jaoks.",
+    "ru": "Иллюстративные проекты этой вымышленной строительной компании.",
+    "fi": "Esimerkkiprojekteja kuvitteelliselle rakennusyritykselle."
+  },
+  "Filter project concepts": {
+    "et": "Filtreeri projektide kontseptsioone",
+    "ru": "Фильтр концепций проектов",
+    "fi": "Suodata projektikonsepteja"
+  },
+  "Concept scope": {
+    "et": "Kontseptsiooni ulatus",
+    "ru": "Содержание концепции",
+    "fi": "Konseptin laajuus"
+  },
+  "Illustrative imagery and project details. This is a design demonstration, not a completed client project.": {
+    "et": "Illustratiivsed pildid ja projektidetailid. See on disainidemo, mitte valmis kliendiprojekt.",
+    "ru": "Изображения и детали иллюстративны. Это демонстрация дизайна, а не завершённый клиентский проект.",
+    "fi": "Kuvat ja tiedot ovat esimerkkejä. Tämä on suunnitteludemo, ei valmis asiakasprojekti."
+  },
+  "Plan something similar": {
+    "et": "Planeeri midagi sarnast",
+    "ru": "Спланировать что-то похожее",
+    "fi": "Suunnittele jotain vastaavaa"
+  },
+  "03 / How we work": {
+    "et": "03 / Kuidas töötame",
+    "ru": "03 / Как мы работаем",
+    "fi": "03 / Näin toimimme"
+  },
+  "Clear plans.": {
+    "et": "Selged plaanid.",
+    "ru": "Понятные планы.",
+    "fi": "Selkeät suunnitelmat."
+  },
+  "At every step.": {
+    "et": "Igal sammul.",
+    "ru": "На каждом этапе.",
+    "fi": "Jokaisessa vaiheessa."
+  },
+  "Listen": {
+    "et": "Kuulame",
+    "ru": "Слушаем",
+    "fi": "Kuuntele"
+  },
+  "Your goals, your property and your priorities.": {
+    "et": "Sinu eesmärgid, kinnisvara ja prioriteedid.",
+    "ru": "Ваши цели, объект и приоритеты.",
+    "fi": "Tavoitteesi, kiinteistösi ja prioriteettisi."
+  },
+  "Plan": {
+    "et": "Planeerime",
+    "ru": "Планируем",
+    "fi": "Suunnittele"
+  },
+  "Scope, materials and a programme you can understand.": {
+    "et": "Ulatus, materjalid ja arusaadav ajakava.",
+    "ru": "Объём, материалы и понятный график.",
+    "fi": "Laajuus, materiaalit ja ymmärrettävä aikataulu."
+  },
+  "Build": {
+    "et": "Arendame",
+    "ru": "Разрабатываем",
+    "fi": "Toteutus"
+  },
+  "An organised approach, with regular progress updates.": {
+    "et": "Korraldatud töö ja regulaarsed ülevaated edenemisest.",
+    "ru": "Организованная работа и регулярные новости о ходе проекта.",
+    "fi": "Järjestelmällinen työ ja säännölliset tilannepäivitykset."
+  },
+  "Handover": {
+    "et": "Üleandmine",
+    "ru": "Передача",
+    "fi": "Luovutus"
+  },
+  "The final details checked and your space ready to use.": {
+    "et": "Viimased detailid kontrollitud ja ruum kasutamiseks valmis.",
+    "ru": "Последние детали проверены, пространство готово к использованию.",
+    "fi": "Viimeiset yksityiskohdat tarkistettu ja tila käyttövalmis."
+  },
+  "04 / Start with a conversation": {
+    "et": "04 / Alustame vestlusest",
+    "ru": "04 / Начнём с беседы",
+    "fi": "04 / Aloitetaan keskustelusta"
+  },
+  "What do you": {
+    "et": "Mis sul",
+    "ru": "Что вы",
+    "fi": "Mitä sinulla"
+  },
+  "have in mind?": {
+    "et": "mõttes on?",
+    "ru": "задумали?",
+    "fi": "on mielessä?"
+  },
+  "Try this example quote request. Use fictional details; nothing is sent or stored on a server.": {
+    "et": "Proovi näidispäringut. Kasuta väljamõeldud andmeid; midagi ei saadeta ega salvestata serverisse.",
+    "ru": "Попробуйте пример заявки. Используйте вымышленные данные: ничего не отправляется и не сохраняется на сервере.",
+    "fi": "Kokeile esimerkkikyselyä kuvitteellisilla tiedoilla. Mitään ei lähetetä tai tallenneta palvelimelle."
+  },
+  "Demo request prepared": {
+    "et": "Näidispäring valmis",
+    "ru": "Демонстрационная заявка готова",
+    "fi": "Demokysely valmis"
+  },
+  "Thanks,": {
+    "et": "Aitäh,",
+    "ru": "Спасибо,",
+    "fi": "Kiitos,"
+  },
+  "This is how an enquiry confirmation could look.": {
+    "et": "Nii võiks päringu kinnitus välja näha.",
+    "ru": "Так может выглядеть подтверждение заявки.",
+    "fi": "Tältä kyselyn vahvistus voisi näyttää."
+  },
+  "Project": {
+    "et": "Projekt",
+    "ru": "Проект",
+    "fi": "Projekti"
+  },
+  "Location": {
+    "et": "Asukoht",
+    "ru": "Место",
+    "fi": "Sijainti"
+  },
+  "Budget": {
+    "et": "Eelarve",
+    "ru": "Бюджет",
+    "fi": "Budjetti"
+  },
+  "Timing": {
+    "et": "Ajastus",
+    "ru": "Сроки",
+    "fi": "Aikataulu"
+  },
+  "No request was sent and no quote will be issued.": {
+    "et": "Päringut ei saadetud ja hinnapakkumist ei koostata.",
+    "ru": "Заявка не отправлена, предложение не будет выдано.",
+    "fi": "Kyselyä ei lähetetty eikä tarjousta laadita."
+  },
+  "Try another request": {
+    "et": "Proovi teist päringut",
+    "ru": "Попробовать другую заявку",
+    "fi": "Kokeile toista kyselyä"
+  },
+  "Discuss a website for your company": {
+    "et": "Räägime sinu ettevõtte veebilehest",
+    "ru": "Обсудить сайт для вашей компании",
+    "fi": "Keskustellaan yrityksesi sivustosta"
+  },
+  "Email": {
+    "et": "E-post",
+    "ru": "Эл. почта",
+    "fi": "Sähköposti"
+  },
+  "Project type": {
+    "et": "Projekti tüüp",
+    "ru": "Тип проекта",
+    "fi": "Projektin tyyppi"
+  },
+  "Renovation": {
+    "et": "Renoveerimine",
+    "ru": "Ремонт",
+    "fi": "Remontti"
+  },
+  "Extension": {
+    "et": "Juurdeehitus",
+    "ru": "Пристройка",
+    "fi": "Laajennus"
+  },
+  "Project location": {
+    "et": "Projekti asukoht",
+    "ru": "Место проекта",
+    "fi": "Projektin sijainti"
+  },
+  "Town or area": {
+    "et": "Linn või piirkond",
+    "ru": "Город или район",
+    "fi": "Kaupunki tai alue"
+  },
+  "Approximate budget": {
+    "et": "Ligikaudne eelarve",
+    "ru": "Примерный бюджет",
+    "fi": "Arvioitu budjetti"
+  },
+  "Still exploring": {
+    "et": "Alles uurin võimalusi",
+    "ru": "Пока изучаю варианты",
+    "fi": "Tutkin vielä vaihtoehtoja"
+  },
+  "Under €50,000": {
+    "et": "Alla 50 000 €",
+    "ru": "До 50 000 €",
+    "fi": "Alle 50 000 €"
+  },
+  "When are you thinking?": {
+    "et": "Millal plaanid alustada?",
+    "ru": "Когда планируете начать?",
+    "fi": "Milloin suunnittelet aloittavasi?"
+  },
+  "Just gathering ideas": {
+    "et": "Alles kogun ideid",
+    "ru": "Пока собираю идеи",
+    "fi": "Kerään vasta ideoita"
+  },
+  "Within 3 months": {
+    "et": "3 kuu jooksul",
+    "ru": "В течение 3 месяцев",
+    "fi": "3 kuukauden kuluessa"
+  },
+  "Within 6 months": {
+    "et": "6 kuu jooksul",
+    "ru": "В течение 6 месяцев",
+    "fi": "6 kuukauden kuluessa"
+  },
+  "Later this year": {
+    "et": "Hiljem sel aastal",
+    "ru": "Позже в этом году",
+    "fi": "Myöhemmin tänä vuonna"
+  },
+  "Your project": {
+    "et": "Sinu projekt",
+    "ru": "Ваш проект",
+    "fi": "Projektisi"
+  },
+  "Tell us about your plans…": {
+    "et": "Räägi oma plaanidest…",
+    "ru": "Расскажите о планах…",
+    "fi": "Kerro suunnitelmistasi…"
+  },
+  "Demo only. No real enquiry is sent.": {
+    "et": "Ainult demo. Päris päringut ei saadeta.",
+    "ru": "Только демо. Реальная заявка не отправляется.",
+    "fi": "Vain demo. Oikeaa kyselyä ei lähetetä."
+  },
+  "Preview enquiry confirmation": {
+    "et": "Vaata päringu kinnitust",
+    "ru": "Посмотреть подтверждение заявки",
+    "fi": "Esikatsele kyselyn vahvistusta"
+  },
+  "Construction website concept by TOIMU Technologies OÜ": {
+    "et": "TOIMU Technologies OÜ ehitusveebilehe kontseptsioon",
+    "ru": "Концепция строительного сайта от TOIMU Technologies OÜ",
+    "fi": "TOIMU Technologies OÜ:n rakennussivustokonsepti"
+  },
+  "Small plates": {
+    "et": "Väikesed road",
+    "ru": "Закуски",
+    "fi": "Pienet annokset"
+  },
+  "Burrata & tomatoes": {
+    "et": "Burrata ja tomatid",
+    "ru": "Буррата и томаты",
+    "fi": "Burrata ja tomaatit"
+  },
+  "Creamy burrata, seasonal tomatoes, basil oil.": {
+    "et": "Kreemine burrata, hooajalised tomatid ja basiilikuõli.",
+    "ru": "Нежная буррата, сезонные томаты и базиликовое масло.",
+    "fi": "Kermainen burrata, kauden tomaatit ja basilikaöljy."
+  },
+  "Vegetarian": {
+    "et": "Taimetoit",
+    "ru": "Вегетарианское",
+    "fi": "Kasvisruoka"
+  },
+  "Charred carrots": {
+    "et": "Röstitud porgandid",
+    "ru": "Запечённая морковь",
+    "fi": "Paahdetut porkkanat"
+  },
+  "Roasted carrots, whipped tahini, toasted seeds.": {
+    "et": "Röstitud porgandid, vahustatud tahini ja röstitud seemned.",
+    "ru": "Запечённая морковь, взбитая тахини и обжаренные семена.",
+    "fi": "Paahdetut porkkanat, vatkattu tahini ja paahdetut siemenet."
+  },
+  "Vegan": {
+    "et": "Vegan",
+    "ru": "Веганское",
+    "fi": "Vegaaninen"
+  },
+  "Main plates": {
+    "et": "Pearoad",
+    "ru": "Основные блюда",
+    "fi": "Pääruoat"
+  },
+  "Roast chicken": {
+    "et": "Ahjukana",
+    "ru": "Запечённая курица",
+    "fi": "Paistettu kana"
+  },
+  "Herb-roasted chicken, seasonal greens, pan jus.": {
+    "et": "Ürtidega ahjukana, hooajaline roheline lisand ja praeleem.",
+    "ru": "Курица с травами, сезонная зелень и мясной соус.",
+    "fi": "Yrttikana, kauden vihreät kasvikset ja paistinkastike."
+  },
+  "Wild mushroom risotto": {
+    "et": "Metsaseenerisoto",
+    "ru": "Ризотто с лесными грибами",
+    "fi": "Metsäsienirisotto"
+  },
+  "Arborio rice, woodland mushrooms, aged cheese.": {
+    "et": "Arborio riis, metsaseened ja laagerdunud juust.",
+    "ru": "Рис арборио, лесные грибы и выдержанный сыр.",
+    "fi": "Arborioriisi, metsäsienet ja kypsytetty juusto."
+  },
+  "Something sweet": {
+    "et": "Midagi magusat",
+    "ru": "Что-нибудь сладкое",
+    "fi": "Jotain makeaa"
+  },
+  "Olive oil cake": {
+    "et": "Oliiviõlikook",
+    "ru": "Кекс на оливковом масле",
+    "fi": "Oliiviöljykakku"
+  },
+  "Citrus, vanilla cream and a little sea salt.": {
+    "et": "Tsitrus, vanillikreem ja veidi meresoola.",
+    "ru": "Цитрусы, ванильный крем и немного морской соли.",
+    "fi": "Sitrus, vaniljakerma ja ripaus merisuolaa."
+  },
+  "Seasonal sorbet": {
+    "et": "Hooajaline sorbett",
+    "ru": "Сезонный сорбет",
+    "fi": "Kauden sorbetti"
+  },
+  "A changing selection of fruit flavours.": {
+    "et": "Vahelduv valik puuviljamaitseid.",
+    "ru": "Меняющийся выбор фруктовых вкусов.",
+    "fi": "Vaihtuva valikoima hedelmämakuja."
+  },
+  "OLIVE & TABLE — Restaurant concept | TOIMU": {
+    "et": "OLIVE & TABLE — Restoranikontseptsioon | TOIMU",
+    "ru": "OLIVE & TABLE — Концепция ресторана | TOIMU",
+    "fi": "OLIVE & TABLE — Ravintolakonsepti | TOIMU"
+  },
+  "Choose tomorrow or a later date.": {
+    "et": "Vali homne või hilisem kuupäev.",
+    "ru": "Выберите завтра или более позднюю дату.",
+    "fi": "Valitse huominen tai myöhempi päivä."
+  },
+  "guests": {
+    "et": "külalist",
+    "ru": "гостей",
+    "fi": "vierasta"
+  },
+  "Restaurant concept · No real table reservations": {
+    "et": "Restoranikontseptsioon · Päris lauabroneeringuid ei tehta",
+    "ru": "Концепция ресторана · Без реальных броней столиков",
+    "fi": "Ravintolakonsepti · Ei oikeita pöytävarauksia"
+  },
+  "Restaurant navigation": {
+    "et": "Restorani navigeerimine",
+    "ru": "Навигация ресторана",
+    "fi": "Ravintolan navigointi"
+  },
+  "The menu": {
+    "et": "Menüü",
+    "ru": "Меню",
+    "fi": "Ruokalista"
+  },
+  "Find a table": {
+    "et": "Leia laud",
+    "ru": "Найти столик",
+    "fi": "Löydä pöytä"
+  },
+  "A place to slow down.": {
+    "et": "Koht, kus aeg maha võtta.",
+    "ru": "Место, где можно замедлиться.",
+    "fi": "Paikka rauhoittua."
+  },
+  "Good food.": {
+    "et": "Hea toit.",
+    "ru": "Хорошая еда.",
+    "fi": "Hyvää ruokaa."
+  },
+  "Better company.": {
+    "et": "Parem seltskond.",
+    "ru": "Отличная компания.",
+    "fi": "Vielä parempaa seuraa."
+  },
+  "Seasonal plates, unhurried evenings": {
+    "et": "Hooajalised road, rahulikud õhtud",
+    "ru": "Сезонные блюда, неспешные вечера",
+    "fi": "Kauden annokset, kiireettömät illat"
+  },
+  "and a seat at the table.": {
+    "et": "ja koht laua ääres.",
+    "ru": "и место за столом.",
+    "fi": "ja paikka pöydässä."
+  },
+  "Reserve your evening": {
+    "et": "Broneeri oma õhtu",
+    "ru": "Забронировать вечер",
+    "fi": "Varaa iltasi"
+  },
+  "The neighbourhood table": {
+    "et": "Naabruskonna laud",
+    "ru": "Стол по соседству",
+    "fi": "Naapuruston pöytä"
+  },
+  "Come as you are.": {
+    "et": "Tule sellisena, nagu oled.",
+    "ru": "Приходите как есть.",
+    "fi": "Tule sellaisena kuin olet."
+  },
+  "Stay for another course.": {
+    "et": "Jää veel üheks käiguks.",
+    "ru": "Останьтесь ещё на одно блюдо.",
+    "fi": "Jää vielä yhdelle annokselle."
+  },
+  "A fictional neighbourhood restaurant, built around simple ingredients and the pleasure of sharing a meal. Explore the sample menu and try the reservation experience.": {
+    "et": "Väljamõeldud naabruskonnarestoran lihtsate koostisosade ja koos söömise rõõmuga. Tutvu näidismenüüga ja proovi lauabroneeringut.",
+    "ru": "Вымышленный ресторан по соседству с простыми ингредиентами и радостью общей трапезы. Посмотрите пример меню и попробуйте бронирование.",
+    "fi": "Kuvitteellinen lähiravintola, jossa nautitaan yksinkertaisista raaka-aineista ja yhteisistä aterioista. Tutustu esimerkkimenuun ja kokeile varausta."
+  },
+  "On the menu": {
+    "et": "Menüüs",
+    "ru": "В меню",
+    "fi": "Ruokalistalla"
+  },
+  "A little of what you love.": {
+    "et": "Veidi seda, mida armastad.",
+    "ru": "Немного того, что вы любите.",
+    "fi": "Hieman sitä, mistä pidät."
+  },
+  "Menu categories": {
+    "et": "Menüükategooriad",
+    "ru": "Категории меню",
+    "fi": "Ruokalistan kategoriat"
+  },
+  "Sample menu and prices. Dietary labels are illustrative; a real restaurant must confirm ingredients and allergens.": {
+    "et": "Näidismenüü ja hinnad. Toitumismärgised on illustratiivsed; päris restoran peab kinnitama koostisosad ja allergeenid.",
+    "ru": "Меню и цены приведены для примера. Отметки о питании иллюстративны; реальный ресторан должен подтвердить ингредиенты и аллергены.",
+    "fi": "Esimerkkimenu ja hinnat. Ruokavaliomerkinnät ovat esimerkkejä; oikean ravintolan on vahvistettava ainesosat ja allergeenit."
+  },
+  "Make an evening of it": {
+    "et": "Tee sellest mõnus õhtu",
+    "ru": "Проведите приятный вечер",
+    "fi": "Tee siitä mukava ilta"
+  },
+  "A table": {
+    "et": "Laud",
+    "ru": "Столик",
+    "fi": "Pöytä"
+  },
+  "for your people.": {
+    "et": "sinu seltskonnale.",
+    "ru": "для вашей компании.",
+    "fi": "seurueellesi."
+  },
+  "Try a simulated reservation for 1–8 guests. Example time slots are shown; no real availability is checked.": {
+    "et": "Proovi näidisbroneeringut 1–8 külalisele. Ajad on näidised; tegelikku saadavust ei kontrollita.",
+    "ru": "Попробуйте демонстрационную бронь для 1–8 гостей. Время приведено для примера; реальная доступность не проверяется.",
+    "fi": "Kokeile demovarausta 1–8 vieraalle. Ajat ovat esimerkkejä; oikeaa saatavuutta ei tarkisteta."
+  },
+  "Demo reservation complete": {
+    "et": "Näidisbroneering valmis",
+    "ru": "Демонстрационная бронь готова",
+    "fi": "Demovaraus valmis"
+  },
+  "A seat for you,": {
+    "et": "Koht sulle,",
+    "ru": "Место для вас,",
+    "fi": "Paikka sinulle,"
+  },
+  "Guests": {
+    "et": "Külalised",
+    "ru": "Гости",
+    "fi": "Vieraat"
+  },
+  "Date": {
+    "et": "Kuupäev",
+    "ru": "Дата",
+    "fi": "Päivämäärä"
+  },
+  "Time": {
+    "et": "Kellaaeg",
+    "ru": "Время",
+    "fi": "Aika"
+  },
+  "No table was reserved and no email was sent. These details exist only in this demo session.": {
+    "et": "Lauda ei broneeritud ega e-kirja saadetud. Andmed eksisteerivad ainult selles demoseansis.",
+    "ru": "Столик не забронирован, письмо не отправлено. Данные существуют только в текущем демосеансе.",
+    "fi": "Pöytää ei varattu eikä sähköpostia lähetetty. Tiedot ovat vain tässä demoistunnossa."
+  },
+  "Try another reservation": {
+    "et": "Proovi uut broneeringut",
+    "ru": "Попробовать другую бронь",
+    "fi": "Kokeile toista varausta"
+  },
+  "Build a restaurant website with us": {
+    "et": "Loome koos restorani veebilehe",
+    "ru": "Создадим сайт ресторана вместе",
+    "fi": "Rakennetaan ravintolasivusto yhdessä"
+  },
+  "Number of guests": {
+    "et": "Külaliste arv",
+    "ru": "Количество гостей",
+    "fi": "Vieraiden määrä"
+  },
+  "guest": {
+    "et": "külaline",
+    "ru": "гость",
+    "fi": "vieras"
+  },
+  "Preferred time": {
+    "et": "Soovitud kellaaeg",
+    "ru": "Предпочтительное время",
+    "fi": "Toivottu aika"
+  },
+  "Anything to note?": {
+    "et": "Kas soovid midagi lisada?",
+    "ru": "Хотите что-то добавить?",
+    "fi": "Haluatko lisätä jotain?"
+  },
+  "Optional demo notes": {
+    "et": "Valikulised näidismärkused",
+    "ru": "Необязательные демо-примечания",
+    "fi": "Valinnaiset demohuomiot"
+  },
+  "Use fictional details. No reservation or message is sent.": {
+    "et": "Kasuta väljamõeldud andmeid. Broneeringut ega sõnumit ei saadeta.",
+    "ru": "Используйте вымышленные данные. Бронь и сообщение не отправляются.",
+    "fi": "Käytä kuvitteellisia tietoja. Varausta tai viestiä ei lähetetä."
+  },
+  "Confirm demo reservation": {
+    "et": "Kinnita näidisbroneering",
+    "ru": "Подтвердить демонстрационную бронь",
+    "fi": "Vahvista demovaraus"
+  },
+  "Restaurant concept by TOIMU Technologies OÜ": {
+    "et": "TOIMU Technologies OÜ restoranikontseptsioon",
+    "ru": "Концепция ресторана от TOIMU Technologies OÜ",
+    "fi": "TOIMU Technologies OÜ:n ravintolakonsepti"
+  },
+  "Back to portfolio": {
+    "et": "Tagasi portfooliosse",
+    "ru": "Вернуться в портфолио",
+    "fi": "Takaisin portfolioon"
+  },
+  "Standard": {
+    "et": "Standard",
+    "ru": "Стандарт",
+    "fi": "Vakio"
+  },
+  "Premium": {
+    "et": "Premium",
+    "ru": "Премиум",
+    "fi": "Premium"
+  },
+  "Try an interactive estimate": {
+    "et": "Proovi interaktiivset kalkulaatorit",
+    "ru": "Попробовать интерактивный расчёт",
+    "fi": "Kokeile laskuria"
+  },
+  "A starting point.": {
+    "et": "Alguspunkt.",
+    "ru": "Отправная точка.",
+    "fi": "Lähtökohta."
+  },
+  "For the conversation.": {
+    "et": "Vestlusele.",
+    "ru": "Для беседы.",
+    "fi": "Keskustelulle."
+  },
+  "This calculator uses invented demonstration rates. It is not a construction quote or a guide to market prices.": {
+    "et": "Kalkulaator kasutab väljamõeldud näidishindu. See pole ehituspakkumine ega turuhindade juhend.",
+    "ru": "Калькулятор использует вымышленные демонстрационные ставки. Это не предложение на строительство и не справочник рыночных цен.",
+    "fi": "Laskuri käyttää keksittyjä demohintoja. Tämä ei ole rakennustarjous eikä markkinahintaopas."
+  },
+  "Type of project": {
+    "et": "Projekti liik",
+    "ru": "Тип проекта",
+    "fi": "Projektin laji"
+  },
+  "Floor area (m²)": {
+    "et": "Põrandapind (m²)",
+    "ru": "Площадь (м²)",
+    "fi": "Lattiapinta-ala (m²)"
+  },
+  "Finish level": {
+    "et": "Viimistluse tase",
+    "ru": "Уровень отделки",
+    "fi": "Viimeistelyn taso"
+  },
+  "Illustrative range": {
+    "et": "Näidisvahemik",
+    "ru": "Демонстрационный диапазон",
+    "fi": "Esimerkkiväli"
+  },
+  "Example calculation:": {
+    "et": "Näidisarvutus:",
+    "ru": "Пример расчёта:",
+    "fi": "Esimerkkilaskelma:"
+  },
+  " × 1.25 for premium finishes": {
+    "et": " × 1,25 premium-viimistluse korral",
+    "ru": " × 1,25 для премиум-отделки",
+    "fi": " × 1,25 premium-viimeistelylle"
+  },
+  ", with a ±15% demonstration range.": {
+    "et": ", näidisvahemikuga ±15%.",
+    "ru": ", с демонстрационным диапазоном ±15%.",
+    "fi": ", esimerkkivälinä ±15%."
+  },
+  "Enter a floor area between 10 and 500 m².": {
+    "et": "Sisesta pindala vahemikus 10–500 m².",
+    "ru": "Введите площадь от 10 до 500 м².",
+    "fi": "Syötä pinta-ala väliltä 10–500 m²."
+  },
+  "Example scope: construction work only. Design, permits, taxes, ground conditions and other costs are excluded. A real quote requires a site assessment.": {
+    "et": "Näidisulatus: ainult ehitustööd. Projekteerimine, load, maksud, pinnasetingimused ja muud kulud ei sisaldu. Päris pakkumine nõuab objekti hindamist.",
+    "ru": "Пример объёма: только строительные работы. Проектирование, разрешения, налоги, состояние грунта и прочие затраты исключены. Реальное предложение требует оценки объекта.",
+    "fi": "Esimerkkilaajuus: vain rakennustyöt. Suunnittelu, luvat, verot, maaperä ja muut kulut eivät sisälly. Oikea tarjous edellyttää kohteen arviointia."
+  },
+  "Demo calculator: {type}, {area} m², {finish} finishes. Illustrative range {low}–{high} using invented rates; not a quote.": {
+    "et": "Näidiskalkulaator: {type}, {area} m², viimistlus {finish}. Näidisvahemik {low}–{high} väljamõeldud hindadega; pole pakkumine.",
+    "ru": "Демо-калькулятор: {type}, {area} м², отделка {finish}. Диапазон {low}–{high} по вымышленным ставкам; не предложение.",
+    "fi": "Demolaskuri: {type}, {area} m², viimeistely {finish}. Esimerkkiväli {low}–{high} keksityillä hinnoilla; ei tarjous."
+  },
+  "Use these details in my enquiry": {
+    "et": "Kasuta neid andmeid päringus",
+    "ru": "Использовать эти данные в заявке",
+    "fi": "Käytä tietoja kyselyssä"
+  },
+  "Completed": {
+    "et": "Lõpetatud",
+    "ru": "Завершён",
+    "fi": "Valmis"
+  },
+  "All statuses": {
+    "et": "Kõik olekud",
+    "ru": "Все статусы",
+    "fi": "Kaikki tilat"
+  },
+  "All stylists": {
+    "et": "Kõik juuksurid",
+    "ru": "Все мастера",
+    "fi": "Kaikki parturit"
+  },
+  "STUDIO CUT — Sample appointment dashboard | TOIMU": {
+    "et": "STUDIO CUT — Näidiskohtumiste halduspaneel | TOIMU",
+    "ru": "STUDIO CUT — Демонстрационная панель записей | TOIMU",
+    "fi": "STUDIO CUT — Ajanvarausten esimerkkihallinta | TOIMU"
+  },
+  "Sample dashboard · No login required · Session-only data": {
+    "et": "Näidishalduspaneel · Sisselogimist pole vaja · Andmed ainult seansi ajal",
+    "ru": "Демонстрационная панель · Без входа · Данные только на время сеанса",
+    "fi": "Esimerkkihallinta · Ei kirjautumista · Tiedot vain istunnon ajan"
+  },
+  "Open booking website": {
+    "et": "Ava broneerimisleht",
+    "ru": "Открыть сайт записи",
+    "fi": "Avaa varaussivusto"
+  },
+  "Behind the chair": {
+    "et": "Tooli taga",
+    "ru": "За креслом",
+    "fi": "Tuolin takana"
+  },
+  "Your studio, at a glance.": {
+    "et": "Sinu salong ühe pilguga.",
+    "ru": "Ваш салон с одного взгляда.",
+    "fi": "Studiosi yhdellä silmäyksellä."
+  },
+  "Manage fictional appointments and bookings you try in the demo. Everything resets when you reload the page.": {
+    "et": "Halda väljamõeldud kohtumisi ja demos proovitud broneeringuid. Kõik lähtestatakse lehe uuesti laadimisel.",
+    "ru": "Управляйте вымышленными и созданными в демо записями. При перезагрузке всё сбрасывается.",
+    "fi": "Hallitse kuvitteellisia ja demossa kokeilemiasi varauksia. Tiedot nollautuvat sivun latautuessa uudelleen."
+  },
+  "Sample appointments restored.": {
+    "et": "Näidiskohtumised taastatud.",
+    "ru": "Демонстрационные записи восстановлены.",
+    "fi": "Esimerkkivaraukset palautettu."
+  },
+  "Reset sample data": {
+    "et": "Lähtesta näidisandmed",
+    "ru": "Сбросить демонстрационные данные",
+    "fi": "Palauta esimerkkitiedot"
+  },
+  "Upcoming demo bookings": {
+    "et": "Tulevased näidisbroneeringud",
+    "ru": "Предстоящие демо-записи",
+    "fi": "Tulevat demovaraukset"
+  },
+  "Completed demo visits": {
+    "et": "Lõpetatud näidiskülastused",
+    "ru": "Завершённые демо-визиты",
+    "fi": "Päättyneet demokäynnit"
+  },
+  "Booked service value": {
+    "et": "Broneeritud teenuste väärtus",
+    "ru": "Стоимость записанных услуг",
+    "fi": "Varattujen palvelujen arvo"
+  },
+  "Illustrative · No payments collected": {
+    "et": "Illustratiivne · Makseid ei koguta",
+    "ru": "Иллюстрация · Оплата не взимается",
+    "fi": "Esimerkki · Maksuja ei kerätä"
+  },
+  "Appointments": {
+    "et": "Kohtumised",
+    "ru": "Записи",
+    "fi": "Ajanvaraukset"
+  },
+  "Status": {
+    "et": "Olek",
+    "ru": "Статус",
+    "fi": "Tila"
+  },
+  "Cancelled": {
+    "et": "Tühistatud",
+    "ru": "Отменён",
+    "fi": "Peruttu"
+  },
+  "Clear filters": {
+    "et": "Tühjenda filtrid",
+    "ru": "Сбросить фильтры",
+    "fi": "Tyhjennä suodattimet"
+  },
+  "Fictional appointments": {
+    "et": "Väljamõeldud kohtumised",
+    "ru": "Вымышленные записи",
+    "fi": "Kuvitteelliset ajanvaraukset"
+  },
+  "Guest": {
+    "et": "Külaline",
+    "ru": "Гость",
+    "fi": "Vieras"
+  },
+  "Actions": {
+    "et": "Toimingud",
+    "ru": "Действия",
+    "fi": "Toiminnot"
+  },
+  "Complete appointment for {name}": {
+    "et": "Lõpeta kohtumine: {name}",
+    "ru": "Завершить запись: {name}",
+    "fi": "Merkitse valmiiksi: {name}"
+  },
+  "Complete": {
+    "et": "Lõpeta",
+    "ru": "Завершить",
+    "fi": "Merkitse valmiiksi"
+  },
+  "Cancel appointment for {name}": {
+    "et": "Tühista kohtumine: {name}",
+    "ru": "Отменить запись: {name}",
+    "fi": "Peru varaus: {name}"
+  },
+  "Cancel": {
+    "et": "Tühista",
+    "ru": "Отменить",
+    "fi": "Peru"
+  },
+  "Restore booking for {name}": {
+    "et": "Taasta broneering: {name}",
+    "ru": "Восстановить запись: {name}",
+    "fi": "Palauta varaus: {name}"
+  },
+  "Restore booking": {
+    "et": "Taasta broneering",
+    "ru": "Восстановить запись",
+    "fi": "Palauta varaus"
+  },
+  "No appointments match these filters.": {
+    "et": "Ükski kohtumine ei vasta filtritele.",
+    "ru": "Нет записей по выбранным фильтрам.",
+    "fi": "Yksikään varaus ei vastaa suodattimia."
+  },
+  "A real version could connect staff accounts, live availability and customer reminders.": {
+    "et": "Päris versioon võiks ühendada töötajate kontod, tegeliku saadavuse ja klientide meeldetuletused.",
+    "ru": "Реальная версия может включать аккаунты сотрудников, доступность и напоминания клиентам.",
+    "fi": "Oikea versio voisi yhdistää henkilökunnan tilit, saatavuuden ja asiakasmuistutukset."
+  },
+  "Discuss a system for your business": {
+    "et": "Räägime sinu ettevõtte süsteemist",
+    "ru": "Обсудить систему для вашего бизнеса",
+    "fi": "Keskustellaan yrityksesi järjestelmästä"
+  }
+}

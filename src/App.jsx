@@ -163,7 +163,7 @@ function CompanyWebsite() {
               )}
             </p>
           </div>
-          <p className="form-note">{t("Demonstrations are in English.")}</p>
+          <p className="form-note">{t("Explore the demos in your preferred language.")}</p>
           <article className="featured-project">
             <div className="project-art">
               <span className="project-category">
@@ -476,7 +476,7 @@ function AppRoutes() {
     page = <LegalPage kind={demo.split("/")[2]} />;
   return (
     <>
-      <div lang={isDemo ? "en" : language}>{page}</div>
+      <div lang={language}>{page}</div>
       <LegalLinks />
     </>
   );
