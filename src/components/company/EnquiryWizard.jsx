@@ -27,17 +27,16 @@ const stages = [
   "Review & send",
 ];
 export function buildProjectBrief(data) {
-  return `PROJECT ENQUIRY — TOIMU Technologies OÜ\n\nName: ${
-    data.name
-  }\nEmail: ${data.email}\nBusiness: ${
-    data.business || "Not provided"
-  }\nIndustry: ${data.industry || "Not specified"}\nCurrent website: ${
-    data.website || "Not provided"
-  }\nSolution: ${data.service}\nRequested features: ${
-    data.features.length ? data.features.join(", ") : "To discuss"
-  }\nTimeframe: ${data.timing}\nBudget: ${data.budget}\n\nPROJECT NOTES\n${
-    data.message
-  }\n\nPrepared using the TOIMU project enquiry wizard.`;
+  const businessDetails = [
+    `Business: ${data.business || "To discuss"}`,
+    ...(data.industry ? [`Industry: ${data.industry}`] : []),
+    ...(data.website ? [`Current website: ${data.website}`] : []),
+  ].join("\n");
+  const features = data.features.length
+    ? data.features.map((feature) => `• ${feature}`).join("\n")
+    : "I’d like your advice on the right features.";
+  return `Hello TOIMU team,\n\nI’d like to discuss ${data.service === "Not sure yet" ? "a project" : data.service.toLowerCase()}${data.business ? ` for ${data.business}` : ""}. Here is a little more about what I have in mind.\n\nABOUT THE BUSINESS\n${businessDetails}\n\nMY PROJECT\n${data.message}\n\nFEATURES I’M INTERESTED IN\n${features}\n\nBUDGET & TIMING\nBudget: ${data.budget}\nPreferred timeframe: ${data.timing}\n\nPlease let me know the next steps. You can reach me at ${data.email}.\n\nBest regards,\n${data.name}\n${data.email}\n\n—\nProject enquiry prepared at TOIMU Technologies OÜ\nhello@toimu.ee`;
+
 }
 export default function EnquiryWizard({ selectedService }) {
   const [step, setStep] = useState(0);
@@ -101,7 +100,7 @@ export default function EnquiryWizard({ selectedService }) {
   }
   const brief = buildProjectBrief(data);
   const email = `mailto:hello@toimu.ee?subject=${encodeURIComponent(
-    `Website enquiry — ${data.business || data.name}`
+    `Project enquiry | ${data.business || data.name} | ${data.service}`
   )}&body=${encodeURIComponent(brief)}`;
   return (
     <div className="enquiry-wizard">
@@ -379,7 +378,13 @@ export default function EnquiryWizard({ selectedService }) {
           </div>
           {ready && (
             <div className="enquiry-ready" role="status">
-              <p>Your enquiry is ready.</p>
+              <h4>Your email is ready.</h4>
+              <p>We’ve organised your project details into a clear message. Review it below, then open your email app to send it.</p>
+              <details className="enquiry-email-preview">
+                <summary>Preview your email</summary>
+                <p><strong>To:</strong> hello@toimu.ee</p>
+                <pre style={{ whiteSpace: "pre-wrap", overflowWrap: "anywhere", font: "inherit", lineHeight: 1.7 }}>{brief}</pre>
+              </details>
               <a className="button dark" href={email}>
                 Open email app to send
               </a>
