@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import {
-  faGithub,
   faLinkedin,
   faMedium,
   faStackOverflow,
@@ -12,11 +11,7 @@ import { Box, HStack, Link, useBreakpointValue } from "@chakra-ui/react";
 const socials = [
   {
     icon: faEnvelope,
-    url: "mailto:tiagoguimaraes1996@icloud.com",
-  },
-  {
-    icon: faGithub,
-    url: "https://github.com/sonjatiago",
+    url: "mailto:hello@toimu.ee",
   },
   {
     icon: faLinkedin,
