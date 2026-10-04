@@ -55,6 +55,7 @@ export const packages = [
   },
 ];
 const faq = [
+  ["Can you design a logo for my business?", "Yes. We create original logos and visual identities, including a colour palette and a consistent direction for your website. Logo design can be a standalone project or part of a website package. The logos in our demonstration showcase are examples of our work."],
   [
     "How much will my website cost?",
     "Every project is quoted around its scope: pages, content, design and functionality. Tell us what you need and we can discuss an approach before preparing a proposal. Hosting, domain and third-party fees should be listed separately.",
