@@ -58,7 +58,7 @@ const faq = [
   ["Can you design a logo for my business?", "Yes. We create original logos and visual identities, including a colour palette and a consistent direction for your website. Logo design can be a standalone project or part of a website package. The logos in our demonstration showcase are examples of our work."],
   [
     "How much will my website cost?",
-    "Every project is quoted around its scope: pages, content, design and functionality. Tell us what you need and we can discuss an approach before preparing a proposal. Hosting, domain and third-party fees should be listed separately.",
+    "We aim to make professional websites approachable for new and growing businesses. Tell us what you need, and we’ll prepare a clear, personalised quote based on the pages, content and functionality involved. Hosting, domain and third-party fees are listed separately.",
   ],
   [
     "How long does a project take?",
@@ -106,8 +106,8 @@ export function ServicePackages({ onChoose }) {
           </h2>
         </div>
         <p>
-          Four ways to start a conversation. We agree the details, deliverables
-          and price around your business.
+          Professional websites at approachable prices. Tell us what you need,
+          and we’ll prepare a clear, personalised quote.
         </p>
       </div>
       <div className="company-package-grid">

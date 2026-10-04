@@ -35,7 +35,7 @@ export function buildProjectBrief(data) {
   const features = data.features.length
     ? data.features.map((feature) => `• ${feature}`).join("\n")
     : "I’d like your advice on the right features.";
-  return `Hello TOIMU team,\n\nI’d like to discuss ${data.service === "Not sure yet" ? "a project" : data.service.toLowerCase()}${data.business ? ` for ${data.business}` : ""}. Here is a little more about what I have in mind.\n\nABOUT THE BUSINESS\n${businessDetails}\n\nMY PROJECT\n${data.message}\n\nFEATURES I’M INTERESTED IN\n${features}\n\nBUDGET & TIMING\nBudget: ${data.budget}\nPreferred timeframe: ${data.timing}\n\nPlease let me know the next steps. You can reach me at ${data.email}.\n\nBest regards,\n${data.name}\n${data.email}\n\n—\nProject enquiry prepared at TOIMU Technologies OÜ\nhello@toimu.ee`;
+  return `Hello TOIMU team,\n\nI’d like to discuss ${data.service === "Not sure yet" ? "a project" : data.service.toLowerCase()}${data.business ? ` for ${data.business}` : ""}. Here is a little more about what I have in mind.\n\nABOUT THE BUSINESS\n${businessDetails}\n\nMY PROJECT\n${data.message}\n\nFEATURES I’M INTERESTED IN\n${features}\n\nPREFERRED TIMING\nPreferred timeframe: ${data.timing}\n\nPlease let me know the next steps. You can reach me at ${data.email}.\n\nBest regards,\n${data.name}\n${data.email}\n\n—\nProject enquiry prepared at TOIMU Technologies OÜ\nhello@toimu.ee`;
 
 }
 export default function EnquiryWizard({ selectedService }) {
@@ -47,7 +47,6 @@ export default function EnquiryWizard({ selectedService }) {
     service: selectedService || "Not sure yet",
     features: [],
     timing: "Flexible / let’s discuss",
-    budget: "Not sure yet",
     name: "",
     email: "",
     message: "",
@@ -254,23 +253,6 @@ export default function EnquiryWizard({ selectedService }) {
               </div>
               <div className="form-row">
                 <label>
-                  Approximate budget
-                  <select
-                    value={data.budget}
-                    onChange={(e) => update("budget", e.target.value)}
-                  >
-                    {[
-                      "Not sure yet",
-                      "Under €1,000",
-                      "€1,000–€3,000",
-                      "€3,000–€5,000",
-                      "€5,000+",
-                    ].map((v) => (
-                      <option key={v}>{v}</option>
-                    ))}
-                  </select>
-                </label>
-                <label>
                   Your timeframe
                   <select
                     value={data.timing}
@@ -299,8 +281,7 @@ export default function EnquiryWizard({ selectedService }) {
                 />
               </label>
               <p className="form-note">
-                Budget and timeframe are preferences, not a quote or a confirmed
-                delivery date. Your details stay in this page until you choose
+                Your timeframe is a preference, not a confirmed delivery date. Your details stay in this page until you choose
                 to send an email.
               </p>
             </>
@@ -345,8 +326,6 @@ export default function EnquiryWizard({ selectedService }) {
               </dd>
               <dt>Timeframe</dt>
               <dd>{data.timing}</dd>
-              <dt>Budget</dt>
-              <dd>{data.budget}</dd>
               <dt>Contact</dt>
               <dd>
                 {data.name}
