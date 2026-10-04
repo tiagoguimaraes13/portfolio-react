@@ -17,3 +17,5 @@ export const demonstrations = [
  {name: "OKOA Gallery", description: "Digital gallery concept that puts artwork, colour and discovery first.", website: "https://okoagallery.netlify.app/", logo: "/demonstrations/logos/okoa.webp", image: "/demonstrations/okoa.webp", category: "Art & culture"},
  {name: "TG Web Design", description: "Creative studio concept with animated typography and selected project demonstrations.", website: "https://tgwebdesign.netlify.app/", logo: "/demonstrations/logos/tg-design.webp", image: "/demonstrations/tg-design.webp", category: "Creative studio"},
 ];
+
+export const ownProduct = {name: "TOIMU Concierge", website: "https://toimu.ee", logo: "/demonstrations/logos/toimu.svg", category: "Our own product"};
