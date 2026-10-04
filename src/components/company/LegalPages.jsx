@@ -36,6 +36,7 @@ const pages = {
   privacy: {
     title: "Privacy policy",
     sections: [
+      ["Meeting bookings", "Our consultation link opens a booking page hosted by Google Calendar. When you book, Google processes the details you provide under its own privacy policy and shares the appointment details with us to arrange your consultation. The calendar is not embedded and does not load on this website."],
       [
         "Who is responsible?",
         `${company.name}, registry code ${company.registry}, registered address ${company.address}, is responsible for personal information received in connection with this website and project enquiries. Contact ${company.email} for privacy questions or to exercise your rights.`,

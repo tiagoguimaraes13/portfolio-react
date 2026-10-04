@@ -351,6 +351,10 @@ function CompanyWebsite() {
               Tell us a little about your business and what you have in mind.
               You don’t need a finished brief.
             </p>
+            <a className="button lime" href={company.bookingUrl} target="_blank" rel="noopener noreferrer">
+              Book a free consultation
+            </a>
+            <p className="form-note">Choose a time for a friendly conversation on Google Meet. Meetings are in English.</p>
             <a className="contact-email" href="mailto:hello@toimu.ee">
               hello@toimu.ee
             </a>

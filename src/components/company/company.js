@@ -1,6 +1,7 @@
 export const company = {
   name: "TOIMU Technologies OÜ",
   email: "hello@toimu.ee",
+  bookingUrl: "https://calendar.app.google/cJEvGYmoGBDDAx2w5",
   registry: "17596572",
   address: "Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Estonia",
   registerUrl:
