@@ -36,6 +36,12 @@ const services = [
     "Custom web solutions",
     "Online stores, booking experiences and web applications built around what your business needs.",
   ],
+  [
+    "04",
+    "An identity of your own.",
+    "Logo design & visual identity",
+    "Original logo design, colour palettes and a consistent visual direction for your business. Start with a logo or bring your brand and website together.",
+  ],
 ];
 const steps = [
   [

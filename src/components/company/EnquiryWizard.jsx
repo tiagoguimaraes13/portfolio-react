@@ -5,6 +5,7 @@ const serviceOptions = [
   "Website Redesign",
   "Online Store",
   "Custom Solutions",
+  "Logo Design & Branding",
   "Maintenance & Support",
   "Not sure yet",
 ];
@@ -17,6 +18,7 @@ const featureOptions = [
   "Admin dashboard",
   "External integrations",
   "Help with content",
+  "Logo design & visual identity",
 ];
 const stages = [
   "Your business",
