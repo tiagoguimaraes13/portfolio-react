@@ -89,7 +89,7 @@ const faq = [
   ],
   [
     "Are the portfolio demos real businesses?",
-    "STUDIO CUT, NORD BUILD, FORM & FIELD and OLIVE & TABLE are fictional concepts. Their bookings, enquiries and orders are simulated. TOIMU is our own city discovery product.",
+    "STUDIO CUT, NORD BUILD, FORM & FIELD and OLIVE & TABLE are fictional concepts. Miguel AM, Cardoso, B.Cocoon, OKOA and TG are independent website concepts for real businesses, not confirmed client partnerships. Their enquiries and shopping flows are demonstrations. TOIMU is our own city discovery product.",
   ],
 ];
 export function ServicePackages({ onChoose }) {
