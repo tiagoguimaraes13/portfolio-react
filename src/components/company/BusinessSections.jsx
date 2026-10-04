@@ -1,3 +1,4 @@
+import { useLanguage } from "../../i18n/LanguageContext";
 import React from "react";
 import "./company-solutions.css";
 export const packages = [
@@ -55,7 +56,10 @@ export const packages = [
   },
 ];
 const faq = [
-  ["Can you design a logo for my business?", "Yes. We create original logos and visual identities, including a colour palette and a consistent direction for your website. Logo design can be a standalone project or part of a website package. The logos in our demonstration showcase are examples of our work."],
+  [
+    "Can you design a logo for my business?",
+    "Yes. We create original logos and visual identities, including a colour palette and a consistent direction for your website. Logo design can be a standalone project or part of a website package. The logos in our demonstration showcase are examples of our work.",
+  ],
   [
     "How much will my website cost?",
     "We aim to make professional websites approachable for new and growing businesses. Tell us what you need, and we’ll prepare a clear, personalised quote based on the pages, content and functionality involved. Hosting, domain and third-party fees are listed separately.",
@@ -94,76 +98,83 @@ const faq = [
   ],
 ];
 export function ServicePackages({ onChoose }) {
+  const { t, language } = useLanguage();
   return (
     <section id="packages" className="section company-packages">
       <div className="section-heading">
         <div>
-          <p className="eyebrow">Find your starting point</p>
+          <p className="eyebrow">{t("Find your starting point")}</p>
           <h2>
-            A solution for
+            {t("A solution for")}
             <br />
-            <em>your next step.</em>
+            <em>{t("your next step.")}</em>
           </h2>
         </div>
         <p>
-          Professional websites at approachable prices. Tell us what you need,
-          and we’ll prepare a clear, personalised quote.
+          {t(
+            "Professional websites at approachable prices. Tell us what you need, and we\u2019ll prepare a clear, personalised quote."
+          )}
         </p>
       </div>
       <div className="company-package-grid">
         {packages.map((p, i) => (
           <article key={p.name}>
             <span className="company-package-index">
-              0{i + 1} / {p.tag}
+              0{i + 1} / {t(p.tag)}
             </span>
-            <h3>{p.name}</h3>
-            <p>{p.description}</p>
+            <h3>{t(p.name)}</h3>
+            <p>{t(p.description)}</p>
             <ul>
               {p.items.map((item) => (
-                <li key={item}>{item}</li>
+                <li key={item}>{t(item)}</li>
               ))}
             </ul>
-            <span className="company-package-price">Tailored quote</span>
+            <span className="company-package-price">{t("Tailored quote")}</span>
             <button onClick={() => onChoose(p.service)}>
-              Discuss {p.name.toLowerCase()}
+              {t("Discuss")}{" "}
+              {language === "en" ? p.name.toLowerCase() : t(p.name)}
             </button>
           </article>
         ))}
       </div>
       <div className="company-maintenance">
         <div>
-          <h3>Keep moving after launch.</h3>
+          <h3>{t("Keep moving after launch.")}</h3>
           <p>
-            Optional maintenance, content updates and improvements, with the
-            scope and ongoing costs agreed in advance.
+            {t(
+              "Optional maintenance, content updates and improvements, with the scope and ongoing costs agreed in advance."
+            )}
           </p>
         </div>
         <button onClick={() => onChoose("Maintenance & Support")}>
-          Discuss ongoing support
+          {t("Discuss ongoing support")}
         </button>
       </div>
     </section>
   );
 }
 export function CompanyFAQ() {
+  const { t } = useLanguage();
   return (
     <section id="faq" className="section company-faq">
       <div>
-        <p className="eyebrow">A few useful answers</p>
+        <p className="eyebrow">{t("A few useful answers")}</p>
         <h2>
-          Before we
+          {t("Before we")}
           <br />
-          <em>get started.</em>
+          <em>{t("get started.")}</em>
         </h2>
         <p>
-          Have a different question? Include it in your project brief below.
+          {t(
+            "Have a different question? Include it in your project brief below."
+          )}
         </p>
       </div>
       <div className="company-faq-list">
         {faq.map(([question, answer]) => (
           <details key={question}>
-            <summary>{question}</summary>
-            <p>{answer}</p>
+            <summary>{t(question)}</summary>
+            <p>{t(answer)}</p>
           </details>
         ))}
       </div>

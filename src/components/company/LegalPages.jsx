@@ -1,12 +1,14 @@
+import { useLanguage, LanguageSwitcher } from "../../i18n/LanguageContext";
 import React, { useEffect } from "react";
 import { company } from "./company";
 export function LegalLinks() {
+  const { t } = useLanguage();
   return (
-    <nav className="company-legal-links" aria-label="Legal information">
-      <a href="#/legal/company">Company information</a>
-      <a href="#/legal/privacy">Privacy policy</a>
-      <a href="#/legal/cookies">Cookie policy</a>
-      <a href="#/legal/terms">Website terms</a>
+    <nav className="company-legal-links" aria-label={t("Legal information")}>
+      <a href="#/legal/company">{t("Company information")}</a>
+      <a href="#/legal/privacy">{t("Privacy policy")}</a>
+      <a href="#/legal/cookies">{t("Cookie policy")}</a>
+      <a href="#/legal/terms">{t("Website terms")}</a>
       <a href={`mailto:${company.email}`}>{company.email}</a>
     </nav>
   );
@@ -36,7 +38,10 @@ const pages = {
   privacy: {
     title: "Privacy policy",
     sections: [
-      ["Meeting bookings", "Our consultation link opens a booking page hosted by Google Calendar. When you book, Google processes the details you provide under its own privacy policy and shares the appointment details with us to arrange your consultation. The calendar is not embedded and does not load on this website."],
+      [
+        "Meeting bookings",
+        "Our consultation link opens a booking page hosted by Google Calendar. When you book, Google processes the details you provide under its own privacy policy and shares the appointment details with us to arrange your consultation. The calendar is not embedded and does not load on this website.",
+      ],
       [
         "Who is responsible?",
         `${company.name}, registry code ${company.registry}, registered address ${company.address}, is responsible for personal information received in connection with this website and project enquiries. Contact ${company.email} for privacy questions or to exercise your rights.`,
@@ -80,7 +85,7 @@ const pages = {
     sections: [
       [
         "Current website behaviour",
-        "The website application does not set cookies and does not use localStorage or sessionStorage. It does not include analytics, advertising pixels or embedded third-party widgets. Images and other website assets are served as part of the website. Therefore this version has no optional tracking to accept or reject.",
+        "The website application does not set cookies. It stores only your chosen language code under toimu-language in localStorage, never enquiry details. It does not use sessionStorage, analytics, advertising pixels or embedded third-party widgets. Images and other assets are served as part of the website. This version has no optional tracking to accept or reject.",
       ],
       [
         "What the demos remember",
@@ -135,26 +140,30 @@ const pages = {
   },
 };
 export default function LegalPage({ kind }) {
+  const { t, language } = useLanguage();
   const page = pages[kind] || pages.company;
   useEffect(() => {
-    document.title = `${page.title} | TOIMU Technologies OÜ`;
+    document.title = `${t(page.title)} | TOIMU Technologies OÜ`;
     window.scrollTo(0, 0);
-  }, [page]);
+  }, [page, language, t]);
   return (
     <div className="company-legal-page">
       <header>
         <a className="wordmark" href="#home">
           {company.name}
         </a>
-        <a href="#contact">Contact us</a>
+        <LanguageSwitcher />
+        <a href="#contact">{t("Contact us")}</a>
       </header>
       <main>
-        <p className="eyebrow">Website information · Updated 4 October 2026</p>
-        <h1>{page.title}</h1>
+        <p className="eyebrow">
+          {t("Website information \xB7 Updated 4 October 2026")}
+        </p>
+        <h1>{t(page.title)}</h1>
         {page.sections.map(([title, text]) => (
           <section key={title}>
-            <h2>{title}</h2>
-            <p>{text}</p>
+            <h2>{t(title)}</h2>
+            <p>{t(text)}</p>
           </section>
         ))}
         {kind === "company" && (
@@ -164,13 +173,13 @@ export default function LegalPage({ kind }) {
             target="_blank"
             rel="noreferrer"
           >
-            View official registry entry
+            {t("View official registry entry")}
           </a>
         )}
         <p className="legal-contact">
           <a href={`mailto:${company.email}`}>{company.email}</a>
         </p>
-        <a href="#home">Return to the website</a>
+        <a href="#home">{t("Return to the website")}</a>
       </main>
     </div>
   );
