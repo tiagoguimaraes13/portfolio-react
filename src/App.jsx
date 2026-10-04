@@ -156,6 +156,43 @@ function CompanyWebsite() {
               a tailored experience could look like for your business.
             </p>
           </div>
+          <article className="featured-project">
+            <div className="project-art">
+              <span className="project-category">
+                OUR OWN PRODUCT / CITY DISCOVERY
+              </span>
+              <div className="toimu-title">
+                TOIMU<span>Go somewhere good.</span>
+              </div>
+              <div className="project-chips">
+                <span>Discover Tallinn</span>
+                <span>Find your next favourite</span>
+                <span>Plan your day</span>
+              </div>
+              <a
+                href="https://toimu.ee"
+                target="_blank"
+                rel="noreferrer"
+                className="project-visit"
+              >
+                Explore TOIMU
+              </a>
+            </div>
+            <div className="project-details">
+              <div>
+                <h3>One city. More possibilities.</h3>
+                <p>
+                  A city discovery platform bringing places, local happenings
+                  and personal planning into one experience.
+                </p>
+              </div>
+              <div className="tags">
+                <span>Product design</span>
+                <span>Web development</span>
+                <span>Maps & planning</span>
+              </div>
+            </div>
+          </article>
           <article className="studio-preview">
             <div className="studio-preview-art">
               <div>
