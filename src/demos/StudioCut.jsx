@@ -1,3 +1,4 @@
+import "./studio-cut.css";
 import { useDemoLanguage, DemoLanguageSwitcher } from "../i18n/DemoLanguage";
 import React, { useEffect, useRef, useState } from "react";
 const services = [{

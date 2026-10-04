@@ -1,3 +1,4 @@
+import "./more-demos.css";
 import { useDemoLanguage, DemoLanguageSwitcher } from "../i18n/DemoLanguage";
 import React, { useEffect, useState } from "react";
 import collection from "../assets/homeware-collection.webp";

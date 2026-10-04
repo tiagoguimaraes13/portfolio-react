@@ -1,3 +1,4 @@
+import "./solutions.css";
 import { useDemoLanguage, DemoLanguageSwitcher } from "../i18n/DemoLanguage";
 import React, { useEffect, useState } from "react";
 export function futureDate(offset = 1) {
