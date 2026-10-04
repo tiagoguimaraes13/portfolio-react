@@ -156,21 +156,6 @@ function CompanyWebsite() {
               a tailored experience could look like for your business.
             </p>
           </div>
-          <article className="featured-project concierge-feature">
-            <a className="concierge-product-shot" href="https://toimu.ee" target="_blank" rel="noreferrer" aria-label="Explore TOIMU city concierge">
-              <img src="/demonstrations/toimu-product.webp" alt="TOIMU homepage showing Your private concierge and its city discovery experience" loading="lazy" />
-              <span>Our own product · Live website ↗</span>
-            </a>
-            <div className="project-details">
-              <div>
-                <p className="eyebrow">Designed & developed by TOIMU Technologies OÜ</p>
-                <h3>TOIMU — Your personal city concierge.</h3>
-                <p>Discover Tallinn, explore curated places on an interactive map and see what’s happening around you. TOIMU brings city discovery and personalised planning together, with a private Concierge for Pro members.</p>
-                <a className="button dark" href="https://toimu.ee" target="_blank" rel="noreferrer">Explore TOIMU ↗</a>
-              </div>
-              <div className="tags"><span>Our own product</span><span>Product design</span><span>Maps & planning</span></div>
-            </div>
-          </article>
           <article className="studio-preview">
             <div className="studio-preview-art">
               <div>
