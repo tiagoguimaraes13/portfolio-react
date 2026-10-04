@@ -1039,3 +1039,32 @@ h2 em {
     letter-spacing: -1.5px;
   }
 }
+
+/* Language controls and text expansion across narrow screens. */
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+.language-switcher { flex-shrink: 0; margin-left: auto; }
+.language-switcher select { font: inherit; font-size: 15px; color: inherit; background: transparent; border: 1px solid currentColor; border-radius: 4px; padding: 8px 28px 8px 10px; max-width: 140px; cursor: pointer; }
+.language-switcher option { color: #302d28; background: #f7f4ed; }
+.language-switcher select:focus-visible { outline: 3px solid #cbb79f; outline-offset: 4px; }
+.header { gap: 24px; }
+.header .wordmark { min-width: 0; }
+.navigation { flex-wrap: wrap; justify-content: flex-end; gap: 12px 24px; }
+.section-heading > *, .project-details > *, .contact > *, .service > *, .company-package-grid article { min-width: 0; }
+h1, h2, h3, .button, .enquiry-services label, .enquiry-progress li { overflow-wrap: anywhere; }
+.button { white-space: normal; text-align: center; }
+.company-legal-page header { gap: 18px; flex-wrap: wrap; }
+.enquiry-progress li { min-width: 0; }
+.enquiry-email-preview pre { max-width: 100%; }
+@media (max-width: 1100px) and (min-width: 601px) { .header { flex-wrap: wrap; padding-top: 24px; } .header .navigation { width: 100%; justify-content: center; } .hero { padding-top: 210px; } }
+@media (max-width: 600px) {
+  .header { gap: 12px; flex-wrap: wrap; }
+  .header .wordmark { flex: 1 1 100%; max-width: 100%; font-size: clamp(22px, 6.2vw, 30px); }
+  .header .language-switcher { margin-left: 0; }
+  .header .menu-toggle { margin-left: auto; }
+  .navigation.open { top: 140px; width: min(90vw, 360px); max-height: calc(100svh - 160px); overflow-y: auto; }
+  .hero { padding-top: 220px; }
+  .hero h1 { font-size: clamp(36px, 10vw, 60px); letter-spacing: -1.5px; }
+  .section h2 { font-size: clamp(30px, 8.5vw, 48px); }
+  .company-promo { flex-wrap: wrap; }
+  .company-legal-page header .wordmark { width: 100%; }
+}

@@ -1,0 +1,1647 @@
+{
+  "Website language": {
+    "et": "Veebilehe keel",
+    "ru": "Язык сайта",
+    "fi": "Sivuston kieli"
+  },
+  "Skip to content": {
+    "et": "Liigu sisu juurde",
+    "ru": "Перейти к содержимому",
+    "fi": "Siirry sisältöön"
+  },
+  "TOIMU Technologies home": {
+    "et": "TOIMU Technologies avaleht",
+    "ru": "Главная TOIMU Technologies",
+    "fi": "TOIMU Technologies etusivu"
+  },
+  "Close": {
+    "et": "Sulge",
+    "ru": "Закрыть",
+    "fi": "Sulje"
+  },
+  "Menu": {
+    "et": "Menüü",
+    "ru": "Меню",
+    "fi": "Valikko"
+  },
+  "Main navigation": {
+    "et": "Põhinavigatsioon",
+    "ru": "Основная навигация",
+    "fi": "Päävalikko"
+  },
+  "Services": {
+    "et": "Teenused",
+    "ru": "Услуги",
+    "fi": "Palvelut"
+  },
+  "Our work": {
+    "et": "Meie tööd",
+    "ru": "Наши работы",
+    "fi": "Työmme"
+  },
+  "Solutions": {
+    "et": "Lahendused",
+    "ru": "Решения",
+    "fi": "Ratkaisut"
+  },
+  "Contact": {
+    "et": "Kontakt",
+    "ru": "Контакты",
+    "fi": "Yhteystiedot"
+  },
+  "Web design & development": {
+    "et": "Veebidisain ja arendus",
+    "ru": "Веб-дизайн и разработка",
+    "fi": "Verkkosuunnittelu ja kehitys"
+  },
+  "Websites that": {
+    "et": "Veebilehed, mis",
+    "ru": "Сайты, которые",
+    "fi": "Verkkosivut, jotka"
+  },
+  "make a mark.": {
+    "et": "jäävad meelde.",
+    "ru": "запоминаются.",
+    "fi": "jäävät mieleen."
+  },
+  "Thoughtful design. Purposeful development.": {
+    "et": "Läbimõeldud disain. Eesmärgipärane arendus.",
+    "ru": "Продуманный дизайн. Разработка с целью.",
+    "fi": "Harkittu suunnittelu. Kehitys tarkoituksella."
+  },
+  "Websites built for your next chapter.": {
+    "et": "Veebilehed sinu ettevõtte järgmiseks sammuks.",
+    "ru": "Сайты для нового этапа вашего бизнеса.",
+    "fi": "Verkkosivut yrityksesi seuraavaan vaiheeseen."
+  },
+  "Start your project": {
+    "et": "Alustame sinu projektiga",
+    "ru": "Начать проект",
+    "fi": "Aloita projektisi"
+  },
+  "Explore our work": {
+    "et": "Tutvu meie töödega",
+    "ru": "Посмотреть наши работы",
+    "fi": "Tutustu töihimme"
+  },
+  "01 / Selected work": {
+    "et": "01 / Valitud tööd",
+    "ru": "01 / Избранные работы",
+    "fi": "01 / Valitut työt"
+  },
+  "Ideas made": {
+    "et": "Ideed saavad",
+    "ru": "Идеи становятся",
+    "fi": "Ideat muuttuvat"
+  },
+  "real.": {
+    "et": "teoks.",
+    "ru": "реальностью.",
+    "fi": "todeksi."
+  },
+  "Explore our own product and interactive concept websites. See what a tailored experience could look like for your business.": {
+    "et": "Tutvu meie oma toote ja interaktiivsete näidisveebilehtedega. Vaata, milline võiks olla sinu ettevõttele loodud lahendus.",
+    "ru": "Познакомьтесь с нашим продуктом и интерактивными концепциями сайтов. Представьте решение, созданное для вашего бизнеса.",
+    "fi": "Tutustu omaan tuotteeseemme ja interaktiivisiin konseptisivustoihin. Näe, miltä yrityksellesi suunniteltu ratkaisu voisi näyttää."
+  },
+  "OUR OWN PRODUCT / CITY DISCOVERY": {
+    "et": "MEIE OMA TOODE / LINNA AVASTAMINE",
+    "ru": "НАШ ПРОДУКТ / ОТКРЫВАЙТЕ ГОРОД",
+    "fi": "OMA TUOTTEEMME / KAUPUNGIN LÖYTÖRETKI"
+  },
+  "Go somewhere good.": {
+    "et": "Leia oma järgmine lemmikpaik.",
+    "ru": "Откройте новое любимое место.",
+    "fi": "Löydä seuraava suosikkipaikkasi."
+  },
+  "Discover Tallinn": {
+    "et": "Avasta Tallinna",
+    "ru": "Откройте Таллинн",
+    "fi": "Tutustu Tallinnaan"
+  },
+  "Find your next favourite": {
+    "et": "Leia uus lemmik",
+    "ru": "Найдите новое любимое место",
+    "fi": "Löydä uusi suosikkisi"
+  },
+  "Plan your day": {
+    "et": "Planeeri oma päev",
+    "ru": "Спланируйте свой день",
+    "fi": "Suunnittele päiväsi"
+  },
+  "Explore TOIMU": {
+    "et": "Avasta TOIMU",
+    "ru": "Откройте TOIMU",
+    "fi": "Tutustu TOIMUun"
+  },
+  "Explore TOIMU ↗": {
+    "et": "Avasta TOIMU ↗",
+    "ru": "Откройте TOIMU ↗",
+    "fi": "Tutustu TOIMUun ↗"
+  },
+  "One city. More possibilities.": {
+    "et": "Üks linn. Rohkem võimalusi.",
+    "ru": "Один город. Больше возможностей.",
+    "fi": "Yksi kaupunki. Enemmän mahdollisuuksia."
+  },
+  "A city discovery platform bringing places, local happenings and personal planning into one experience.": {
+    "et": "Linna avastamise platvorm, mis ühendab kohad, kohalikud sündmused ja isikliku päevaplaani.",
+    "ru": "Платформа для знакомства с городом, объединяющая места, местные события и личные планы.",
+    "fi": "Kaupungin löytämiseen tarkoitettu palvelu, joka yhdistää paikat, paikalliset tapahtumat ja henkilökohtaisen suunnittelun."
+  },
+  "Product design": {
+    "et": "Tootedisain",
+    "ru": "Дизайн продукта",
+    "fi": "Tuotesuunnittelu"
+  },
+  "Web development": {
+    "et": "Veebiarendus",
+    "ru": "Веб-разработка",
+    "fi": "Verkkokehitys"
+  },
+  "Maps & planning": {
+    "et": "Kaardid ja planeerimine",
+    "ru": "Карты и планирование",
+    "fi": "Kartat ja suunnittelu"
+  },
+  "Concept website · Interactive demo": {
+    "et": "Näidisveebileht · Interaktiivne demo",
+    "ru": "Концепция сайта · Интерактивное демо",
+    "fi": "Konseptisivusto · Interaktiivinen demo"
+  },
+  "A fresh cut. A fresh perspective.": {
+    "et": "Värske soeng. Uus vaatenurk.",
+    "ru": "Новая стрижка. Новый взгляд.",
+    "fi": "Uusi leikkaus. Uusi näkökulma."
+  },
+  "View demo": {
+    "et": "Vaata demot",
+    "ru": "Посмотреть демо",
+    "fi": "Katso demo"
+  },
+  "View demo ↗": {
+    "et": "Vaata demot ↗",
+    "ru": "Посмотреть демо ↗",
+    "fi": "Katso demo ↗"
+  },
+  "A booking experience with style.": {
+    "et": "Stiilne broneerimiskogemus.",
+    "ru": "Стильное бронирование.",
+    "fi": "Varaaminen tyylillä."
+  },
+  "A fictional barber studio with service selection, stylist choice and an interactive appointment flow. Try it without making a real booking.": {
+    "et": "Väljamõeldud juuksuristuudio, kus saad valida teenuse ja juuksuri ning proovida interaktiivset broneerimist. Päris broneeringut ei tehta.",
+    "ru": "Вымышленная парикмахерская с выбором услуги, мастера и интерактивным бронированием. Попробуйте без реальной записи.",
+    "fi": "Kuvitteellinen parturi, jossa voit valita palvelun ja tekijän sekä kokeilla ajanvarausta. Oikeaa varausta ei tehdä."
+  },
+  "Barber & grooming": {
+    "et": "Juuksur ja hooldus",
+    "ru": "Стрижки и уход",
+    "fi": "Parturi ja hoito"
+  },
+  "Interactive booking": {
+    "et": "Interaktiivne broneerimine",
+    "ru": "Интерактивное бронирование",
+    "fi": "Interaktiivinen ajanvaraus"
+  },
+  "Concept website": {
+    "et": "Näidisveebileht",
+    "ru": "Концепция сайта",
+    "fi": "Konseptisivusto"
+  },
+  "Concept website · Construction": {
+    "et": "Näidisveebileht · Ehitus",
+    "ru": "Концепция сайта · Строительство",
+    "fi": "Konseptisivusto · Rakentaminen"
+  },
+  "Built with care. Made to last.": {
+    "et": "Hoolikalt ehitatud. Kestma loodud.",
+    "ru": "Построено с заботой. Создано надолго.",
+    "fi": "Huolella rakennettu. Kestämään tehty."
+  },
+  "View construction demo": {
+    "et": "Vaata ehitusettevõtte demot",
+    "ru": "Посмотреть строительное демо",
+    "fi": "Katso rakennusalan demo"
+  },
+  "A solid first impression.": {
+    "et": "Kindel esmamulje.",
+    "ru": "Уверенное первое впечатление.",
+    "fi": "Vahva ensivaikutelma."
+  },
+  "Explore project concepts, filter by service and try an example quote-request flow.": {
+    "et": "Tutvu näidisprojektidega, filtreeri teenuse järgi ja proovi hinnapäringu näidisvormi.",
+    "ru": "Посмотрите концепции проектов, выберите услугу и попробуйте демонстрационную заявку.",
+    "fi": "Tutustu konseptiprojekteihin, suodata palvelun mukaan ja kokeile tarjouspyyntöä."
+  },
+  "Concept website · Online store": {
+    "et": "Näidisveebileht · E-pood",
+    "ru": "Концепция сайта · Интернет-магазин",
+    "fi": "Konseptisivusto · Verkkokauppa"
+  },
+  "A softer kind of home.": {
+    "et": "Hubasem kodu.",
+    "ru": "Дом, в котором уютно.",
+    "fi": "Pehmeämpi koti."
+  },
+  "View store demo": {
+    "et": "Vaata e-poe demot",
+    "ru": "Посмотреть демо магазина",
+    "fi": "Katso verkkokaupan demo"
+  },
+  "A shopping experience to explore.": {
+    "et": "Ostukogemus, mida avastada.",
+    "ru": "Откройте новый опыт покупок.",
+    "fi": "Tutustumisen arvoinen ostokokemus."
+  },
+  "Browse a fictional collection, choose finishes and try the cart and simulated checkout.": {
+    "et": "Sirvi väljamõeldud kollektsiooni, vali viimistlus ja proovi ostukorvi ning näidiskassat.",
+    "ru": "Посмотрите вымышленную коллекцию, выберите отделку и попробуйте корзину и демонстрационное оформление заказа.",
+    "fi": "Selaa kuvitteellista mallistoa, valitse viimeistely ja kokeile ostoskoria sekä simuloitua kassaa."
+  },
+  "Concept website · Restaurant": {
+    "et": "Näidisveebileht · Restoran",
+    "ru": "Концепция сайта · Ресторан",
+    "fi": "Konseptisivusto · Ravintola"
+  },
+  "Good food. Better company.": {
+    "et": "Hea toit. Veel parem seltskond.",
+    "ru": "Хорошая еда. Отличная компания.",
+    "fi": "Hyvää ruokaa. Vielä parempaa seuraa."
+  },
+  "View restaurant demo": {
+    "et": "Vaata restorani demot",
+    "ru": "Посмотреть демо ресторана",
+    "fi": "Katso ravintolan demo"
+  },
+  "An evening starts with a good website.": {
+    "et": "Hea õhtu algab heast veebilehest.",
+    "ru": "Хороший вечер начинается с хорошего сайта.",
+    "fi": "Hyvä ilta alkaa hyvältä verkkosivulta."
+  },
+  "A seasonal sample menu and a simulated table-reservation experience.": {
+    "et": "Hooajaline näidismenüü ja laua broneerimise demo.",
+    "ru": "Сезонное примерное меню и демонстрация бронирования столика.",
+    "fi": "Kausittainen esimerkkimenu ja pöytävarauksen demo."
+  },
+  "Restaurant": {
+    "et": "Restoran",
+    "ru": "Ресторан",
+    "fi": "Ravintola"
+  },
+  "Table reservations": {
+    "et": "Laua broneerimine",
+    "ru": "Бронирование столиков",
+    "fi": "Pöytävaraukset"
+  },
+  "02 / What we do": {
+    "et": "02 / Mida me teeme",
+    "ru": "02 / Что мы делаем",
+    "fi": "02 / Mitä teemme"
+  },
+  "Big ideas.": {
+    "et": "Suured ideed.",
+    "ru": "Большие идеи.",
+    "fi": "Suuret ideat."
+  },
+  "Practical solutions.": {
+    "et": "Praktilised lahendused.",
+    "ru": "Практичные решения.",
+    "fi": "Käytännölliset ratkaisut."
+  },
+  "A fresh start.": {
+    "et": "Värske algus.",
+    "ru": "Новое начало.",
+    "fi": "Uusi alku."
+  },
+  "Business websites": {
+    "et": "Ettevõtete veebilehed",
+    "ru": "Сайты для бизнеса",
+    "fi": "Yritysten verkkosivut"
+  },
+  "A clear, distinctive website that introduces your business and makes it easy for customers to take the next step.": {
+    "et": "Selge ja omanäoline veebileht, mis tutvustab sinu ettevõtet ja aitab klientidel järgmise sammu teha.",
+    "ru": "Понятный и выразительный сайт, который представляет ваш бизнес и помогает клиентам сделать следующий шаг.",
+    "fi": "Selkeä ja erottuva verkkosivusto, joka esittelee yrityksesi ja auttaa asiakkaita ottamaan seuraavan askeleen."
+  },
+  "Your next chapter.": {
+    "et": "Sinu järgmine samm.",
+    "ru": "Ваш следующий этап.",
+    "fi": "Seuraava vaiheesi."
+  },
+  "Website redesigns": {
+    "et": "Veebilehtede uuendamine",
+    "ru": "Обновление сайтов",
+    "fi": "Verkkosivujen uudistaminen"
+  },
+  "Give your existing website a new direction, with better navigation, responsive layouts and a stronger brand presence.": {
+    "et": "Anna olemasolevale veebilehele uus suund parema navigeerimise, kohanduvate vaadete ja tugevama brändiga.",
+    "ru": "Обновите свой сайт: удобная навигация, адаптивный дизайн и более выразительный бренд.",
+    "fi": "Anna nykyiselle sivustollesi uusi suunta: parempi navigointi, mukautuvat näkymät ja vahvempi brändi."
+  },
+  "Beyond the ordinary.": {
+    "et": "Enamat kui tavaline.",
+    "ru": "Больше, чем обычный сайт.",
+    "fi": "Enemmän kuin tavallista."
+  },
+  "Custom web solutions": {
+    "et": "Eritellimusel veebilahendused",
+    "ru": "Индивидуальные веб-решения",
+    "fi": "Räätälöidyt verkkoratkaisut"
+  },
+  "Online stores, booking experiences and web applications built around what your business needs.": {
+    "et": "E-poed, broneerimislahendused ja veebirakendused sinu ettevõtte vajadustele.",
+    "ru": "Интернет-магазины, системы бронирования и веб-приложения для задач вашего бизнеса.",
+    "fi": "Verkkokaupat, ajanvaraus ja verkkosovellukset yrityksesi tarpeisiin."
+  },
+  "An identity of your own.": {
+    "et": "Sinu oma identiteet.",
+    "ru": "Ваш собственный стиль.",
+    "fi": "Oma identiteettisi."
+  },
+  "Logo design & visual identity": {
+    "et": "Logodisain ja visuaalne identiteet",
+    "ru": "Дизайн логотипа и фирменный стиль",
+    "fi": "Logosuunnittelu ja visuaalinen ilme"
+  },
+  "Original logo design, colour palettes and a consistent visual direction for your business. Start with a logo or bring your brand and website together.": {
+    "et": "Originaalne logo, värvipalett ja ühtne visuaalne suund sinu ettevõttele. Alusta logost või loo bränd ja veebileht koos.",
+    "ru": "Оригинальный логотип, цветовая палитра и единый визуальный стиль для бизнеса. Начните с логотипа или создайте бренд и сайт вместе.",
+    "fi": "Alkuperäinen logo, väripaletti ja yhtenäinen visuaalinen ilme yrityksellesi. Aloita logosta tai yhdistä brändi ja verkkosivusto."
+  },
+  "Starting from scratch or rebuilding what you have?": {
+    "et": "Alustad nullist või uuendad olemasolevat?",
+    "ru": "Начинаете с нуля или обновляете существующее?",
+    "fi": "Aloitatko alusta vai uudistatko nykyistä?"
+  },
+  "Let’s find the right approach": {
+    "et": "Leiame sobiva lahenduse",
+    "ru": "Найдём подходящий вариант",
+    "fi": "Etsitään sopiva ratkaisu"
+  },
+  "03 / The process": {
+    "et": "03 / Töö käik",
+    "ru": "03 / Процесс",
+    "fi": "03 / Työn vaiheet"
+  },
+  "No mystery.": {
+    "et": "Kõik on selge.",
+    "ru": "Всё понятно.",
+    "fi": "Selkeät vaiheet."
+  },
+  "Just momentum.": {
+    "et": "Liigume edasi.",
+    "ru": "Двигаемся вперёд.",
+    "fi": "Eteenpäin yhdessä."
+  },
+  "A straightforward process, clear communication and your feedback along the way.": {
+    "et": "Selge tööprotsess, avatud suhtlus ja sinu tagasiside igas etapis.",
+    "ru": "Понятный процесс, открытое общение и ваша обратная связь на каждом этапе.",
+    "fi": "Selkeä prosessi, avoin viestintä ja palautteesi matkan varrella."
+  },
+  "Discover": {
+    "et": "Kaardistame",
+    "ru": "Изучаем",
+    "fi": "Kartoitus"
+  },
+  "We talk about your business, your customers and what your website needs to achieve.": {
+    "et": "Räägime sinu ettevõttest, klientidest ja veebilehe eesmärkidest.",
+    "ru": "Обсуждаем ваш бизнес, клиентов и цели сайта.",
+    "fi": "Keskustelemme yrityksestäsi, asiakkaistasi ja sivuston tavoitteista."
+  },
+  "Design": {
+    "et": "Kujundame",
+    "ru": "Проектируем",
+    "fi": "Suunnittelu"
+  },
+  "We shape the visual direction and page layouts together, with room for your feedback.": {
+    "et": "Loome koos visuaalse suuna ja lehtede kujunduse, arvestades sinu tagasisidet.",
+    "ru": "Вместе создаём визуальный стиль и структуру страниц с учётом ваших пожеланий.",
+    "fi": "Luomme visuaalisen suunnan ja sivujen rakenteen yhdessä palautteesi pohjalta."
+  },
+  "Build": {
+    "et": "Arendame",
+    "ru": "Разрабатываем",
+    "fi": "Toteutus"
+  },
+  "Your design becomes a responsive website, with the features your business needs.": {
+    "et": "Kujundusest saab kohanduv veebileht koos sinu ettevõttele vajalike funktsioonidega.",
+    "ru": "Дизайн превращается в адаптивный сайт с нужными вашему бизнесу функциями.",
+    "fi": "Suunnitelmasta syntyy mukautuva verkkosivusto yrityksesi tarvitsemilla toiminnoilla."
+  },
+  "Launch": {
+    "et": "Avaldame",
+    "ru": "Запускаем",
+    "fi": "Julkaisu"
+  },
+  "We check the details, help you go live and discuss any ongoing support.": {
+    "et": "Kontrollime detaile, aitame veebilehe avaldada ja räägime edasisest toest.",
+    "ru": "Проверяем детали, помогаем запустить сайт и обсуждаем дальнейшую поддержку.",
+    "fi": "Tarkistamme yksityiskohdat, autamme julkaisussa ja keskustelemme jatkotuesta."
+  },
+  "04 / Start a conversation": {
+    "et": "04 / Alustame vestlust",
+    "ru": "04 / Начнём разговор",
+    "fi": "04 / Aloitetaan keskustelu"
+  },
+  "Your next": {
+    "et": "Sinu järgmine",
+    "ru": "Ваш следующий",
+    "fi": "Seuraava"
+  },
+  "big thing": {
+    "et": "suur idee",
+    "ru": "большой проект",
+    "fi": "suuri ideasi"
+  },
+  "starts here.": {
+    "et": "algab siit.",
+    "ru": "начинается здесь.",
+    "fi": "alkaa tästä."
+  },
+  "Tell us a little about your business and what you have in mind. You don’t need a finished brief.": {
+    "et": "Räägi meile oma ettevõttest ja ideest. Valmis lähteülesannet pole vaja.",
+    "ru": "Расскажите о своём бизнесе и идее. Готовое техническое задание не требуется.",
+    "fi": "Kerro yrityksestäsi ja ideastasi. Valmista suunnitelmaa ei tarvita."
+  },
+  "Book a free consultation": {
+    "et": "Broneeri tasuta konsultatsioon",
+    "ru": "Записаться на бесплатную консультацию",
+    "fi": "Varaa maksuton tapaaminen"
+  },
+  "Choose a time for a friendly conversation on Google Meet. Meetings are in English.": {
+    "et": "Vali sobiv aeg vestluseks Google Meetis. Kohtumised toimuvad inglise keeles.",
+    "ru": "Выберите удобное время для разговора в Google Meet. Встречи проходят на английском языке.",
+    "fi": "Valitse sopiva aika keskustelulle Google Meetissä. Tapaamiset ovat englanniksi."
+  },
+  "Websites with personality.": {
+    "et": "Isikupärased veebilehed.",
+    "ru": "Сайты с характером.",
+    "fi": "Persoonalliset verkkosivut."
+  },
+  "Solutions with purpose.": {
+    "et": "Eesmärgipärased lahendused.",
+    "ru": "Решения с целью.",
+    "fi": "Ratkaisut tarkoituksella."
+  },
+  "Registry code": {
+    "et": "Registrikood",
+    "ru": "Регистрационный код",
+    "fi": "Rekisteritunnus"
+  },
+  "Based in Estonia · Built for your business": {
+    "et": "Eestis loodud · Sinu ettevõtte jaoks",
+    "ru": "Создано в Эстонии · Для вашего бизнеса",
+    "fi": "Virosta · Yrityksellesi"
+  },
+  "Back to top": {
+    "et": "Tagasi üles",
+    "ru": "Наверх",
+    "fi": "Takaisin alkuun"
+  },
+  "Website Launch": {
+    "et": "Uus veebileht",
+    "ru": "Новый сайт",
+    "fi": "Uusi verkkosivusto"
+  },
+  "Website Redesign": {
+    "et": "Veebilehe uuendamine",
+    "ru": "Обновление сайта",
+    "fi": "Verkkosivuston uudistus"
+  },
+  "Online Store": {
+    "et": "E-pood",
+    "ru": "Интернет-магазин",
+    "fi": "Verkkokauppa"
+  },
+  "Custom Solutions": {
+    "et": "Erilahendused",
+    "ru": "Индивидуальные решения",
+    "fi": "Räätälöidyt ratkaisut"
+  },
+  "Logo Design & Branding": {
+    "et": "Logodisain ja bränding",
+    "ru": "Логотип и брендинг",
+    "fi": "Logo ja brändi"
+  },
+  "Maintenance & Support": {
+    "et": "Hooldus ja tugi",
+    "ru": "Обслуживание и поддержка",
+    "fi": "Ylläpito ja tuki"
+  },
+  "Not sure yet": {
+    "et": "Veel ei tea",
+    "ru": "Пока не знаю",
+    "fi": "En vielä tiedä"
+  },
+  "For a new beginning": {
+    "et": "Uueks alguseks",
+    "ru": "Для нового начала",
+    "fi": "Uuteen alkuun"
+  },
+  "Introduce your business with a website that makes the essentials easy to find.": {
+    "et": "Tutvusta oma ettevõtet veebilehega, kus oluline info on kergesti leitav.",
+    "ru": "Представьте бизнес на сайте, где важную информацию легко найти.",
+    "fi": "Esittele yrityksesi sivustolla, jolta olennaiset tiedot löytyvät helposti."
+  },
+  "Visual direction and page layouts": {
+    "et": "Visuaalne suund ja lehtede kujundus",
+    "ru": "Визуальный стиль и макеты страниц",
+    "fi": "Visuaalinen suunta ja sivujen ulkoasu"
+  },
+  "Responsive business pages": {
+    "et": "Kohanduvad ettevõtte lehed",
+    "ru": "Адаптивные страницы для бизнеса",
+    "fi": "Mukautuvat yrityssivut"
+  },
+  "Clear enquiry and contact paths": {
+    "et": "Selged päringu- ja kontaktivõimalused",
+    "ru": "Удобные заявки и связь",
+    "fi": "Selkeät yhteydenottotavat"
+  },
+  "Launch preparation": {
+    "et": "Avaldamise ettevalmistus",
+    "ru": "Подготовка к запуску",
+    "fi": "Julkaisun valmistelu"
+  },
+  "For your next chapter": {
+    "et": "Järgmiseks sammuks",
+    "ru": "Для следующего этапа",
+    "fi": "Seuraavaan vaiheeseen"
+  },
+  "Give an existing website a clearer structure and a fresh visual identity.": {
+    "et": "Anna olemasolevale veebilehele selgem struktuur ja värske visuaalne identiteet.",
+    "ru": "Обновите структуру и визуальный стиль существующего сайта.",
+    "fi": "Anna nykyiselle sivustolle selkeämpi rakenne ja uusi visuaalinen ilme."
+  },
+  "Review of your current website": {
+    "et": "Praeguse veebilehe ülevaatus",
+    "ru": "Анализ текущего сайта",
+    "fi": "Nykyisen sivuston arviointi"
+  },
+  "Updated design and navigation": {
+    "et": "Uuendatud disain ja navigeerimine",
+    "ru": "Обновлённый дизайн и навигация",
+    "fi": "Uudistettu ulkoasu ja navigointi"
+  },
+  "Content migration agreed in scope": {
+    "et": "Sisu üleviimine kokkulepitud mahus",
+    "ru": "Перенос контента в согласованном объёме",
+    "fi": "Sisällön siirto sovitussa laajuudessa"
+  },
+  "Mobile layout improvements": {
+    "et": "Mobiilivaadete parandamine",
+    "ru": "Улучшение мобильной версии",
+    "fi": "Mobiilinäkymien parannukset"
+  },
+  "For your next sale": {
+    "et": "Järgmiseks müügiks",
+    "ru": "Для новых продаж",
+    "fi": "Seuraavaan myyntiin"
+  },
+  "A shopping experience shaped around your products and customers.": {
+    "et": "Ostukogemus, mis lähtub sinu toodetest ja klientidest.",
+    "ru": "Покупки, продуманные под ваши товары и клиентов.",
+    "fi": "Tuotteillesi ja asiakkaillesi suunniteltu ostokokemus."
+  },
+  "Product and collection pages": {
+    "et": "Toote- ja kollektsioonilehed",
+    "ru": "Страницы товаров и коллекций",
+    "fi": "Tuote- ja mallistosivut"
+  },
+  "Shopping cart and checkout setup": {
+    "et": "Ostukorvi ja kassa seadistamine",
+    "ru": "Настройка корзины и оформления заказа",
+    "fi": "Ostoskorin ja kassan käyttöönotto"
+  },
+  "Payment and delivery integrations": {
+    "et": "Maksete ja tarne integratsioonid",
+    "ru": "Интеграция оплаты и доставки",
+    "fi": "Maksu- ja toimitusintegraatiot"
+  },
+  "Product management setup": {
+    "et": "Tootehalduse seadistamine",
+    "ru": "Настройка управления товарами",
+    "fi": "Tuotehallinnan käyttöönotto"
+  },
+  "For a different challenge": {
+    "et": "Teistsuguseks väljakutseks",
+    "ru": "Для особой задачи",
+    "fi": "Erilaiseen haasteeseen"
+  },
+  "Turn a specific business process into a digital experience that works for you.": {
+    "et": "Muuda ettevõtte tööprotsess digilahenduseks, mis sobib sinu vajadustega.",
+    "ru": "Превратите бизнес-процесс в удобное цифровое решение.",
+    "fi": "Muuta yrityksesi työprosessi sinulle sopivaksi digitaaliseksi ratkaisuksi."
+  },
+  "Requirements and workflow planning": {
+    "et": "Nõuete ja töövoo planeerimine",
+    "ru": "Планирование требований и процессов",
+    "fi": "Vaatimusten ja työnkulun suunnittelu"
+  },
+  "Booking systems or customer portals": {
+    "et": "Broneerimissüsteemid või kliendiportaalid",
+    "ru": "Системы бронирования и клиентские порталы",
+    "fi": "Varausjärjestelmät tai asiakasportaalit"
+  },
+  "Custom interfaces and integrations": {
+    "et": "Eritellimusel liidesed ja integratsioonid",
+    "ru": "Индивидуальные интерфейсы и интеграции",
+    "fi": "Räätälöidyt käyttöliittymät ja integraatiot"
+  },
+  "Testing of the agreed user journeys": {
+    "et": "Kokkulepitud kasutajateekondade testimine",
+    "ru": "Тестирование согласованных сценариев",
+    "fi": "Sovittujen käyttäjäpolkujen testaus"
+  },
+  "Find your starting point": {
+    "et": "Leia oma alguspunkt",
+    "ru": "Найдите точку старта",
+    "fi": "Löydä lähtökohtasi"
+  },
+  "A solution for": {
+    "et": "Lahendus",
+    "ru": "Решение",
+    "fi": "Ratkaisu"
+  },
+  "Your next step.": {
+    "et": "Sinu järgmiseks sammuks.",
+    "ru": "Для вашего следующего шага.",
+    "fi": "Seuraavaan askeleeseesi."
+  },
+  "your next step.": {
+    "et": "sinu järgmiseks sammuks.",
+    "ru": "для следующего шага.",
+    "fi": "seuraavaan askeleeseesi."
+  },
+  "Professional websites at approachable prices. Tell us what you need, and we’ll prepare a clear, personalised quote.": {
+    "et": "Professionaalsed veebilehed taskukohase hinnaga. Räägi oma vajadustest ja koostame selge, personaalse pakkumise.",
+    "ru": "Профессиональные сайты по доступной цене. Расскажите о своих задачах, и мы подготовим понятное индивидуальное предложение.",
+    "fi": "Ammattimaiset verkkosivut kohtuulliseen hintaan. Kerro tarpeistasi, niin laadimme selkeän, henkilökohtaisen tarjouksen."
+  },
+  "Tailored quote": {
+    "et": "Personaalne pakkumine",
+    "ru": "Индивидуальное предложение",
+    "fi": "Henkilökohtainen tarjous"
+  },
+  "Discuss": {
+    "et": "Räägime lahendusest:",
+    "ru": "Обсудить:",
+    "fi": "Keskustellaan:"
+  },
+  "Keep moving after launch.": {
+    "et": "Arendame edasi ka pärast avaldamist.",
+    "ru": "Развивайтесь после запуска.",
+    "fi": "Jatketaan julkaisun jälkeen."
+  },
+  "Optional maintenance, content updates and improvements, with the scope and ongoing costs agreed in advance.": {
+    "et": "Soovi korral hooldus, sisuuuendused ja täiustused. Töömaht ja püsikulud lepime eelnevalt kokku.",
+    "ru": "По желанию — обслуживание, обновление контента и улучшения. Объём работ и расходы согласуем заранее.",
+    "fi": "Halutessasi ylläpitoa, sisältöpäivityksiä ja parannuksia. Laajuus ja jatkuvat kustannukset sovitaan etukäteen."
+  },
+  "Discuss ongoing support": {
+    "et": "Räägime edasisest toest",
+    "ru": "Обсудить дальнейшую поддержку",
+    "fi": "Keskustellaan jatkotuesta"
+  },
+  "A few useful answers": {
+    "et": "Mõned kasulikud vastused",
+    "ru": "Полезные ответы",
+    "fi": "Hyödyllisiä vastauksia"
+  },
+  "Before we": {
+    "et": "Enne kui",
+    "ru": "Прежде чем",
+    "fi": "Ennen kuin"
+  },
+  "get started.": {
+    "et": "alustame.",
+    "ru": "начнём.",
+    "fi": "aloitamme."
+  },
+  "Have a different question? Include it in your project brief below.": {
+    "et": "Kas sul on muu küsimus? Lisa see allpool oma projektikirjeldusse.",
+    "ru": "Есть другой вопрос? Добавьте его в описание проекта ниже.",
+    "fi": "Onko sinulla muu kysymys? Lisää se alla olevaan projektikuvaukseen."
+  },
+  "Website services": {
+    "et": "Veebiteenused",
+    "ru": "Услуги для сайтов",
+    "fi": "Verkkopalvelut"
+  },
+  "A new business. A fresh start. A website that feels like you.": {
+    "et": "Uus ettevõte. Värske algus. Veebileht, mis on sinu nägu.",
+    "ru": "Новый бизнес. Новое начало. Сайт с вашим характером.",
+    "fi": "Uusi yritys. Uusi alku. Sinun näköisesi verkkosivusto."
+  },
+  "Explore our solutions": {
+    "et": "Tutvu lahendustega",
+    "ru": "Посмотреть решения",
+    "fi": "Tutustu ratkaisuihin"
+  },
+  "Try the possibilities": {
+    "et": "Proovi võimalusi",
+    "ru": "Попробуйте возможности",
+    "fi": "Kokeile mahdollisuuksia"
+  },
+  "See what your website could do.": {
+    "et": "Vaata, mida sinu veebileht võiks teha.",
+    "ru": "Посмотрите, что может ваш сайт.",
+    "fi": "Näe, mitä sivustosi voisi tehdä."
+  },
+  "Bookings, enquiries, online shopping and more. Explore the interactive concepts.": {
+    "et": "Broneeringud, päringud, e-ostud ja palju muud. Tutvu interaktiivsete näidetega.",
+    "ru": "Бронирование, заявки, онлайн-покупки и многое другое. Изучите интерактивные концепции.",
+    "fi": "Varaukset, yhteydenotot, verkkokauppa ja paljon muuta. Tutustu interaktiivisiin konsepteihin."
+  },
+  "Explore the demos": {
+    "et": "Tutvu demodega",
+    "ru": "Посмотреть демо",
+    "fi": "Tutustu demoihin"
+  },
+  "Partners & demonstrations": {
+    "et": "Partnerid ja näidislahendused",
+    "ru": "Партнёры и демонстрации",
+    "fi": "Kumppanit ja esimerkit"
+  },
+  "Real businesses.": {
+    "et": "Päris ettevõtted.",
+    "ru": "Реальные компании.",
+    "fi": "Oikeat yritykset."
+  },
+  "Fresh possibilities.": {
+    "et": "Uued võimalused.",
+    "ru": "Новые возможности.",
+    "fi": "Uudet mahdollisuudet."
+  },
+  "Independent website concepts created for real businesses. Explore the designs and interactions to see what we could build for you.": {
+    "et": "Sõltumatud veebilehekontseptsioonid päris ettevõtetele. Tutvu kujunduse ja funktsioonidega ning vaata, mida võiksime sinu jaoks luua.",
+    "ru": "Независимые концепции сайтов для реальных компаний. Изучите дизайн и функции, чтобы представить решение для своего бизнеса.",
+    "fi": "Itsenäiset verkkosivukonseptit oikeille yrityksille. Tutustu ulkoasuun ja toimintoihin ja näe, mitä voisimme luoda sinulle."
+  },
+  "TOIMU is our own live product. The other websites are uncommissioned portfolio demonstrations, not confirmed client websites or partnerships; their forms and shopping flows are illustrative.": {
+    "et": "TOIMU on meie enda toimiv toode. Teised veebilehed on tellimuseta loodud portfoolionäited, mitte kinnitatud klienditööd või partnerlused. Vormid ja ostuteekonnad on näitlikud.",
+    "ru": "TOIMU — наш действующий продукт. Другие сайты — самостоятельные демонстрации портфолио, а не заказанные клиентские работы или подтверждённые партнёрства. Формы и покупки показаны для примера.",
+    "fi": "TOIMU on oma toimiva tuotteemme. Muut sivustot ovat oma-aloitteisia portfoliodemoja, eivät tilattuja asiakastöitä tai vahvistettuja kumppanuuksia. Lomakkeet ja ostotoiminnot ovat esimerkkejä."
+  },
+  "Original logos created by us. Our own product and independent website demonstrations.": {
+    "et": "Meie loodud originaallogod. Meie oma toode ja sõltumatud veebilehenäited.",
+    "ru": "Оригинальные логотипы нашей разработки. Наш продукт и независимые демонстрации сайтов.",
+    "fi": "Itse suunnittelemamme logot. Oma tuotteemme ja itsenäiset verkkosivudemot."
+  },
+  "Play logo animation": {
+    "et": "Käivita logoanimatsioon",
+    "ru": "Запустить анимацию логотипов",
+    "fi": "Käynnistä logoanimaatio"
+  },
+  "Pause logo animation": {
+    "et": "Peata logoanimatsioon",
+    "ru": "Остановить анимацию логотипов",
+    "fi": "Pysäytä logoanimaatio"
+  },
+  "Confirmed partners": {
+    "et": "Kinnitatud partnerid",
+    "ru": "Подтверждённые партнёры",
+    "fi": "Vahvistetut kumppanit"
+  },
+  "Visit website": {
+    "et": "Külasta veebilehte",
+    "ru": "Перейти на сайт",
+    "fi": "Avaa verkkosivusto"
+  },
+  "Your next chapter": {
+    "et": "Sinu järgmine samm",
+    "ru": "Ваш следующий этап",
+    "fi": "Seuraava vaiheesi"
+  },
+  "Your business could be our next collaboration.": {
+    "et": "Sinu ettevõttest võib saada meie järgmine koostööpartner.",
+    "ru": "Ваш бизнес может стать нашим следующим проектом.",
+    "fi": "Yrityksesi voisi olla seuraava yhteistyökumppanimme."
+  },
+  "Let’s talk": {
+    "et": "Räägime",
+    "ru": "Давайте обсудим",
+    "fi": "Keskustellaan"
+  },
+  "Our own product": {
+    "et": "Meie oma toode",
+    "ru": "Наш продукт",
+    "fi": "Oma tuotteemme"
+  },
+  "Transport & logistics": {
+    "et": "Transport ja logistika",
+    "ru": "Транспорт и логистика",
+    "fi": "Kuljetus ja logistiikka"
+  },
+  "Landscaping & construction": {
+    "et": "Haljastus ja ehitus",
+    "ru": "Ландшафтные работы и строительство",
+    "fi": "Viherrakentaminen ja rakentaminen"
+  },
+  "Online boutique": {
+    "et": "Veebibutiik",
+    "ru": "Онлайн-бутик",
+    "fi": "Verkkoputiikki"
+  },
+  "Art & culture": {
+    "et": "Kunst ja kultuur",
+    "ru": "Искусство и культура",
+    "fi": "Taide ja kulttuuri"
+  },
+  "Creative studio": {
+    "et": "Loovstuudio",
+    "ru": "Творческая студия",
+    "fi": "Luova studio"
+  },
+  "Appointment booking": {
+    "et": "Aja broneerimine",
+    "ru": "Запись на приём",
+    "fi": "Ajanvaraus"
+  },
+  "Online payments": {
+    "et": "Veebimaksed",
+    "ru": "Онлайн-оплата",
+    "fi": "Verkkomaksut"
+  },
+  "Product catalogue": {
+    "et": "Tootekataloog",
+    "ru": "Каталог товаров",
+    "fi": "Tuoteluettelo"
+  },
+  "Customer accounts": {
+    "et": "Kliendikontod",
+    "ru": "Личные кабинеты",
+    "fi": "Asiakastilit"
+  },
+  "Multiple languages": {
+    "et": "Mitu keelt",
+    "ru": "Несколько языков",
+    "fi": "Useita kieliä"
+  },
+  "Admin dashboard": {
+    "et": "Halduspaneel",
+    "ru": "Панель управления",
+    "fi": "Hallintapaneeli"
+  },
+  "External integrations": {
+    "et": "Välised integratsioonid",
+    "ru": "Внешние интеграции",
+    "fi": "Ulkoiset integraatiot"
+  },
+  "Help with content": {
+    "et": "Abi sisuga",
+    "ru": "Помощь с контентом",
+    "fi": "Apua sisältöön"
+  },
+  "Your business": {
+    "et": "Sinu ettevõte",
+    "ru": "Ваш бизнес",
+    "fi": "Yrityksesi"
+  },
+  "What you need": {
+    "et": "Sinu vajadused",
+    "ru": "Ваши задачи",
+    "fi": "Tarpeesi"
+  },
+  "Project details": {
+    "et": "Projekti detailid",
+    "ru": "Детали проекта",
+    "fi": "Projektin tiedot"
+  },
+  "Review & send": {
+    "et": "Vaata üle ja saada",
+    "ru": "Проверка и отправка",
+    "fi": "Tarkista ja lähetä"
+  },
+  "To discuss": {
+    "et": "Arutame koos",
+    "ru": "Обсудим вместе",
+    "fi": "Keskustellaan"
+  },
+  "Your brief stays in this page until you choose to email it.": {
+    "et": "Projektikirjeldus jääb sellele lehele, kuni otsustad selle e-postiga saata.",
+    "ru": "Описание проекта остаётся на этой странице, пока вы не решите отправить его по почте.",
+    "fi": "Projektikuvaus pysyy tällä sivulla, kunnes päätät lähettää sen sähköpostitse."
+  },
+  "Read the privacy policy": {
+    "et": "Loe privaatsuspoliitikat",
+    "ru": "Прочитать политику конфиденциальности",
+    "fi": "Lue tietosuojaseloste"
+  },
+  "Project enquiry steps": {
+    "et": "Projektipäringu etapid",
+    "ru": "Этапы заявки",
+    "fi": "Projektikyselyn vaiheet"
+  },
+  "Let’s start with your business.": {
+    "et": "Alustame sinu ettevõttest.",
+    "ru": "Начнём с вашего бизнеса.",
+    "fi": "Aloitetaan yrityksestäsi."
+  },
+  "What should your website do?": {
+    "et": "Mida peaks sinu veebileht tegema?",
+    "ru": "Что должен делать ваш сайт?",
+    "fi": "Mitä sivustosi pitäisi tehdä?"
+  },
+  "Tell us a little more.": {
+    "et": "Räägi meile veidi lähemalt.",
+    "ru": "Расскажите немного подробнее.",
+    "fi": "Kerro hieman lisää."
+  },
+  "Your project, in one brief.": {
+    "et": "Sinu projekt ühes kirjelduses.",
+    "ru": "Ваш проект в одном описании.",
+    "fi": "Projektisi yhdessä kuvauksessa."
+  },
+  "Choose a starting point. We can work out the details together.": {
+    "et": "Vali alguspunkt. Detailid saame koos läbi arutada.",
+    "ru": "Выберите отправную точку. Детали обсудим вместе.",
+    "fi": "Valitse lähtökohta. Voimme sopia yksityiskohdista yhdessä."
+  },
+  "Select any features you have in mind. It’s fine to leave this open.": {
+    "et": "Vali soovitud funktsioonid. Võid valiku ka lahtiseks jätta.",
+    "ru": "Выберите нужные функции. Можно пока ничего не выбирать.",
+    "fi": "Valitse mielessäsi olevat toiminnot. Voit jättää valinnan avoimeksi."
+  },
+  "A rough idea is enough to start a useful conversation.": {
+    "et": "Hea vestluse alustamiseks piisab esialgsest ideest.",
+    "ru": "Для начала разговора достаточно примерной идеи.",
+    "fi": "Alustava idea riittää hyvän keskustelun aloittamiseen."
+  },
+  "Review your details, then prepare an email or download the brief.": {
+    "et": "Vaata andmed üle, seejärel koosta e-kiri või laadi kirjeldus alla.",
+    "ru": "Проверьте данные, затем подготовьте письмо или скачайте описание.",
+    "fi": "Tarkista tiedot ja valmistele sähköposti tai lataa kuvaus."
+  },
+  "Which solution interests you?": {
+    "et": "Milline lahendus sind huvitab?",
+    "ru": "Какое решение вас интересует?",
+    "fi": "Mikä ratkaisu kiinnostaa sinua?"
+  },
+  "Business name (optional)": {
+    "et": "Ettevõtte nimi (valikuline)",
+    "ru": "Название компании (необязательно)",
+    "fi": "Yrityksen nimi (valinnainen)"
+  },
+  "Industry (optional)": {
+    "et": "Tegevusala (valikuline)",
+    "ru": "Сфера деятельности (необязательно)",
+    "fi": "Toimiala (valinnainen)"
+  },
+  "For example, hospitality or construction": {
+    "et": "Näiteks majutus või ehitus",
+    "ru": "Например, гостиничный бизнес или строительство",
+    "fi": "Esimerkiksi majoitus tai rakentaminen"
+  },
+  "Current website (optional)": {
+    "et": "Praegune veebileht (valikuline)",
+    "ru": "Текущий сайт (необязательно)",
+    "fi": "Nykyinen verkkosivusto (valinnainen)"
+  },
+  "Possible features": {
+    "et": "Võimalikud funktsioonid",
+    "ru": "Возможные функции",
+    "fi": "Mahdolliset toiminnot"
+  },
+  "Responsive layouts are part of every website discussion. These options help us understand any additional functionality.": {
+    "et": "Kohanduvad vaated kuuluvad iga veebilehe planeerimise juurde. Need valikud aitavad mõista lisafunktsioonide vajadust.",
+    "ru": "Адаптивный дизайн обсуждаем для каждого сайта. Эти варианты помогают понять, какие дополнительные функции нужны.",
+    "fi": "Mukautuvat näkymät kuuluvat jokaisen sivuston suunnitteluun. Nämä valinnat auttavat ymmärtämään lisätoimintojen tarpeen."
+  },
+  "Your name": {
+    "et": "Sinu nimi",
+    "ru": "Ваше имя",
+    "fi": "Nimesi"
+  },
+  "Email address": {
+    "et": "E-posti aadress",
+    "ru": "Электронная почта",
+    "fi": "Sähköpostiosoite"
+  },
+  "Your timeframe": {
+    "et": "Soovitud ajakava",
+    "ru": "Желаемые сроки",
+    "fi": "Toivottu aikataulu"
+  },
+  "Flexible / let’s discuss": {
+    "et": "Paindlik / arutame koos",
+    "ru": "Гибко / обсудим",
+    "fi": "Joustava / keskustellaan"
+  },
+  "Within 1 month": {
+    "et": "1 kuu jooksul",
+    "ru": "В течение месяца",
+    "fi": "Kuukauden kuluessa"
+  },
+  "Within 3 months": {
+    "et": "3 kuu jooksul",
+    "ru": "В течение 3 месяцев",
+    "fi": "3 kuukauden kuluessa"
+  },
+  "Within 6 months": {
+    "et": "6 kuu jooksul",
+    "ru": "В течение 6 месяцев",
+    "fi": "6 kuukauden kuluessa"
+  },
+  "Tell us about your project": {
+    "et": "Räägi oma projektist",
+    "ru": "Расскажите о проекте",
+    "fi": "Kerro projektistasi"
+  },
+  "What would you like to build or improve?": {
+    "et": "Mida soovid luua või parandada?",
+    "ru": "Что вы хотите создать или улучшить?",
+    "fi": "Mitä haluaisit rakentaa tai parantaa?"
+  },
+  "Your timeframe is a preference, not a confirmed delivery date. Your details stay in this page until you choose to send an email.": {
+    "et": "Ajakava on sinu soov, mitte kinnitatud valmimiskuupäev. Andmed jäävad sellele lehele, kuni otsustad e-kirja saata.",
+    "ru": "Указанные сроки — пожелание, а не подтверждённая дата сдачи. Данные остаются на странице до отправки письма.",
+    "fi": "Aikataulu on toive, ei vahvistettu toimituspäivä. Tietosi pysyvät tällä sivulla, kunnes päätät lähettää sähköpostin."
+  },
+  "Enter your name, a valid email address and a short project description.": {
+    "et": "Sisesta nimi, kehtiv e-posti aadress ja lühike projektikirjeldus.",
+    "ru": "Укажите имя, действующий адрес почты и краткое описание проекта.",
+    "fi": "Anna nimesi, kelvollinen sähköpostiosoite ja lyhyt projektikuvaus."
+  },
+  "Back": {
+    "et": "Tagasi",
+    "ru": "Назад",
+    "fi": "Takaisin"
+  },
+  "Review my brief": {
+    "et": "Vaata kirjeldus üle",
+    "ru": "Проверить описание",
+    "fi": "Tarkista kuvaus"
+  },
+  "Continue": {
+    "et": "Jätka",
+    "ru": "Далее",
+    "fi": "Jatka"
+  },
+  "Business": {
+    "et": "Ettevõte",
+    "ru": "Компания",
+    "fi": "Yritys"
+  },
+  "Solution": {
+    "et": "Lahendus",
+    "ru": "Решение",
+    "fi": "Ratkaisu"
+  },
+  "Features": {
+    "et": "Funktsioonid",
+    "ru": "Функции",
+    "fi": "Toiminnot"
+  },
+  "Timeframe": {
+    "et": "Ajakava",
+    "ru": "Сроки",
+    "fi": "Aikataulu"
+  },
+  "Current website:": {
+    "et": "Praegune veebileht:",
+    "ru": "Текущий сайт:",
+    "fi": "Nykyinen verkkosivusto:"
+  },
+  "Project notes": {
+    "et": "Projekti märkmed",
+    "ru": "Описание проекта",
+    "fi": "Projektin kuvaus"
+  },
+  "Nothing has been submitted. Your email app opens when you choose the send link, and you send the message there.": {
+    "et": "Midagi pole saadetud. Saatmislingile vajutades avaneb sinu e-posti rakendus, kus saad kirja ise saata.",
+    "ru": "Ничего не отправлено. Ссылка откроет почтовое приложение, где вы сами отправите письмо.",
+    "fi": "Mitään ei ole lähetetty. Lähetyslinkki avaa sähköpostisovelluksen, josta lähetät viestin itse."
+  },
+  "Edit details": {
+    "et": "Muuda andmeid",
+    "ru": "Изменить данные",
+    "fi": "Muokkaa tietoja"
+  },
+  "Prepare my enquiry": {
+    "et": "Koosta päring",
+    "ru": "Подготовить заявку",
+    "fi": "Valmistele kysely"
+  },
+  "Your email is ready.": {
+    "et": "Sinu e-kiri on valmis.",
+    "ru": "Ваше письмо готово.",
+    "fi": "Sähköpostisi on valmis."
+  },
+  "We’ve organised your project details into a clear message. Review it below, then open your email app to send it.": {
+    "et": "Koondasime projekti andmed selgesse kirja. Vaata see allpool üle ja ava saatmiseks oma e-posti rakendus.",
+    "ru": "Мы собрали детали проекта в понятное письмо. Проверьте его ниже и откройте почтовое приложение для отправки.",
+    "fi": "Kokosimme projektin tiedot selkeäksi viestiksi. Tarkista se alla ja avaa sähköpostisovellus lähettämistä varten."
+  },
+  "Preview your email": {
+    "et": "Vaata e-kirja eelvaadet",
+    "ru": "Предпросмотр письма",
+    "fi": "Esikatsele sähköpostia"
+  },
+  "To:": {
+    "et": "Saaja:",
+    "ru": "Кому:",
+    "fi": "Vastaanottaja:"
+  },
+  "Open email app to send": {
+    "et": "Ava saatmiseks e-posti rakendus",
+    "ru": "Открыть почту для отправки",
+    "fi": "Avaa sähköpostisovellus"
+  },
+  "Download project brief": {
+    "et": "Laadi projektikirjeldus alla",
+    "ru": "Скачать описание проекта",
+    "fi": "Lataa projektikuvaus"
+  },
+  "If your email app cannot open the full message, download the brief and email it to hello@toimu.ee.": {
+    "et": "Kui e-posti rakendus ei ava tervet kirja, laadi kirjeldus alla ja saada see aadressile hello@toimu.ee.",
+    "ru": "Если почта не открывает полное письмо, скачайте описание и отправьте его на hello@toimu.ee.",
+    "fi": "Jos sähköpostisovellus ei avaa koko viestiä, lataa kuvaus ja lähetä se osoitteeseen hello@toimu.ee."
+  },
+  "Edit business and features": {
+    "et": "Muuda ettevõtet ja funktsioone",
+    "ru": "Изменить компанию и функции",
+    "fi": "Muokkaa yritystä ja toimintoja"
+  },
+  "Can you design a logo for my business?": {
+    "et": "Kas saate minu ettevõttele logo kujundada?",
+    "ru": "Можете разработать логотип для моей компании?",
+    "fi": "Voitteko suunnitella logon yritykselleni?"
+  },
+  "Yes. We create original logos and visual identities, including a colour palette and a consistent direction for your website. Logo design can be a standalone project or part of a website package. The logos in our demonstration showcase are examples of our work.": {
+    "et": "Jah. Loome originaallogosid ja visuaalseid identiteete, sealhulgas värvipaleti ning ühtse veebilehe stiili. Logo võib olla eraldi projekt või osa veebilehepaketist. Näidistes olevad logod on meie tööde näited.",
+    "ru": "Да. Мы создаём оригинальные логотипы и фирменный стиль, включая палитру и единое оформление сайта. Логотип может быть отдельным проектом или частью разработки сайта. Логотипы в демонстрациях — примеры наших работ.",
+    "fi": "Kyllä. Luomme alkuperäisiä logoja ja visuaalisia ilmeitä, kuten väripaletin ja yhtenäisen sivustotyylin. Logo voi olla oma projektinsa tai osa sivustopakettia. Demojen logot ovat esimerkkejä töistämme."
+  },
+  "How much will my website cost?": {
+    "et": "Kui palju minu veebileht maksab?",
+    "ru": "Сколько будет стоить мой сайт?",
+    "fi": "Paljonko verkkosivustoni maksaa?"
+  },
+  "We aim to make professional websites approachable for new and growing businesses. Tell us what you need, and we’ll prepare a clear, personalised quote based on the pages, content and functionality involved. Hosting, domain and third-party fees are listed separately.": {
+    "et": "Soovime teha professionaalsed veebilehed uutele ja kasvavatele ettevõtetele taskukohaseks. Räägi oma vajadustest ja koostame lehtede, sisu ning funktsioonide põhjal selge personaalse pakkumise. Majutuse, domeeni ja kolmandate osapoolte tasud toome eraldi välja.",
+    "ru": "Мы стремимся сделать профессиональные сайты доступными для новых и растущих компаний. Расскажите о своих задачах, и мы подготовим понятное предложение с учётом страниц, контента и функций. Хостинг, домен и сторонние сервисы указываются отдельно.",
+    "fi": "Tavoitteemme on tehdä ammattimaisista sivustoista kohtuuhintaisia uusille ja kasvaville yrityksille. Kerro tarpeistasi, niin laadimme selkeän tarjouksen sivujen, sisällön ja toimintojen perusteella. Hosting, verkkotunnus ja kolmansien osapuolten maksut eritellään."
+  },
+  "How long does a project take?": {
+    "et": "Kui kaua projekt aega võtab?",
+    "ru": "Сколько времени займёт проект?",
+    "fi": "Kuinka kauan projekti kestää?"
+  },
+  "The timeline depends on the scope, content readiness and feedback. We agree the stages and expected launch date before work begins, and discuss any changes that affect them.": {
+    "et": "Ajakava sõltub töömahust, sisu valmidusest ja tagasisidest. Enne töö algust lepime kokku etapid ning eeldatava avaldamiskuupäeva ja arutame neid mõjutavaid muudatusi.",
+    "ru": "Сроки зависят от объёма работ, готовности контента и обратной связи. Этапы и предполагаемую дату запуска согласуем до начала работ, а изменения обсудим отдельно.",
+    "fi": "Aikataulu riippuu laajuudesta, sisällön valmiudesta ja palautteesta. Sovimme vaiheet ja arvioidun julkaisupäivän ennen aloitusta ja keskustelemme niihin vaikuttavista muutoksista."
+  },
+  "Can you improve my existing website?": {
+    "et": "Kas saate mu olemasolevat veebilehte parandada?",
+    "ru": "Можете улучшить мой существующий сайт?",
+    "fi": "Voitteko parantaa nykyistä sivustoani?"
+  },
+  "Yes. We can start by reviewing what you have, what is working and what needs to change. The proposal can cover a focused improvement or a full redesign.": {
+    "et": "Jah. Alustame praeguse veebilehe ülevaatusest: mis toimib ja mida on vaja muuta. Pakkumine võib hõlmata kindlat parandust või täielikku uuendust.",
+    "ru": "Да. Начнём с оценки того, что уже есть, что работает и что стоит изменить. Предложение может включать отдельные улучшения или полный редизайн.",
+    "fi": "Kyllä. Arvioimme ensin, mitä sinulla on, mikä toimii ja mitä pitää muuttaa. Tarjous voi koskea yksittäisiä parannuksia tai kokonaisuudistusta."
+  },
+  "Do I need to provide the text and images?": {
+    "et": "Kas pean tekstid ja pildid ise andma?",
+    "ru": "Нужно ли предоставить тексты и изображения?",
+    "fi": "Pitääkö minun toimittaa tekstit ja kuvat?"
+  },
+  "Existing branding, text and photographs are a useful starting point. We discuss any writing, image sourcing or content preparation you need and include that work in the agreed scope.": {
+    "et": "Olemasolev bränd, tekstid ja fotod on hea algus. Arutame teksti loomise, piltide leidmise ja sisu ettevalmistamise vajadusi ning lisame töö kokkulepitud mahtu.",
+    "ru": "Существующий бренд, тексты и фотографии — хорошая отправная точка. Обсудим подготовку текстов, подбор изображений и контента и включим это в согласованный объём.",
+    "fi": "Nykyinen brändi, tekstit ja kuvat ovat hyvä lähtökohta. Keskustelemme kirjoittamisesta, kuvien hankinnasta ja sisällön valmistelusta ja sisällytämme työn sovittuun laajuuteen."
+  },
+  "Can you help with my domain and hosting?": {
+    "et": "Kas aitate domeeni ja veebimajutusega?",
+    "ru": "Поможете с доменом и хостингом?",
+    "fi": "Autatteko verkkotunnuksen ja hostingin kanssa?"
+  },
+  "We can help plan domain and hosting setup for the chosen website. Provider accounts, access, recurring fees and responsibilities are agreed before launch.": {
+    "et": "Aitame valitud veebilehe domeeni ja majutuse seadistamist planeerida. Teenusepakkujate kontod, ligipääsud, püsitasud ja vastutus lepitakse kokku enne avaldamist.",
+    "ru": "Поможем спланировать настройку домена и хостинга. Аккаунты, доступы, регулярные платежи и ответственность согласуем до запуска.",
+    "fi": "Autamme suunnittelemaan verkkotunnuksen ja hostingin käyttöönoton. Palvelutilit, käyttöoikeudet, jatkuvat maksut ja vastuut sovitaan ennen julkaisua."
+  },
+  "Who owns the finished website?": {
+    "et": "Kellele valmis veebileht kuulub?",
+    "ru": "Кому принадлежит готовый сайт?",
+    "fi": "Kuka omistaa valmiin sivuston?"
+  },
+  "Ownership, source-code handover and account access are set out in the project agreement. Third-party platforms, fonts, images and software may have their own licence terms.": {
+    "et": "Omand, lähtekoodi üleandmine ja kontode ligipääs määratakse projektilepingus. Kolmandate osapoolte platvormidel, fontidel, piltidel ja tarkvaral võivad olla oma litsentsitingimused.",
+    "ru": "Права собственности, передача исходного кода и доступы определяются договором. Сторонние платформы, шрифты, изображения и ПО могут иметь собственные лицензии.",
+    "fi": "Omistus, lähdekoodin luovutus ja käyttöoikeudet määritellään projektisopimuksessa. Kolmansien osapuolten alustoilla, fonteilla, kuvilla ja ohjelmilla voi olla omat lisenssiehtonsa."
+  },
+  "Can you add bookings, payments or an online store?": {
+    "et": "Kas saate lisada broneeringud, maksed või e-poe?",
+    "ru": "Можете добавить бронирование, оплату или магазин?",
+    "fi": "Voitteko lisätä varaukset, maksut tai verkkokaupan?"
+  },
+  "Yes. These features need the right platform, service accounts and integrations. Our interactive concepts show possible experiences; production systems require live services, configuration and testing.": {
+    "et": "Jah. Need funktsioonid vajavad sobivat platvormi, teenusekontosid ja integratsioone. Interaktiivsed näited näitavad võimalusi; päris süsteemid vajavad toimivaid teenuseid, seadistamist ja testimist.",
+    "ru": "Да. Нужны подходящая платформа, сервисные аккаунты и интеграции. Наши концепции показывают возможности; рабочие системы требуют подключённых сервисов, настройки и тестирования.",
+    "fi": "Kyllä. Toiminnot tarvitsevat sopivan alustan, palvelutilit ja integraatiot. Konseptimme näyttävät mahdollisuuksia; tuotantojärjestelmät vaativat toimivat palvelut, asetukset ja testauksen."
+  },
+  "What happens after launch?": {
+    "et": "Mis saab pärast avaldamist?",
+    "ru": "Что происходит после запуска?",
+    "fi": "Mitä tapahtuu julkaisun jälkeen?"
+  },
+  "We can discuss optional maintenance, content updates and further development. The work, support hours, fees and response expectations are agreed separately.": {
+    "et": "Võime kokku leppida hoolduse, sisuuuendused ja edasise arenduse. Tööd, toe ajad, tasud ja vastamise ootused lepitakse eraldi kokku.",
+    "ru": "Можно обсудить обслуживание, обновление контента и дальнейшее развитие. Работы, часы поддержки, стоимость и сроки ответа согласуются отдельно.",
+    "fi": "Voimme sopia ylläpidosta, sisältöpäivityksistä ja jatkokehityksestä. Työ, tukiajat, maksut ja vastausajat sovitaan erikseen."
+  },
+  "Are the portfolio demos real businesses?": {
+    "et": "Kas portfoolio demod on päris ettevõtted?",
+    "ru": "Демо в портфолио — реальные компании?",
+    "fi": "Ovatko portfoliodemot oikeita yrityksiä?"
+  },
+  "STUDIO CUT, NORD BUILD, FORM & FIELD and OLIVE & TABLE are fictional concepts. Miguel AM, Cardoso, B.Cocoon, OKOA and TG are independent website concepts for real businesses, not confirmed client partnerships. Their enquiries and shopping flows are demonstrations. TOIMU is our own city discovery product.": {
+    "et": "STUDIO CUT, NORD BUILD, FORM & FIELD ja OLIVE & TABLE on väljamõeldud kontseptsioonid. Miguel AM, Cardoso, B.Cocoon, OKOA ja TG on sõltumatud veebilehekontseptsioonid päris ettevõtetele, mitte kinnitatud kliendipartnerlused. Päringud ja ostuteekonnad on näited. TOIMU on meie oma linna avastamise toode.",
+    "ru": "STUDIO CUT, NORD BUILD, FORM & FIELD и OLIVE & TABLE — вымышленные концепции. Miguel AM, Cardoso, B.Cocoon, OKOA и TG — независимые концепции для реальных компаний, а не подтверждённые клиентские партнёрства. Заявки и покупки демонстрационные. TOIMU — наш продукт для знакомства с городом.",
+    "fi": "STUDIO CUT, NORD BUILD, FORM & FIELD ja OLIVE & TABLE ovat kuvitteellisia konsepteja. Miguel AM, Cardoso, B.Cocoon, OKOA ja TG ovat itsenäisiä konsepteja oikeille yrityksille, eivät vahvistettuja asiakaskumppanuuksia. Yhteydenotot ja ostot ovat demoja. TOIMU on oma kaupunkipalvelumme."
+  },
+  "Legal information": {
+    "et": "Õiguslik teave",
+    "ru": "Правовая информация",
+    "fi": "Oikeudelliset tiedot"
+  },
+  "Company information": {
+    "et": "Ettevõtte andmed",
+    "ru": "Информация о компании",
+    "fi": "Yrityksen tiedot"
+  },
+  "Privacy policy": {
+    "et": "Privaatsuspoliitika",
+    "ru": "Политика конфиденциальности",
+    "fi": "Tietosuojaseloste"
+  },
+  "Cookie policy": {
+    "et": "Küpsiste kasutamine",
+    "ru": "Политика cookie",
+    "fi": "Evästekäytäntö"
+  },
+  "Website terms": {
+    "et": "Veebilehe kasutustingimused",
+    "ru": "Условия использования сайта",
+    "fi": "Sivuston käyttöehdot"
+  },
+  "Website operator": {
+    "et": "Veebilehe haldaja",
+    "ru": "Оператор сайта",
+    "fi": "Sivuston ylläpitäjä"
+  },
+  "Our services": {
+    "et": "Meie teenused",
+    "ru": "Наши услуги",
+    "fi": "Palvelumme"
+  },
+  "Portfolio and partner information": {
+    "et": "Portfoolio ja partnerite teave",
+    "ru": "Портфолио и партнёры",
+    "fi": "Portfolio ja kumppanit"
+  },
+  "Contact and complaints": {
+    "et": "Kontakt ja kaebused",
+    "ru": "Обращения и жалобы",
+    "fi": "Yhteydenotot ja valitukset"
+  },
+  "Meeting bookings": {
+    "et": "Kohtumiste broneerimine",
+    "ru": "Бронирование встреч",
+    "fi": "Tapaamisten varaaminen"
+  },
+  "Who is responsible?": {
+    "et": "Kes vastutab?",
+    "ru": "Кто отвечает за данные?",
+    "fi": "Kuka vastaa tiedoista?"
+  },
+  "The enquiry wizard": {
+    "et": "Projektipäringu vorm",
+    "ru": "Форма заявки",
+    "fi": "Projektikysely"
+  },
+  "When you send an email": {
+    "et": "Kui saadad e-kirja",
+    "ru": "Когда вы отправляете письмо",
+    "fi": "Kun lähetät sähköpostin"
+  },
+  "Interactive demos": {
+    "et": "Interaktiivsed demod",
+    "ru": "Интерактивные демо",
+    "fi": "Interaktiiviset demot"
+  },
+  "Technical data and recipients": {
+    "et": "Tehnilised andmed ja saajad",
+    "ru": "Технические данные и получатели",
+    "fi": "Tekniset tiedot ja vastaanottajat"
+  },
+  "Retention": {
+    "et": "Säilitamine",
+    "ru": "Сроки хранения",
+    "fi": "Säilyttäminen"
+  },
+  "International processing": {
+    "et": "Rahvusvaheline töötlemine",
+    "ru": "Международная обработка",
+    "fi": "Kansainvälinen käsittely"
+  },
+  "Your rights": {
+    "et": "Sinu õigused",
+    "ru": "Ваши права",
+    "fi": "Oikeutesi"
+  },
+  "Choices and updates": {
+    "et": "Valikud ja uuendused",
+    "ru": "Выбор и обновления",
+    "fi": "Valinnat ja päivitykset"
+  },
+  "Current website behaviour": {
+    "et": "Veebilehe praegune toimimine",
+    "ru": "Текущее поведение сайта",
+    "fi": "Sivuston nykyinen toiminta"
+  },
+  "What the demos remember": {
+    "et": "Mida demod meelde jätavad",
+    "ru": "Что запоминают демо",
+    "fi": "Mitä demot muistavat"
+  },
+  "Hosting and external links": {
+    "et": "Majutus ja välislingid",
+    "ru": "Хостинг и внешние ссылки",
+    "fi": "Hosting ja ulkoiset linkit"
+  },
+  "If optional services are added": {
+    "et": "Valikuliste teenuste lisamisel",
+    "ru": "При добавлении необязательных сервисов",
+    "fi": "Jos valinnaisia palveluja lisätään"
+  },
+  "Questions": {
+    "et": "Küsimused",
+    "ru": "Вопросы",
+    "fi": "Kysymykset"
+  },
+  "About this website": {
+    "et": "Sellest veebilehest",
+    "ru": "Об этом сайте",
+    "fi": "Tietoa sivustosta"
+  },
+  "Enquiries and service agreements": {
+    "et": "Päringud ja teenuselepingud",
+    "ru": "Заявки и договоры",
+    "fi": "Kyselyt ja palvelusopimukset"
+  },
+  "Demonstrations": {
+    "et": "Näidislahendused",
+    "ru": "Демонстрации",
+    "fi": "Demot"
+  },
+  "Content and licences": {
+    "et": "Sisu ja litsentsid",
+    "ru": "Контент и лицензии",
+    "fi": "Sisältö ja lisenssit"
+  },
+  "Responsible use and links": {
+    "et": "Vastutustundlik kasutamine ja lingid",
+    "ru": "Ответственное использование и ссылки",
+    "fi": "Vastuullinen käyttö ja linkit"
+  },
+  "Accuracy and mandatory rights": {
+    "et": "Täpsus ja kohustuslikud õigused",
+    "ru": "Точность и обязательные права",
+    "fi": "Tarkkuus ja pakottavat oikeudet"
+  },
+  "Questions and applicable law": {
+    "et": "Küsimused ja kohaldatav õigus",
+    "ru": "Вопросы и применимое право",
+    "fi": "Kysymykset ja sovellettava laki"
+  },
+  "Contact us": {
+    "et": "Võta ühendust",
+    "ru": "Свяжитесь с нами",
+    "fi": "Ota yhteyttä"
+  },
+  "Website information · Updated 4 October 2026": {
+    "et": "Veebilehe teave · Uuendatud 4. oktoobril 2026",
+    "ru": "Информация о сайте · Обновлено 4 октября 2026",
+    "fi": "Sivuston tiedot · Päivitetty 4. lokakuuta 2026"
+  },
+  "View official registry entry": {
+    "et": "Vaata ametlikku registrikannet",
+    "ru": "Посмотреть запись в регистре",
+    "fi": "Katso virallinen rekisterimerkintä"
+  },
+  "Return to the website": {
+    "et": "Tagasi veebilehele",
+    "ru": "Вернуться на сайт",
+    "fi": "Palaa sivustolle"
+  },
+  "Web Design & Development": {
+    "et": "Veebidisain ja arendus",
+    "ru": "Веб-дизайн и разработка",
+    "fi": "Verkkosuunnittelu ja kehitys"
+  },
+  "· Registry code": {
+    "et": "· Registrikood",
+    "ru": "· Регистрационный код",
+    "fi": "· Rekisteritunnus"
+  },
+  "Demonstrations are in English.": {
+    "et": "Demod on inglise keeles.",
+    "ru": "Демонстрации на английском языке.",
+    "fi": "Demot ovat englanniksi."
+  },
+  "Hello TOIMU team,": {
+    "et": "Tere, TOIMU meeskond!",
+    "ru": "Здравствуйте, команда TOIMU!",
+    "fi": "Hei TOIMU-tiimi,"
+  },
+  "I’d like to discuss a project. Here is what I have in mind.": {
+    "et": "Soovin arutada projekti. Siin on minu esialgne idee.",
+    "ru": "Хочу обсудить проект. Вот моя первоначальная идея.",
+    "fi": "Haluaisin keskustella projektista. Tässä on alustava ideani."
+  },
+  "ABOUT THE BUSINESS": {
+    "et": "ETTEVÕTTEST",
+    "ru": "О КОМПАНИИ",
+    "fi": "TIETOA YRITYKSESTÄ"
+  },
+  "MY PROJECT": {
+    "et": "MINU PROJEKT",
+    "ru": "МОЙ ПРОЕКТ",
+    "fi": "PROJEKTINI"
+  },
+  "FEATURES I’M INTERESTED IN": {
+    "et": "SOOVITUD FUNKTSIOONID",
+    "ru": "ИНТЕРЕСУЮЩИЕ ФУНКЦИИ",
+    "fi": "TOIVOTUT TOIMINNOT"
+  },
+  "PREFERRED TIMING": {
+    "et": "SOOVITUD AJAKAVA",
+    "ru": "ЖЕЛАЕМЫЕ СРОКИ",
+    "fi": "TOIVOTTU AIKATAULU"
+  },
+  "Industry": {
+    "et": "Tegevusala",
+    "ru": "Сфера деятельности",
+    "fi": "Toimiala"
+  },
+  "I’d like your advice on the right features.": {
+    "et": "Soovin teie nõu sobivate funktsioonide valimisel.",
+    "ru": "Буду рад вашему совету по выбору функций.",
+    "fi": "Haluaisin neuvoja sopivien toimintojen valintaan."
+  },
+  "Please let me know the next steps.": {
+    "et": "Palun andke teada järgmistest sammudest.",
+    "ru": "Пожалуйста, сообщите о следующих шагах.",
+    "fi": "Kertokaa seuraavista vaiheista."
+  },
+  "Best regards,": {
+    "et": "Parimate soovidega",
+    "ru": "С уважением,",
+    "fi": "Ystävällisin terveisin,"
+  },
+  "Project enquiry prepared at TOIMU Technologies OÜ": {
+    "et": "Projektipäring koostatud TOIMU Technologies OÜ veebilehel",
+    "ru": "Заявка подготовлена на сайте TOIMU Technologies OÜ",
+    "fi": "Projektikysely laadittu TOIMU Technologies OÜ:n sivustolla"
+  },
+  "Project enquiry": {
+    "et": "Projektipäring",
+    "ru": "Заявка на проект",
+    "fi": "Projektikysely"
+  },
+  "TOIMU Technologies OÜ is an Estonian private limited company entered in the Estonian Commercial Register. Registry code: 17596572. Registered address: Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Estonia. Contact: hello@toimu.ee.": {
+    "et": "TOIMU Technologies OÜ on Eesti äriregistrisse kantud osaühing. Registrikood: 17596572. Aadress: Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Eesti. Kontakt: hello@toimu.ee.",
+    "ru": "TOIMU Technologies OÜ — эстонское общество с ограниченной ответственностью, зарегистрированное в Коммерческом регистре Эстонии. Регистрационный код: 17596572. Адрес: Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Estonia. Контакт: hello@toimu.ee.",
+    "fi": "TOIMU Technologies OÜ on Viron kaupparekisteriin merkitty osakeyhtiö. Rekisteritunnus: 17596572. Osoite: Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Viro. Yhteys: hello@toimu.ee."
+  },
+  "This website introduces web design, website redesign, online-store development and custom digital solutions. Scope, pricing, taxes, payment arrangements, delivery dates, intellectual-property rights and support are agreed in an individual written proposal or contract. No paid service is ordered through this website.": {
+    "et": "Veebileht tutvustab veebidisaini, veebilehtede uuendamist, e-poodide arendust ja digitaalseid erilahendusi. Töömaht, hind, maksud, maksed, tähtajad, intellektuaalomandi õigused ja tugi lepitakse kokku kirjalikus pakkumises või lepingus. Selle veebilehe kaudu tasulist teenust ei tellita.",
+    "ru": "Сайт представляет веб-дизайн, обновление сайтов, разработку интернет-магазинов и индивидуальных цифровых решений. Объём, цена, налоги, оплата, сроки, права интеллектуальной собственности и поддержка согласуются в письменном предложении или договоре. Платные услуги через этот сайт не заказываются.",
+    "fi": "Sivusto esittelee verkkosuunnittelua, sivustojen uudistamista, verkkokauppojen kehitystä ja räätälöityjä digiratkaisuja. Laajuus, hinta, verot, maksut, toimitusajat, immateriaalioikeudet ja tuki sovitaan kirjallisessa tarjouksessa tai sopimuksessa. Sivustolta ei tilata maksullisia palveluja."
+  },
+  "TOIMU is our own product. The barber, construction, store and restaurant websites are fictional demonstrations. Partner names and logos will be added only for confirmed collaborations with permission. A concept website is not evidence of a client relationship.": {
+    "et": "TOIMU on meie oma toode. Juuksuri, ehitusettevõtte, poe ja restorani veebilehed on väljamõeldud näited. Partnerite nimed ja logod lisatakse ainult kinnitatud koostöö korral ja loaga. Näidisveebileht ei tõenda kliendisuhet.",
+    "ru": "TOIMU — наш продукт. Сайты парикмахерской, строительной компании, магазина и ресторана — вымышленные демонстрации. Имена и логотипы партнёров добавляются только при подтверждённом сотрудничестве и с разрешения. Концепция сайта не подтверждает клиентские отношения.",
+    "fi": "TOIMU on oma tuotteemme. Parturin, rakennusyrityksen, kaupan ja ravintolan sivustot ovat kuvitteellisia demoja. Kumppanien nimet ja logot lisätään vain vahvistetun yhteistyön ja luvan perusteella. Konseptisivusto ei todista asiakassuhdetta."
+  },
+  "For enquiries, concerns or complaints, email hello@toimu.ee. Include enough information to identify the matter and the response you would like. We will review it and reply. Mandatory rights under applicable law remain unaffected.": {
+    "et": "Päringute, murede või kaebuste korral kirjuta aadressile hello@toimu.ee. Lisa piisavalt infot küsimuse ja soovitud lahenduse kohta. Vaatame selle üle ja vastame. Kohaldatavast õigusest tulenevad kohustuslikud õigused jäävad kehtima.",
+    "ru": "По вопросам, обращениям и жалобам пишите на hello@toimu.ee. Укажите достаточно данных, чтобы понять ситуацию и желаемый ответ. Мы рассмотрим обращение и ответим. Обязательные права по применимому законодательству сохраняются.",
+    "fi": "Kysymykset, huolenaiheet ja valitukset voi lähettää osoitteeseen hello@toimu.ee. Kerro riittävät tiedot asiasta ja toivomastasi vastauksesta. Käsittelemme asian ja vastaamme. Pakottavan lain mukaiset oikeudet säilyvät."
+  },
+  "Our consultation link opens a booking page hosted by Google Calendar. When you book, Google processes the details you provide under its own privacy policy and shares the appointment details with us to arrange your consultation. The calendar is not embedded and does not load on this website.": {
+    "et": "Konsultatsioonilink avab Google Calendari broneerimislehe. Broneerimisel töötleb Google sinu esitatud andmeid oma privaatsuspoliitika alusel ning jagab kohtumise andmeid meiega konsultatsiooni korraldamiseks. Kalender ei ole siia manustatud ega laadi sellel veebilehel.",
+    "ru": "Ссылка на консультацию открывает страницу бронирования Google Calendar. При записи Google обрабатывает предоставленные данные по своей политике конфиденциальности и передаёт нам сведения о встрече для её организации. Календарь не встроен и не загружается на этом сайте.",
+    "fi": "Tapaamislinkki avaa Google Calendarin varaussivun. Google käsittelee antamasi tiedot oman tietosuojakäytäntönsä mukaisesti ja jakaa tapaamistiedot kanssamme tapaamisen järjestämiseksi. Kalenteria ei ole upotettu eikä se lataudu tällä sivustolla."
+  },
+  "TOIMU Technologies OÜ, registry code 17596572, registered address Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Estonia, is responsible for personal information received in connection with this website and project enquiries. Contact hello@toimu.ee for privacy questions or to exercise your rights.": {
+    "et": "TOIMU Technologies OÜ, registrikood 17596572, aadress Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Eesti, vastutab veebilehe ja projektipäringutega seoses saadud isikuandmete eest. Privaatsusküsimuste või oma õiguste kasutamise korral kirjuta hello@toimu.ee.",
+    "ru": "TOIMU Technologies OÜ, регистрационный код 17596572, адрес Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Estonia, отвечает за персональные данные, полученные в связи с сайтом и заявками. По вопросам конфиденциальности и реализации прав пишите на hello@toimu.ee.",
+    "fi": "TOIMU Technologies OÜ, rekisteritunnus 17596572, osoite Saha tee 8-25, Loo alevik, Jõelähtme vald, Harju maakond, Viro, vastaa sivustoon ja projektikyselyihin liittyvistä henkilötiedoista. Tietosuojakysymyksissä ja oikeuksien käyttämiseksi ota yhteyttä: hello@toimu.ee."
+  },
+  "Your name, email, business details, preferences and project notes are processed in the current page to prepare a project brief. The wizard does not submit them to a server or save them in browser storage. Closing or reloading the page clears this state. A downloaded brief remains on your device until you delete it. Your browser may independently remember form entries according to its own settings.": {
+    "et": "Nime, e-posti, ettevõtte andmeid, eelistusi ja projektimärkmeid töödeldakse praegusel lehel projektikirjelduse koostamiseks. Vorm ei saada neid serverisse ega salvesta brauseri salvestusruumi. Lehe sulgemine või uuesti laadimine kustutab selle oleku. Allalaaditud kirjeldus jääb seadmesse, kuni selle kustutad. Brauser võib vormiandmeid oma seadete alusel eraldi meelde jätta.",
+    "ru": "Имя, почта, сведения о компании, пожелания и описание обрабатываются на текущей странице для подготовки заявки. Форма не отправляет их на сервер и не сохраняет в хранилище браузера. Закрытие или перезагрузка очищает эти данные. Скачанное описание остаётся на устройстве до удаления. Браузер может отдельно сохранять ввод согласно своим настройкам.",
+    "fi": "Nimi, sähköposti, yritystiedot, toiveet ja projektikuvaus käsitellään nykyisellä sivulla projektikuvauksen laatimiseksi. Lomake ei lähetä niitä palvelimelle eikä tallenna selaimen tallennustilaan. Sulkeminen tai lataaminen uudelleen tyhjentää tiedot. Ladattu kuvaus pysyy laitteellasi, kunnes poistat sen. Selain voi itsenäisesti muistaa lomaketietoja asetustensa mukaan."
+  },
+  "If you send the prepared enquiry, your email provider sends the message to our mailbox. We use the information you provide to respond, discuss the project and prepare a proposal. The legal basis is taking steps at your request before entering a contract (GDPR Article 6(1)(b)); for business representatives and general questions, our legitimate interest in handling business communications (Article 6(1)(f)). Necessary contract records may be kept to fulfil legal obligations (Article 6(1)(c)). No newsletter subscription is created by an enquiry.": {
+    "et": "Kui saadad koostatud päringu, edastab sinu e-posti teenusepakkuja kirja meie postkasti. Kasutame andmeid vastamiseks, projekti arutamiseks ja pakkumise koostamiseks. Õiguslik alus on sinu taotlusel lepingueelsete sammude tegemine (GDPR artikkel 6(1)(b)); ettevõtete esindajate ja üldküsimuste puhul õigustatud huvi ärisuhtluse korraldamiseks (6(1)(f)). Vajalikke lepingudokumente võib säilitada juriidilise kohustuse täitmiseks (6(1)(c)). Päring ei loo uudiskirja tellimust.",
+    "ru": "При отправке заявки ваш почтовый сервис доставляет письмо в наш ящик. Данные используются для ответа, обсуждения проекта и предложения. Основание — действия по вашему запросу до заключения договора (GDPR 6(1)(b)); для представителей компаний и общих вопросов — законный интерес в деловой переписке (6(1)(f)). Необходимые договорные документы могут храниться для исполнения правовых обязанностей (6(1)(c)). Заявка не подписывает вас на рассылку.",
+    "fi": "Kun lähetät kyselyn, sähköpostipalvelusi toimittaa viestin postilaatikkoomme. Käytämme tietoja vastaamiseen, projektista keskustelemiseen ja tarjouksen laatimiseen. Perusteena ovat pyytämäsi toimet ennen sopimusta (GDPR 6(1)(b)); yritysten edustajien ja yleisten kysymysten osalta oikeutettu etu liiketoimintaviestintään (6(1)(f)). Tarvittavia sopimustietoja voidaan säilyttää lakisääteisten velvoitteiden vuoksi (6(1)(c)). Kysely ei tilaa uutiskirjettä."
+  },
+  "Appointments, quote requests, orders and reservations are examples. Use fictional details. They are processed in page memory only and are not sent to real businesses, email services, booking providers or payment processors. Barber demo bookings can appear in the sample dashboard during the same page session. Reloading the page resets them. No card information is requested.": {
+    "et": "Ajad, hinnapäringud, tellimused ja broneeringud on näited. Kasuta väljamõeldud andmeid. Neid töödeldakse ainult lehe mälus ega saadeta päris ettevõtetele, e-posti-, broneerimis- või makseteenustele. Juuksuri demo broneering võib ilmuda sama lehesessiooni näidishalduspaneelis. Lehe uuesti laadimine lähtestab demod. Kaardiandmeid ei küsita.",
+    "ru": "Записи, заявки, заказы и бронирования — примеры. Используйте вымышленные данные. Они обрабатываются только в памяти страницы и не отправляются реальным компаниям, почтовым, платёжным или сервисам бронирования. Запись в демо парикмахерской может появиться в демо-панели в той же сессии. Перезагрузка сбрасывает демо. Данные карты не запрашиваются.",
+    "fi": "Ajat, tarjouspyynnöt, tilaukset ja varaukset ovat esimerkkejä. Käytä kuvitteellisia tietoja. Ne käsitellään vain sivun muistissa eikä niitä lähetetä oikeille yrityksille, sähköposti-, varaus- tai maksupalveluille. Parturidemon varaukset voivat näkyä esimerkkihallinnassa saman istunnon aikana. Uudelleenlataus nollaa demot. Korttitietoja ei pyydetä."
+  },
+  "Delivering a website necessarily involves technical connection information such as an IP address, request time and browser information. The hosting or network provider may process connection and security logs. Hosting, email and professional service providers may act as processors or independent controllers according to their role; information is shared only where needed to deliver the site, respond to a request or fulfil legal obligations. This website code does not load analytics or advertising services.": {
+    "et": "Veebilehe edastamisel töödeldakse tehnilist ühendusinfot, näiteks IP-aadressi, päringu aega ja brauseri andmeid. Majutus- või võrguteenuse pakkuja võib töödelda ühendus- ja turvalogisid. Majutuse, e-posti ja professionaalsete teenuste pakkujad võivad olla volitatud või iseseisvad vastutavad töötlejad. Andmeid jagatakse vaid veebilehe edastamiseks, päringule vastamiseks või juriidiliste kohustuste täitmiseks vajalikus ulatuses. Veebilehe kood ei laadi analüütika- ega reklaamiteenuseid.",
+    "ru": "Работа сайта требует технических сведений: IP-адреса, времени запроса и данных браузера. Хостинг или сетевой провайдер может обрабатывать журналы соединений и безопасности. Поставщики хостинга, почты и профессиональных услуг могут выступать обработчиками или самостоятельными операторами. Данные передаются только при необходимости для работы сайта, ответа или исполнения правовых обязанностей. Код сайта не загружает аналитику или рекламные сервисы.",
+    "fi": "Sivuston toimittaminen edellyttää teknisiä yhteystietoja, kuten IP-osoitetta, pyynnön aikaa ja selaintietoja. Hosting- tai verkkopalvelu voi käsitellä yhteys- ja turvallisuuslokeja. Hosting-, sähköposti- ja asiantuntijapalvelut voivat toimia käsittelijöinä tai itsenäisinä rekisterinpitäjinä. Tietoja jaetaan vain sivuston toimittamiseen, vastauksiin tai lakisääteisiin velvoitteisiin tarvittaessa. Sivuston koodi ei lataa analytiikka- tai mainospalveluja."
+  },
+  "Page-memory information is cleared on reload or when the relevant demo is reset. Enquiry emails are retained for as long as necessary to answer and follow up on your request. If an enquiry becomes a project, relevant records are kept for the contract and applicable statutory periods. Records needed for a dispute are retained only for the period necessary to handle it. The hosting provider controls any technical-log retention; contact us for the deployment-specific information.": {
+    "et": "Lehe mälus olevad andmed kustuvad uuesti laadimisel või vastava demo lähtestamisel. Päringukirju säilitatakse vastamiseks ja järeltegevusteks vajaliku aja jooksul. Projektiks muutunud päringu dokumente säilitatakse lepingu ja seadusest tulenevate tähtaegade järgi. Vaidluseks vajalikke dokumente hoitakse ainult selle lahendamiseks vajaliku aja. Tehniliste logide säilitamist kontrollib majutusteenuse pakkuja; konkreetse avaldamiskeskkonna info saamiseks võta ühendust.",
+    "ru": "Данные в памяти страницы удаляются при перезагрузке или сбросе демо. Письма хранятся столько, сколько нужно для ответа и дальнейшего обсуждения. Если заявка становится проектом, документы хранятся согласно договору и установленным законом срокам. Для споров — только необходимый период. Срок хранения технических журналов определяет хостинг; уточнения о конкретном размещении можно получить у нас.",
+    "fi": "Sivun muistissa olevat tiedot tyhjennetään uudelleenlatauksessa tai demon nollauksessa. Kyselyviestejä säilytetään vastaamiseen ja seurantaan tarvittavan ajan. Projektiksi muuttuneen kyselyn tiedot säilytetään sopimuksen ja lakisääteisten aikojen mukaisesti. Riitatietoja säilytetään vain asian hoitamiseen tarvittava aika. Hosting-palvelu määrää teknisten lokien säilytysajan; kysy meiltä julkaisuympäristön tiedot."
+  },
+  "Email or hosting suppliers may operate in different countries. Where processing outside the EEA is involved, GDPR transfer requirements must be met through an applicable adequacy decision or appropriate safeguards, such as standard contractual clauses. You can request information about the suppliers and safeguards relevant to your enquiry by contacting us.": {
+    "et": "E-posti- või majutusteenuse pakkujad võivad tegutseda eri riikides. Väljaspool EMP-d töötlemisel tuleb täita GDPR-i andmeedastuse nõudeid, kasutades asjakohast kaitse piisavuse otsust või kaitsemeetmeid, näiteks lepingu tüüptingimusi. Päringuga seotud teenusepakkujate ja kaitsemeetmete infot saab küsida meilt.",
+    "ru": "Почтовые и хостинг-провайдеры могут работать в разных странах. При обработке за пределами ЕЭЗ должны соблюдаться требования GDPR к передаче данных: решение об адекватности защиты или подходящие гарантии, например стандартные договорные положения. Информацию о поставщиках и гарантиях для вашей заявки можно запросить у нас.",
+    "fi": "Sähköposti- ja hosting-palvelut voivat toimia eri maissa. ETA:n ulkopuoliseen käsittelyyn sovelletaan GDPR:n siirtovaatimuksia: tietosuojan riittävyyspäätöstä tai asianmukaisia suojatoimia, kuten vakiolausekkeita. Voit pyytää tietoja kyselyysi liittyvistä palveluista ja suojatoimista."
+  },
+  "Where applicable, you may request access, correction, deletion, restriction or portability of your data, and object to processing based on legitimate interests. If processing relies on consent, you may withdraw it without affecting earlier lawful processing. We may need to confirm your identity and consider legal retention duties. You can complain to the Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon), www.aki.ee, or another competent supervisory authority.": {
+    "et": "Kohaldatavatel juhtudel võid taotleda andmetele juurdepääsu, parandamist, kustutamist, töötlemise piiramist või ülekandmist ning vaidlustada õigustatud huvil põhineva töötlemise. Nõusolekul põhineva töötlemise puhul võid nõusoleku tagasi võtta, mõjutamata varasema töötlemise õiguspärasust. Võime vajada isiku tuvastamist ja arvestada seaduslike säilitamiskohustustega. Kaebuse saab esitada Andmekaitse Inspektsioonile (www.aki.ee) või muule pädevale järelevalveasutusele.",
+    "ru": "В применимых случаях вы можете запросить доступ, исправление, удаление, ограничение или перенос данных и возразить против обработки на основании законного интереса. Если основанием является согласие, его можно отозвать без влияния на законность прежней обработки. Может потребоваться проверка личности и учёт обязательных сроков хранения. Жалобу можно подать в Инспекцию по защите данных Эстонии (Andmekaitse Inspektsioon, www.aki.ee) или другой компетентный орган.",
+    "fi": "Soveltuvissa tapauksissa voit pyytää pääsyä tietoihin, oikaisua, poistamista, rajoittamista tai siirtoa ja vastustaa oikeutettuun etuun perustuvaa käsittelyä. Suostumuksen voi perua vaikuttamatta aiemman käsittelyn lainmukaisuuteen. Voimme joutua varmistamaan henkilöllisyyden ja huomioimaan lakisääteiset säilytysvelvoitteet. Voit valittaa Viron tietosuojaviranomaiselle (Andmekaitse Inspektsioon, www.aki.ee) tai muulle toimivaltaiselle viranomaiselle."
+  },
+  "The name, email and project notes requested by the wizard are needed to prepare a useful enquiry; you can instead email us directly. Do not include sensitive information in the demos or initial brief. There is no automated decision-making with legal or similarly significant effects. This notice may be updated when the website or its services change.": {
+    "et": "Nimi, e-post ja projektimärkmed on vajalikud kasuliku päringu koostamiseks; võid ka otse e-kirja saata. Ära lisa demodesse või esialgsesse kirjeldusse tundlikke andmeid. Õigusliku või muu sarnase olulise mõjuga automatiseeritud otsuseid ei tehta. Teadet võidakse uuendada, kui veebileht või teenused muutuvad.",
+    "ru": "Имя, почта и описание нужны для полезной заявки; вместо формы можно написать напрямую. Не включайте чувствительные данные в демо и первоначальное описание. Автоматизированные решения с юридическими или сопоставимыми значимыми последствиями не принимаются. Уведомление может обновляться при изменении сайта или услуг.",
+    "fi": "Nimi, sähköposti ja projektikuvaus tarvitaan hyödylliseen kyselyyn; voit myös kirjoittaa suoraan. Älä lisää arkaluonteisia tietoja demoihin tai alustavaan kuvaukseen. Oikeudellisia tai vastaavia merkittäviä vaikutuksia aiheuttavaa automatisoitua päätöksentekoa ei ole. Selostetta voidaan päivittää sivuston tai palvelujen muuttuessa."
+  },
+  "The shopping bag, booking details, sample dashboard and enquiry wizard use temporary JavaScript state in the current page. This is not a cookie or persistent browser storage. Reloading the page resets that information. Your browser may still cache public assets or remember form values under its own settings.": {
+    "et": "Ostukorv, broneerimisandmed, näidishalduspaneel ja päringuvorm kasutavad praeguse lehe ajutist JavaScripti olekut. See pole küpsis ega püsiv brauserisalvestus. Uuesti laadimine lähtestab need andmed. Brauser võib siiski avalikke faile vahemällu salvestada või vormiväärtusi oma seadete järgi meelde jätta.",
+    "ru": "Корзина, бронирования, демо-панель и заявка используют временное состояние JavaScript на текущей странице. Это не cookie и не постоянное хранилище. Перезагрузка сбрасывает эти данные. Браузер может кэшировать публичные файлы и помнить поля согласно своим настройкам.",
+    "fi": "Ostoskori, varaustiedot, esimerkkihallinta ja kysely käyttävät nykyisen sivun tilapäistä JavaScript-tilaa. Se ei ole eväste eikä pysyvää selaintallennusta. Uudelleenlataus nollaa tiedot. Selain voi silti välimuistittaa julkisia tiedostoja tai muistaa lomakearvoja asetustensa mukaan."
+  },
+  "A hosting or security provider may have separate technical measures, including necessary security cookies. Those depend on the final deployment and must be reviewed before publication. Following a link to TOIMU, the company register, a partner or your email app takes you to a separate service with its own privacy and cookie rules. Those sites are not loaded as embedded content here.": {
+    "et": "Majutus- või turvateenuse pakkujal võivad olla eraldi tehnilised meetmed, sealhulgas vajalikud turvaküpsised. Need sõltuvad avaldamiskeskkonnast ja vajavad enne avaldamist ülevaatust. Lingid TOIMU-le, äriregistrile, partnerile, Google Calendarile või e-posti rakendusele viivad eraldi teenustesse nende oma privaatsus- ja küpsisereeglitega. Need teenused pole siin manustatud.",
+    "ru": "Хостинг или защитный сервис может применять собственные технические меры, включая необходимые защитные cookie. Они зависят от размещения и требуют проверки перед публикацией. Ссылки на TOIMU, регистр, партнёра, Google Calendar или почту ведут к отдельным сервисам с собственными правилами конфиденциальности и cookie. Эти сервисы здесь не встроены.",
+    "fi": "Hosting- tai turvallisuuspalvelu voi käyttää omia teknisiä toimiaan, kuten tarpeellisia turvallisuusevästeitä. Ne riippuvat julkaisuympäristöstä ja on tarkistettava ennen julkaisua. Linkit TOIMUun, rekisteriin, kumppanille, Google Calendariin tai sähköpostiin vievät erillisiin palveluihin, joilla on omat tietosuoja- ja evästesääntönsä. Palveluja ei ole upotettu tänne."
+  },
+  "Before adding consent-requiring analytics, advertising or third-party embeds, we will update this notice and implement controls that prevent them from loading until you opt in. Any such controls must provide a refusal choice and a way to withdraw or change consent.": {
+    "et": "Enne nõusolekut vajava analüütika, reklaami või välise sisu lisamist uuendame teadet ja rakendame valikuid, mis takistavad nende laadimist kuni nõustumiseni. Valikud peavad võimaldama keeldumist ning nõusoleku muutmist või tagasivõtmist.",
+    "ru": "До добавления аналитики, рекламы или встроенных сервисов, требующих согласия, мы обновим уведомление и введём управление, блокирующее загрузку до согласия. Должны быть доступны отказ, изменение и отзыв согласия.",
+    "fi": "Ennen suostumusta vaativan analytiikan, mainonnan tai upotusten lisäämistä päivitämme selosteen ja estämme lataamisen hyväksyntään asti. Valintojen on mahdollistettava kieltäytyminen sekä suostumuksen muuttaminen tai peruminen."
+  },
+  "For questions about this website’s use of cookies and browser data, contact hello@toimu.ee.": {
+    "et": "Küpsiste ja brauseriandmete kasutamise küsimustes kirjuta hello@toimu.ee.",
+    "ru": "По вопросам использования cookie и данных браузера пишите на hello@toimu.ee.",
+    "fi": "Evästeisiin ja selaintietoihin liittyvissä kysymyksissä ota yhteyttä: hello@toimu.ee."
+  },
+  "This portfolio and services website is operated by TOIMU Technologies OÜ, registry code 17596572. It provides information about our work and ways to start a conversation. These terms concern use of this website; service contracts are agreed separately.": {
+    "et": "Portfoolio- ja teenuste veebilehte haldab TOIMU Technologies OÜ, registrikood 17596572. Siin tutvustatakse meie töid ja kontaktivõimalusi. Need tingimused puudutavad veebilehe kasutamist; teenuselepingud lepitakse eraldi kokku.",
+    "ru": "Сайтом портфолио и услуг управляет TOIMU Technologies OÜ, регистрационный код 17596572. Он представляет наши работы и способы связи. Эти условия регулируют использование сайта; договоры на услуги заключаются отдельно.",
+    "fi": "Portfolio- ja palvelusivustoa ylläpitää TOIMU Technologies OÜ, rekisteritunnus 17596572. Se esittelee työmme ja yhteydenottotavat. Nämä ehdot koskevat sivuston käyttöä; palvelusopimukset sovitaan erikseen."
+  },
+  "Preparing a brief, sending an email or viewing a service package does not create a paid order or a confirmed project. Deliverables, price, taxes, schedule, payment, cancellation, support and ownership terms must be agreed before work starts. Package descriptions are starting points for discussion.": {
+    "et": "Kirjelduse koostamine, e-kirja saatmine või teenusepaketi vaatamine ei loo tasulist tellimust ega kinnitatud projekti. Tulemused, hind, maksud, ajakava, maksed, tühistamine, tugi ja omand tuleb enne töö algust kokku leppida. Pakettide kirjeldused on arutelu alguspunktid.",
+    "ru": "Подготовка описания, письмо или просмотр пакета не создают платного заказа или подтверждённого проекта. Результаты, цена, налоги, сроки, оплата, отмена, поддержка и права согласуются до начала работ. Описания пакетов — отправная точка для обсуждения.",
+    "fi": "Kuvauksen laatiminen, sähköposti tai palvelupaketin katselu ei luo maksullista tilausta tai vahvistettua projektia. Tuotokset, hinta, verot, aikataulu, maksut, peruutus, tuki ja omistus sovitaan ennen aloitusta. Pakettikuvaukset ovat keskustelun lähtökohtia."
+  },
+  "The fictional business demos do not create real bookings, orders, reservations or quote requests. Product prices, service prices and calculator rates are invented examples. No payment is collected and no goods are shipped. Do not use demo calculations as commercial quotations. Use fictional details when testing the demos.": {
+    "et": "Väljamõeldud ettevõtete demod ei loo päris broneeringuid, tellimusi, reserveeringuid ega hinnapäringuid. Toodete, teenuste ja kalkulaatori hinnad on väljamõeldud näited. Raha ei võeta ja kaupa ei saadeta. Ära kasuta demoarvutusi äripakkumistena. Testimisel kasuta väljamõeldud andmeid.",
+    "ru": "Демо вымышленных компаний не создают реальных записей, заказов, бронирований или заявок. Цены товаров, услуг и калькулятора придуманы для примера. Оплата не взимается и товары не отправляются. Расчёты демо не являются коммерческими предложениями. Используйте вымышленные данные.",
+    "fi": "Kuvitteelliset yritysdemot eivät tee oikeita varauksia, tilauksia tai tarjouspyyntöjä. Tuote-, palvelu- ja laskurihinnat ovat keksittyjä esimerkkejä. Maksuja ei kerätä eikä tavaroita lähetetä. Älä käytä demolaskelmia kaupallisina tarjouksina. Käytä testauksessa kuvitteellisia tietoja."
+  },
+  "Website design, text and other material may be protected by intellectual-property rights. You may view the site and download your prepared project brief. Reuse of our designs or content requires permission unless otherwise permitted by law or an applicable licence. Third-party assets and partner marks retain their respective ownership and licence conditions.": {
+    "et": "Kujundus, tekstid ja muu materjal võivad olla kaitstud intellektuaalomandi õigustega. Võid veebilehte vaadata ja enda projektikirjelduse alla laadida. Meie kujunduse või sisu taaskasutamine vajab luba, välja arvatud seaduses või litsentsis lubatud juhtudel. Kolmandate osapoolte materjalide ja partnerimärkide omand ning litsentsitingimused jäävad nende omanikele.",
+    "ru": "Дизайн, тексты и материалы могут охраняться правами интеллектуальной собственности. Можно просматривать сайт и скачивать своё описание проекта. Повторное использование дизайна или контента требует разрешения, кроме случаев, допускаемых законом или лицензией. Сторонние материалы и знаки сохраняют права владельцев и условия лицензий.",
+    "fi": "Ulkoasu, tekstit ja muu materiaali voivat olla immateriaalioikeuksien suojaamia. Voit katsella sivustoa ja ladata oman projektikuvauksesi. Suunnitelmien tai sisällön uudelleenkäyttö vaatii luvan, ellei laki tai lisenssi salli sitä. Kolmansien osapuolten aineistot ja kumppanimerkit säilyttävät omat omistus- ja lisenssiehtonsa."
+  },
+  "Do not interfere with the website, attempt unauthorised access or use the forms to send unlawful or abusive content. External links are provided for convenience; the linked services operate under their own terms and privacy policies.": {
+    "et": "Ära häiri veebilehte, proovi loata ligipääsu ega saada vormidega õigusvastast või solvavat sisu. Välislingid on mugavuseks; seotud teenustel on oma tingimused ja privaatsuspoliitikad.",
+    "ru": "Не нарушайте работу сайта, не пытайтесь получить несанкционированный доступ и не отправляйте незаконный или оскорбительный контент. Внешние ссылки даны для удобства; сервисы работают по собственным условиям и политикам конфиденциальности.",
+    "fi": "Älä häiritse sivustoa, yritä luvatonta pääsyä tai käytä lomakkeita laittomaan tai loukkaavaan sisältöön. Ulkoiset linkit ovat avuksi; palveluilla on omat ehtonsa ja tietosuojakäytäntönsä."
+  },
+  "We aim to keep information accurate and may update the website and demos. Availability and information can change. These terms do not exclude rights, remedies or liabilities that cannot lawfully be excluded. Any binding service commitments are stated in the applicable project agreement.": {
+    "et": "Püüame hoida info täpse ning võime veebilehte ja demosid uuendada. Saadavus ja info võivad muutuda. Tingimused ei välista õigusi, õiguskaitsevahendeid või vastutust, mida ei saa seaduslikult välistada. Siduvad teenusekohustused määratakse projektilepingus.",
+    "ru": "Мы стремимся поддерживать точность информации и можем обновлять сайт и демо. Доступность и сведения могут меняться. Условия не исключают права, средства защиты или ответственность, которые нельзя исключить по закону. Обязательства по услугам определяются договором проекта.",
+    "fi": "Pyrimme pitämään tiedot oikeina ja voimme päivittää sivustoa ja demoja. Saatavuus ja tiedot voivat muuttua. Ehdot eivät sulje pois oikeuksia, oikeussuojakeinoja tai vastuita, joita ei voi lain mukaan poistaa. Sitovat palveluvelvoitteet määritellään projektisopimuksessa."
+  },
+  "Contact hello@toimu.ee with questions or concerns. Estonian law applies subject to any mandatory protections and jurisdiction rules that apply to you. Nothing here restricts statutory consumer rights where they apply.": {
+    "et": "Küsimuste või murede korral kirjuta hello@toimu.ee. Kohaldub Eesti õigus, arvestades sinu suhtes kehtivaid kohustuslikke kaitse- ja kohtualluvusreegleid. Tingimused ei piira kohaldatavaid seaduslikke tarbijaõigusi.",
+    "ru": "По вопросам пишите на hello@toimu.ee. Применяется право Эстонии с учётом обязательных гарантий и правил подсудности, действующих для вас. Законные права потребителей, когда они применимы, не ограничиваются.",
+    "fi": "Kysymyksissä ota yhteyttä: hello@toimu.ee. Sovelletaan Viron lakia huomioiden sinua koskevat pakottavat suojat ja toimivaltasäännöt. Soveltuvia lakisääteisiä kuluttajaoikeuksia ei rajoiteta."
+  },
+  "The website application does not set cookies. It stores only your chosen language code under toimu-language in localStorage, never enquiry details. It does not use sessionStorage, analytics, advertising pixels or embedded third-party widgets. Images and other assets are served as part of the website. This version has no optional tracking to accept or reject.": {
+    "et": "Veebirakendus ei sea küpsiseid. Keelevaliku meeldejätmiseks kasutame localStorage'i võtit toimu-language. Seal hoitakse ainult keelekoodi, mitte päringuandmeid. sessionStorage'i ei kasutata. Analüütikat, reklaamipiksleid ega kolmandate osapoolte vidinaid pole manustatud. Pildid ja muud failid edastatakse veebilehe osana. Sellel versioonil pole valikulist jälgimist, millega nõustuda või millest keelduda.",
+    "ru": "Приложение не устанавливает cookie. Для запоминания языка используется ключ toimu-language в localStorage. Он хранит только код языка, а не данные заявки. sessionStorage не используется. Аналитика, рекламные пиксели и сторонние виджеты не встроены. Изображения и файлы доставляются как часть сайта. В этой версии нет необязательного отслеживания, которое нужно принять или отклонить.",
+    "fi": "Sovellus ei aseta evästeitä. Kielivalinnan muistamiseen käytetään localStorage-avainta toimu-language. Se tallentaa vain kielikoodin, ei kyselytietoja. sessionStoragea ei käytetä. Sivustolla ei ole analytiikkaa, mainospikseleitä tai upotettuja kolmansien osapuolten widgettejä. Kuvat ja tiedostot toimitetaan sivuston osana. Tässä versiossa ei ole valinnaista seurantaa hyväksyttäväksi tai hylättäväksi."
+  }
+}
