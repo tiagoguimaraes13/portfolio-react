@@ -1643,5 +1643,10 @@
     "et": "Veebirakendus ei sea küpsiseid. Keelevaliku meeldejätmiseks kasutame localStorage'i võtit toimu-language. Seal hoitakse ainult keelekoodi, mitte päringuandmeid. sessionStorage'i ei kasutata. Analüütikat, reklaamipiksleid ega kolmandate osapoolte vidinaid pole manustatud. Pildid ja muud failid edastatakse veebilehe osana. Sellel versioonil pole valikulist jälgimist, millega nõustuda või millest keelduda.",
     "ru": "Приложение не устанавливает cookie. Для запоминания языка используется ключ toimu-language в localStorage. Он хранит только код языка, а не данные заявки. sessionStorage не используется. Аналитика, рекламные пиксели и сторонние виджеты не встроены. Изображения и файлы доставляются как часть сайта. В этой версии нет необязательного отслеживания, которое нужно принять или отклонить.",
     "fi": "Sovellus ei aseta evästeitä. Kielivalinnan muistamiseen käytetään localStorage-avainta toimu-language. Se tallentaa vain kielikoodin, ei kyselytietoja. sessionStoragea ei käytetä. Sivustolla ei ole analytiikkaa, mainospikseleitä tai upotettuja kolmansien osapuolten widgettejä. Kuvat ja tiedostot toimitetaan sivuston osana. Tässä versiossa ei ole valinnaista seurantaa hyväksyttäväksi tai hylättäväksi."
+  },
+  "Explore the demos in your preferred language.": {
+    "et": "Tutvu demodega oma eelistatud keeles.",
+    "ru": "Посмотрите демо на удобном вам языке.",
+    "fi": "Tutustu demoihin haluamallasi kielellä."
   }
 }

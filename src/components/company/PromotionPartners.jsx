@@ -32,7 +32,7 @@ export function DemoPromotion() {
   );
 }
 export function PartnerShowcase() {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
   const [paused, setPaused] = useState(false);
   return (
     <section id="partners" className="section company-partners">
@@ -67,7 +67,7 @@ export function PartnerShowcase() {
               {[ownProduct, ...demonstrations].map((demo) => (
                 <a
                   key={demo.name}
-                  href={demo.website}
+                  href={demo === ownProduct ? demo.website : `${demo.website}?lang=${language}`}
                   target="_blank"
                   rel="noreferrer"
                   className="company-logo-card"
