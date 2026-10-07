@@ -9,14 +9,14 @@ const projects = [
     description: "A React-based platform for TG Web Design, featuring a portfolio, services, and contact form. Showcasing responsive design and modern web development.",
     getImageSrc: () => require("../assets/img8.png"),
     type: "React Projects",
-    websiteUrl: "http://tgwebdesign.netlify.app",
+    websiteUrl: "https://t-gwebdesign.vercel.app",
   },
   {
     title: "OKOA Gallery v2.0",
     description: "A React-powered online art gallery with dynamic galleries, responsive design, and seamless navigation, showcasing modern web development skills.",
     getImageSrc: () => require("../assets/img1.png"),
     type: "React Projects",
-    websiteUrl: "http://okoagallery.netlify.app",
+    websiteUrl: "https://oko-areact.vercel.app",
   },
   {
     title: "Little Lemon Restaurant",
@@ -44,21 +44,21 @@ const projects = [
     description: "A React-based platform for a online baby clothes shop based in Portugal.",
     getImageSrc: () => require("../assets/img3.png"),
     type: "React Projects",
-    websiteUrl: "https://bcocoon.netlify.app/",
+    websiteUrl: "https://b-cocoon.vercel.app/",
   },
   {
     title: "MiguelAM Transportes",
     description: "A React-based platform to a small logistics company.",
     getImageSrc: () => require("../assets/img6.png"),
     type: "React Projects",
-    websiteUrl: "https://miguelamtransportes.netlify.app/",
+    websiteUrl: "https://miguel-am.vercel.app/",
   },
   {
     title: "CardosoSarl Landscapes",
     description: "A React-based platform to a landscaping company.",
     getImageSrc: () => require("../assets/img7.png"),
     type: "React Projects",
-    websiteUrl: "https://cardososarl.netlify.app/",
+    websiteUrl: "https://cardoso-sarl.vercel.app/",
   },
 ];
 
